@@ -11,7 +11,7 @@ faq:
   - question: 'マイルドカルディは、どんな抽出方法に向いていますか？'
     answer: '中煎りでバランスが取れているため、ペーパードリップ、フレンチプレス、コーヒーメーカーなど、ほとんどの抽出方法で美味しく淹れられます。好みに合わせて、お湯の温度や挽き目を微調整すると良いでしょう。'
   - question: '粉で購入するのと、豆で購入して自分で挽くのとではどちらが良いですか？'
-    answer: '鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し淹れる直前に挽くのがおすすめです。挽きたての香りは格別ですが、手軽さを優先するなら粉でも十分満足できるでしょう。'
+    answer: '鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し淹れる直前に挽くのが適している。挽きたての香りは格別ですが、手軽さを優先するなら粉でも十分満足できるでしょう。'
   - question: '他のカルディのブレンド豆と比べて、マイルドカルディはどのような位置づけですか？'
     answer: 'マイルドカルディは、カルディのブレンドの中でも最も「標準的」で「バランスの取れた」味わいが特徴です。酸味や苦味が控えめで飲みやすいため、他のブレンドを試す際の基準としても最適です。'
 sidebarProducts:
@@ -41,10 +41,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00tvsr1.ve2q53d5.g00tvsr1.ve2q640a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalman%2Fkaldi0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalman%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tvsr1.ve2q53d5.g00tvsr1.ve2q640a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalman%2Fkaldi0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalman%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -55,7 +55,7 @@ sidebarProducts:
 
 ## 毎日のコーヒー選びに迷うあなたへ、マイルドカルディの答え
 
-自宅でコーヒーを淹れる日々は、豆選びから始まる。しかし、その膨大な選択肢の中で「今日の1杯」を決めるのは、時に悩ましい瞬間ではないだろうか。
+自宅でコーヒーを淹れる日々は、豆選びから始まる。しかし、その膨大な選択肢の中で「今日の1杯」を決めるのは、時に悩ましい瞬間だと言える。
 
 様々な個性を持つ豆を試すのも楽しいが、毎日の安定した美味しさを求めるなら、カルディコーヒーファームのカルディコーヒーファーム マイルドカルディは非常に優れた選択肢となる。
 
@@ -65,7 +65,7 @@ sidebarProducts:
 
 カルディコーヒーファーム マイルドカルディが多くの支持を集める理由は、その風味設計にある。ブラジル産コーヒー豆をベースとした中煎りという焙煎度は、酸味と苦味の尖りを丸め、深みのあるコクを引き出すのに最適だ。
 
-私自身、様々なシングルオリジンを試してきたが、このマイルドカルディほど安定して美味しいと感じる豆は多くない。中煎りは、豆本来の風味を損なわずに、適度な甘みと香ばしさを引き出してくれる。
+マイルドカルディは、多くのシングルオリジンと比較しても安定した風味を持つ豆である。中煎りは、豆本来の風味を保持しつつ、適度な甘みと香ばしさを引き出す。
 
 深煎りのような重厚さや、浅煎りのような華やかな酸味ではないが、その中間点にあるからこそ、どんな抽出方法でも破綻しにくいのだ。
 
@@ -83,7 +83,7 @@ sidebarProducts:
 
 忙しい朝、複雑な豆の個性を探る余裕はない。そんな時、マイルドカルディは頼りになる存在だ。
 
-計量して挽き、いつものようにドリップするだけで、期待通りのコクと香りがカップに広がる。抽出に神経質になる必要がなく、気軽に日常に上質な一杯を取り入れられる手軽さは、まさにオフィスワーカーの私にとっての「救世主」と言える。
+計量して挽き、いつものようにドリップするだけで、期待通りのコクと香りがカップに広がる。抽出に神経質になる必要がなく、気軽に日常に上質な一杯を取り入れられる手軽さは、オフィスワーカーに適している。
 
 ### 商品スペック
 | 項目 | 詳細 |
@@ -97,11 +97,11 @@ sidebarProducts:
 
 マイルドカルディがロングセラーとなっているのは、初心者向けの「入り口」というだけではない。長年コーヒーを愛飲しているベテラン層にも、その安定した味わいは高く評価されている。特定の豆に熱中する期間があっても、結局ここに戻ってくるという声をよく耳にするのだ。
 
-私自身も、休日には色々な産地の豆を試すが、平日の朝や集中したい仕事中は、結局このマイルドカルディを選ぶことが多い。一口飲むと、舌触りの良いマイルドな口当たりと、喉の奥に広がる豊かなコクが心を落ち着かせてくれる。
+休日には様々な産地の豆を試す場合でも、平日の朝や集中を要する仕事中には、マイルドカルディが選択される傾向がある。一口飲むと、舌触りの良いマイルドな口当たりと、喉の奥に広がる豊かなコクが心を落ち着かせてくれる。
 
 後味もクリアで、変な雑味や不快な苦味が残らないため、どんな食事にも合わせやすい。
 
-同価格帯のスーパーで手に入るブレンド豆と比較しても、カルディの焙煎技術とブレンドの妙が光る。粉で買っても、豆で買って自分で挽いても、その品質の差は歴然だ。私にとって、これは単なる「安いコーヒー」ではなく、安心して選べる「頼れる定番」という位置づけである。
+同価格帯のスーパーで手に入るブレンド豆と比較しても、カルディの焙煎技術とブレンドの妙が光る。粉で買っても、豆で買って自分で挽いても、その品質の差は歴然だ。これは単なる「安価なコーヒー」ではなく、安心して選択できる「定番」として位置づけられる。
 
 ## 個性を求めるなら別の選択肢も、マイルドカルディの割り切りポイント
 
@@ -126,7 +126,8 @@ sidebarProducts:
 A1: 中煎りでバランスが取れているため、ペーパードリップ、フレンチプレス、コーヒーメーカーなど、ほとんどの抽出方法で美味しく淹れられます。好みに合わせて、お湯の温度や挽き目を微調整すると良いでしょう。
 
 <strong>Q2: 粉で購入するのと、豆で購入して自分で挽くのとではどちらが良いですか？</strong>
-A2: 鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し淹れる直前に挽くのがおすすめです。挽きたての香りは格別ですが、手軽さを優先するなら粉でも十分満足できるでしょう。
+A2: 鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し淹れる直前に挽くのが適している。挽きたての香りは格別ですが、手軽さを優先するなら粉でも十分満足できるでしょう。
 
 <strong>Q3: 他のカルディのブレンド豆と比べて、マイルドカルディはどのような位置づけですか？</strong>
 A3: マイルドカルディは、カルディのブレンドの中でも最も「標準的」で「バランスの取れた」味わいが特徴です。酸味や苦味が控えめで飲みやすいため、他のブレンドを試す際の基準としても最適です。
+

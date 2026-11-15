@@ -15,7 +15,7 @@ faq:
   - question: '水出しコーヒーはカフェインが少ないって本当？'
     answer: 'はい、一般的に水出しコーヒーは熱湯で抽出するコーヒーに比べてカフェイン量が少ない傾向があると言われている。カフェインは水溶性だが、温度が高いほど溶け出しやすい性質を持つため、低温で抽出する水出しコーヒーではその抽出が抑えられる。カフェイン摂取量を気にしている人には嬉しいポイントだろう。'
   - question: '作った水出しコーヒーはどれくらい日持ちする？'
-    answer: '冷蔵庫で適切に保存すれば、作った水出しコーヒーは3〜5日程度は美味しく飲める。ただし、空気に触れると酸化が進むため、密閉できる容器に入れ、できるだけ早く飲み切るのがおすすめだ。雑菌の繁殖を防ぐためにも、清潔な容器を使うことが重要となる。'
+    answer: '冷蔵庫で適切に保存すれば、作った水出しコーヒーは3〜5日程度は美味しく飲める。ただし、空気に触れると酸化が進むため、密閉できる容器に入れ、できるだけ早く飲み切るのが適している。雑菌の繁殖を防ぐためにも、清潔な容器を使うことが重要となる。'
   - question: 'ホットで飲んでも美味しい？'
     answer: '水出しコーヒーは基本的にはアイスで飲むことを想定して作られているが、温めてホットコーヒーとして飲むことも可能だ。ただし、温めすぎると水出し特有のまろやかさや甘みが損なわれたり、香りが飛んでしまったりすることがある。レンジで軽く温めるか、お湯で割ってアメリカーノのようにすると、水出しコーヒーの良さを残しつつ楽しめるだろう。'
 sidebarProducts:
@@ -40,7 +40,7 @@ sidebarProducts:
 
 朝の忙しい時間でも、本格的なアイスコーヒーを飲みたい。そう考えているなら、<strong>水出しコーヒーパック</strong>は最適な選択肢になるだろう。冷蔵庫に入れておくだけで、まろやかでクリアなアイスコーヒーが手軽に楽しめる。
 
-僕も以前はハンドドリップで淹れていたが、夏の朝に氷で薄まるのが気になっていた。水出しコーヒーパックは、<strong>抽出の科学を理解すれば、驚くほど美味しい一杯</strong>を安定して作れるのだ。
+水出しコーヒーパックは、<strong>抽出の科学を理解すれば、高品質な一杯</strong>を安定して作ることが可能である。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -59,10 +59,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E7%25B0%25A1%25E5%258D%2598%2520%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E7%25B0%25A1%25E5%258D%2598%2520%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1202-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007300%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E7%25B0%25A1%25E5%258D%2598%2520%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1202-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007300%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E7%25B0%25A1%25E5%258D%2598%2520%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -75,7 +75,7 @@ sidebarProducts:
 
 水出しコーヒーは「ただ水に浸ければいい」と思われがちだ。しかし、これではせっかくの豆の個性を引き出しきれない。よくある失敗は、「濃くしたいから」と抽出時間を長くしすぎることだ。すると、余計な渋みや雑味まで抽出され、せっかくのまろやかさが損なわれてしまう。
 
-僕が初めて水出しパックを試した時も、適当なタッパーに水を張ってパックを入れ、一晩冷蔵庫に放置した。翌朝飲んでみると、<strong>驚くほど味が薄く、水っぽいコーヒー</strong>になっていたのだ。
+水出しパックを試した際、適当な容器に水を張りパックを入れ、一晩冷蔵庫に放置すると、<strong>味が薄く、水っぽいコーヒー</strong>になる場合がある。
 
 原因は、水の量に対してパックのコーヒー粉が少なすぎたこと、そしてパック全体が水にきちんと浸かっていなかったことだった。適正な抽出には、<strong>水量に対するコーヒー粉の比率と、コーヒー粉が水に均一に触れる状態</strong>が不可欠だと痛感した。
 
@@ -105,7 +105,7 @@ sidebarProducts:
 
 <strong>スペシャルティコーヒーを100%使用</strong>し、フレンチロースト（深煎り）に仕上げられている。水出しによって、この深煎りの持つ「まろやかなコク」と「穏やかな苦味」が最大限に引き出される設計だ。
 
-1バッグで約5杯分（600ml）と抽出量も多めで、毎日本格的なコーヒーを楽しみたい人におすすめだ。
+1バッグで約5杯分（600ml）と抽出量も多めであり、毎日本格的なコーヒーを楽しみたい人に適している。
 
 ## 忙しい朝の「浸漬時間」と「抽出効率」の関係
 
@@ -123,7 +123,6 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 3,760円 |
 | 販売ショップ | RVJAPAN |
-| is_hobby | True |
 
 <strong>冷蔵庫で4時間冷やすだけ</strong>で、甘みのあるマイルドなコールドブリューコーヒーが作れる点が大きな魅力だ。急いでいる時や、急にアイスコーヒーが飲みたくなった時に重宝する。
 
@@ -193,7 +192,7 @@ A1: はい、一般的に水出しコーヒーは熱湯で抽出するコーヒ�
 カフェイン摂取量を気にしている人には嬉しいポイントだろう。
 
 <strong>Q2: 作った水出しコーヒーはどれくらい日持ちする？</strong>
-A2: 冷蔵庫で適切に保存すれば、<strong>作った水出しコーヒーは3〜5日程度</strong>は美味しく飲める。ただし、空気に触れると酸化が進むため、密閉できる容器に入れ、できるだけ早く飲み切るのがおすすめだ。
+A2: 冷蔵庫で適切に保存すれば、<strong>作った水出しコーヒーは3〜5日程度</strong>は美味しく飲める。ただし、空気に触れると酸化が進むため、密閉できる容器に入れ、できるだけ早く飲み切るのが適している。
 
 雑菌の繁殖を防ぐためにも、清潔な容器を使うことが重要となる。
 
@@ -201,3 +200,4 @@ A2: 冷蔵庫で適切に保存すれば、<strong>作った水出しコーヒ�
 A3: 水出しコーヒーは基本的にはアイスで飲むことを想定して作られているが、<strong>温めてホットコーヒーとして飲むことも可能だ</strong>。ただし、温めすぎると水出し特有のまろやかさや甘みが損なわれたり、香りが飛んでしまったりすることがある。
 
 レンジで軽く温めるか、お湯で割ってアメリカーノのようにすると、水出しコーヒーの良さを残しつつ楽しめるだろう。
+

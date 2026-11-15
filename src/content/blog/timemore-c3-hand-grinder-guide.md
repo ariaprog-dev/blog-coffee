@@ -61,10 +61,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00rbhs1.ve2q5f5b.g00rbhs1.ve2q62a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10011927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10011928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00rbhs1.ve2q5f5b.g00rbhs1.ve2q62a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10011927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10011928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -92,7 +92,7 @@ TIMEMORE C3シリーズが他の追随を許さない最大の秘密は、心臓
 
 ## 2. 旧型C2やセラミック刃と何が違う？ 3大進化ポイント
 
-筆者が長年様々な手挽きミルを使ってきた中で、タイムモアC3シリーズが群を抜いていると感じる進化ポイントは以下の3点です。
+様々な手挽きミルと比較して、タイムモアC3シリーズの主な進化ポイントは以下の3点である。
 
 ### 1. 浅煎りの硬い豆でも引っかからない「デュアルベアリング」
 本体の回転軸を上下2箇所の高精度ステンレスベアリングでガッチリと挟み込む構造（デュアルベアリング支持）を採用しています。中心軸のブレが完全にゼロ化されているため、どれだけ力を込めて回しても臼刃同士が接触せず、スムーズな回転トルクが持続します。
@@ -143,7 +143,7 @@ TIMEMORE C3シリーズが他の追随を許さない最大の秘密は、心臓
 
 ## 5. 初心者が直面するリアルな失敗談と正しいメンテナンス
 
-筆者が実際にタイムモアC3を使い倒す中で経験した、初心者がやりがちな注意点を共有します。
+タイムモアC3の使用において、初心者が注意すべき点を解説する。
 
 1. <strong>絶対に「水洗い」してはいけない</strong>:
    最も多い失敗が「コーヒーオイルで汚れたから」と水没洗浄してしまうことです。内部のベアリングに水が入ると、数日で内部から赤錆が発生し、回転が重くなって異音が出ます。お手入れは付属の毛足の長いブラシで粉をサッと払うだけで十分です。
@@ -168,3 +168,4 @@ A3: ダイヤルを右いっぱいに締めた原点から反時計回りに「1
 一杯のコーヒーのクオリティを最も劇的に変える魔法の道具は、高価なケトルでも抽出マシンでもなく、毎朝豆を切り刻む「刃」そのものです。
 
 TIMEMORE C3を手に入れたその日から、お気に入りのコーヒー豆が本来持っていた驚くほど澄んだ果実味と香ばしい甘みが、あなたのカップに溢れ出すことでしょう。
+

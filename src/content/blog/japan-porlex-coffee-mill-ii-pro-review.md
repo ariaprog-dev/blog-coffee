@@ -38,7 +38,17 @@ sidebarProducts:
 
 一般的な木製ミルや据え置き型の電動グラインダーは水洗いができず、重くて持ち運べません。一方、ポーレックスは鹿児島県の精密技術が生んだ「完全丸洗い可能×高剛性ステンレスボディ」という圧倒的な機動力を誇ります。
 
-今回は、初心者が最初の1台として選ぶべき実用性、パッキングの快適さ、そして一生モノとして付き合える手入れのしやすさにフォーカスしてレビューします。
+今回は、初心者が最初の1台として検討するのに適した実用性、パッキングの快適さ、そして長く愛用できる手入れのしやすさに焦点を当てて紹介します。
+
+## ポーレックス コーヒーミルII プロの主要特徴比較
+
+| 特徴           | ポーレックス コーヒーミルII プロ | 一般的な手挽きミル（木製・金属刃） |
+| :------------- | :------------------------------- | :--------------------------------- |
+| 水洗い         | 全パーツ完全水洗い可能           | 乾式清掃のみ（サビ・劣化の恐れ）   |
+| 刃の素材       | 高精度セラミック製               | 鉄製・鋼製（サビやすい）           |
+| 携帯性         | スリム設計、ハンドル一体化収納   | かさばる、ハンドルが分離しやすい   |
+| ボディ素材     | 高剛性ステンレス製               | 木材、プラスチック、一部金属       |
+| 軸ブレ・安定性 | シャフト構造強化により低減       | 軸ブレが生じやすい                 |
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -57,10 +67,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520II%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520II%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005593%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520II%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005593%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520II%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -93,29 +103,29 @@ sidebarProducts:
 
 ## 「旧型ミル」から「ミルII」への進化：グラつき解消と挽き効率の向上
 
-ポーレックスは2019年に大幅なリニューアルを行い、「ミルII」へと進化を遂げました。この改良が、日々の使い心地を劇的に高めています。
+ポーレックスは2019年に大幅なリニューアルを行い、「ミルII」へと進化を遂げました。この改良が、日々の使い心地を大幅に高めています。
 
 - <strong>シャフト構造の強化</strong>: 回転軸を支えるベアリングホルダーの精度が向上し、ハンドルを回した時の「軸ブレ」が徹底的に抑えられています。
 - <strong>刃の形状見直し</strong>: セラミック刃の溝パターンが再設計され、同じ回転数でも旧型比で約1.3倍効率よく豆を粉砕できるようになりました。
 - <strong>クリック感の向上</strong>: 粒度調節ネジのクリック感がカチッカチッとより明確になり、手袋をしたままでもクリック数を数えやすくなっています。
 
-軽い力で滑らかに回転するため、朝の忙しい時間でもストレスなく、ゴリゴリと心地よい豆を挽く感触を楽しめます。
+軽い力で滑らかに回転するため、朝の忙しい時間でもストレスなく、ゴリゴリと心地よい豆を挽く感触を体験できます。
 
-## 道具を育てる歓び：毎朝のキッチンと週末のフィールドをつなぐ相棒
+## 道具を育てる歓び：日常と週末のフィールドをつなぐ相棒
 
-電気を使わず、自分の手でゆっくりと豆を挽く時間は、慌ただしい毎日に静かな余白をもたらしてくれます。
+電気を使わず、自分の手でゆっくりと豆を挽く時間は、慌ただしい毎日に静かな時間を提供します。
 
 頑丈なステンレスボディは、万が一キッチンの床やキャンプサイトの岩場に落としてしまっても割れることがありません。使い込むほどに表面に細かな擦り傷が刻まれ、自分だけのヴィンテージな表情へと育っていきます。
 
-自宅のキッチンでのデイリーユースはもちろん、週末のピクニック、本格的な登山やソロキャンプまで。どこへ連れて行っても変わらぬ信頼感で最高の一杯を約束してくれるポーレックス コーヒーミルIIは、まさに一生モノと呼ぶにふさわしい逸品です。
+日常使いはもちろん、週末のピクニック、本格的な登山やソロキャンプまで。どこへ連れて行っても変わらぬ信頼感で最高の一杯を提供するポーレックス コーヒーミルIIは、長く愛用できる製品として評価されています。
 
 ### よくある質問
 
-<strong>Q1: 丸洗いできるとのことですが、手入れは本当に簡単ですか？</strong>
+**Q1: 丸洗いできるとのことですが、手入れは本当に簡単ですか？**
 A1: 極めて簡単です。本体が工具なしで簡単に分解でき、セラミック刃も含めて全てのパーツを水洗いできます。金属刃と違って錆びる心配がなく、洗剤を使わずぬるま湯で洗い流して乾かすだけで、古い酸化油分や微粉のニオイを完全にリセットできます。
 
-<strong>Q2: キャンプや登山での携帯性はどうですか？</strong>
+**Q2: キャンプや登山での携帯性はどうですか？**
 A2: 直径約4.9cm、高さ約13.5cm、重量約250g（ミニサイズ相当）と驚くほどスリムです。ハンドルを外して本体側面のシリコン製バンドに固定できるため、バックパックの隙間やクッカーの中にすっぽり収まり、荷物を圧迫しません。
 
-<strong>Q3: 一度に何杯分の豆を挽けますか？</strong>
+**Q3: 一度に何杯分の豆を挽けますか？**
 A3: プロフェッショナル（標準サイズ）で約30g（2〜3杯分）、ミニサイズで約20g（1〜2杯分）を一度に挽くことができます。ソロキャンプやカップルでの使用にジャストな容量設計です。

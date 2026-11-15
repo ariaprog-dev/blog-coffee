@@ -61,10 +61,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DFELLOW%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520Stagg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DFELLOW%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520Stagg" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DFELLOW%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520Stagg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DFELLOW%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520Stagg" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -91,7 +91,7 @@ Fellow Stagg EKG PROは、まさに<strong>抽出の科学を追求する</stron
 
 EKG PROは<strong>摂氏0.5度単位で40℃から100℃まで細かく温度設定できる</strong>。これにより、豆の焙煎度合いや好みに応じて最適な温度を正確に再現し、狙い通りの味わいを引き出すことが可能になるのだ。
 
-僕も最初は「そこまで細かく設定する必要があるのか？」と半信半疑だったが、実際に使い始めると、今まで曖昧だった抽出温度が<strong>明確な変数</strong>として扱えることに驚いた。特に浅煎り豆のフローラルな香りを引き出したいとき、93℃と94℃のわずかな差で、その表情がはっきりと変わるのを実感している。
+抽出温度の細かな設定は、当初は必要性が疑問視されることもあるが、実際に使用すると、曖昧だった抽出温度が<strong>明確な変数</strong>として扱えることに気づかされる。特に浅煎り豆のフローラルな香りを引き出す際、93℃と94℃のわずかな差で風味が変化することが確認されている。
 
 #### 多彩な機能がもたらす「抽出の安定と効率」
 
@@ -125,9 +125,9 @@ EKG PROには、抽出の安定性と効率を高めるための先進機能が�
 
 このケトルの最大の魅力は、<strong>直火・IH（一部非対応あり）の両方に対応している</strong>点にある。キッチンのコンロを選ばず使えるため、場所を選ばない自由度が高い。キャンプなどのアウトドアシーンで焚き火やガスバーナーを使ってコーヒーを淹れたい、という人にも適しているだろう。
 
-蓋に内蔵されたアナログ温度計は、お湯の温度をざっくりと把握するのに十分だ。「沸騰後少し冷まして90℃くらい」という感覚的な抽出が多い僕のようなユーザーには、この直感的な表示が非常に使いやすい。
+蓋に内蔵されたアナログ温度計は、お湯の温度をざっくりと把握するのに十分だ。「沸騰後少し冷まして90℃くらい」という感覚的な抽出を行うユーザーにとって、この直感的な表示は利便性が高い。
 
-<strong>摂氏表示のみ</strong>だが、コーヒー抽出に必要な温度帯は十分カバーできる。僕も最初はアナログ温度計で良いか迷ったが、使ってみると<strong>コーヒーを淹れるプロセス自体を楽しむ</strong>という点で、この素朴さがしっくりきた。
+<strong>摂氏表示のみ</strong>だが、コーヒー抽出に必要な温度帯は十分にカバーできる。アナログ温度計の素朴さは、コーヒーを淹れるプロセス自体を楽しむという点で適している。
 
 温度計の針が上がっていく様子を見るのも、一つの儀式のように感じられる。
 
@@ -219,3 +219,4 @@ Stagg EKG PROは、最新のテクノロジーを駆使して「最高の抽出�
 一方、Stagg Pour-Over Kettleは、アナログな操作感と場所を選ばない自由さで、「気軽に美味しいコーヒーを楽しみたい」という日々のニーズに応える。そのシンプルさが、かえってコーヒーを淹れるプロセスを豊かにしてくれることもある。
 
 どちらのケトルを選ぶかは、あなたがコーヒーに何を求め、どのようなスタイルで楽しみたいかによって決まる。あなたのコーヒーライフをより豊かなものにする、最適な一台を見つけてほしい。
+

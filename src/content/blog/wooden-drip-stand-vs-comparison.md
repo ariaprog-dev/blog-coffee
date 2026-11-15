@@ -15,7 +15,7 @@ faq:
   - question: '木製ドリップスタンドのお手入れ方法は？'
     answer: '使用後は、コーヒーの粉や液が付着しないようにすぐに乾いた布で拭き取ってください。特に天然オイル塗装のものは水気に弱いため、水洗いは避け、固く絞った布で軽く拭く程度に留めるのが良いでしょう。定期的に木材用のワックスやオイルで手入れをすると、美しさを長く保つことができます。'
   - question: 'どんなドリッパーが使えますか？'
-    answer: 'ギギliving製スタンドのドリッパー穴は直径6.4cmです。ハリオV60、カリタウェーブ、KONO名門などの一般的な円錐形や台形ドリッパーの多くは問題なく使用できます。ただし、ドリッパーの底面の形状やサイズは多岐にわたるため、購入前に手持ちのドリッパーの底面直径を測り、適合するか確認することをおすすめします。MUKU工房製は詳細不明なため、問い合わせが必要です。'
+    answer: 'ギギliving製スタンドのドリッパー穴は直径6.4cmです。ハリオV60、カリタウェーブ、KONO名門などの一般的な円錐形や台形ドリッパーの多くは問題なく使用できます。ただし、ドリッパーの底面の形状やサイズは多岐にわたるため、購入前に手持ちのドリッパーの底面直径を測り、適合するか確認するのが効果的だ。MUKU工房製は詳細不明なため、問い合わせが必要です。'
   - question: '長く使うための注意点は？'
     answer: '木製スタンドは天然素材のため、急激な温度変化や湿度変化に弱いです。直射日光が当たる場所やエアコンの風が直接当たる場所での使用・保管は、木の反りや割れの原因になる可能性があります。また、長時間の水濡れはシミや変色の原因となるため、使用後はすぐに水分を拭き取り、風通しの良い場所で保管してください。'
 sidebarProducts:
@@ -61,10 +61,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25A3%259B%25E9%25A8%25A8%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520kochi%2520%25E3%2582%25B3%25E3%2583%2581%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%25A3%259B%25E9%25A8%25A8%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520kochi%2520%25E3%2582%25B3%25E3%2583%2581%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00q62o1.ve2q509f.g00q62o1.ve2q6187/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmukukoubou%2F10007189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmukukoubou%2Fi%2F10009141%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25A3%259B%25E9%25A8%25A8%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520kochi%2520%25E3%2582%25B3%25E3%2583%2581%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00q62o1.ve2q509f.g00q62o1.ve2q6187/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmukukoubou%2F10007189%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmukukoubou%2Fi%2F10009141%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%25A3%259B%25E9%25A8%25A8%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520kochi%2520%25E3%2582%25B3%25E3%2583%2581%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -81,7 +81,7 @@ sidebarProducts:
 
 何より、その素材感が素晴らしい。温かい木肌は、忙しい朝でも心を落ち着かせてくれる。
 
-金属の無機質さとは異なり、<strong>手で触れるたびに感じるぬくもり</strong>は、コーヒーを淹れる「儀式」をより豊かにしてくれるだろう。僕が初めて木製スタンドを使った時、ドリッパーを置いた時のカチャッという金属音ではなく、木のやわらかい接触音に心地よさを感じたのを覚えている。
+金属の無機質さとは異なり、<strong>手で触れるたびに感じるぬくもり</strong>は、コーヒーを淹れる時間をより豊かにする。木製スタンドは、ドリッパーを置いた時の金属音ではなく、木のやわらかい接触音をもたらす。
 
 この些細な違いが、毎日のコーヒータイムを特別なものに変えてくれるのだ。
 
@@ -106,7 +106,7 @@ sidebarProducts:
 
 ドリッパーセット部分の穴は<strong>直径6.4cm</strong>。これは、ハリオV60やカリタウェーブといった、家庭で広く使われている円錐・台形ドリッパーの多くに対応できる汎用性の高いサイズだ。
 
-しかし、全てのドリッパーがぴったり収まるわけではない。僕が使っている一部の口径の広いドリッパーでは、少し不安定に感じられたため、購入前に手持ちのドリッパーの底面サイズを確認しておくことをお勧めする。
+しかし、全てのドリッパーがぴったり収まるわけではない。一部の口径の広いドリッパーでは、不安定になる場合があるため、購入前に手持ちのドリッパーの底面サイズを確認しておくのが効果的だ。
 
 一方で、無垢材ゆえの注意点もある。天然オイル塗装のため、長時間の水濡れはシミや変形の原因になる。
 
@@ -156,11 +156,11 @@ MUKU工房の製品は詳細スペックが不明なため断言はできない�
 
 重さ320gのギギlivingは、安定した抽出を支える上で十分な重量感がある。ドリップ中にスタンドが動いてしまうようなことはないだろう。MUKU工房製も、同じウォールナット材であればある程度の重さは期待できるが、実際に使用感を確かめるまでは何とも言えない。
 
-## 僕が実際に使って気づいた、木製スタンドのちょっとした落とし穴とコツ
+## 木製スタンドの使用における注意点とコツ
 
-木製スタンドは確かに美しい。だが、美しさを保つためには少しだけ手間がかかる。僕が木製スタンドを使い始めた当初、ドリップ中にうっかりコーヒー液が跳ねて木材に付着し、<strong>すぐに拭き取らないと薄っすらシミになった経験</strong>がある。天然オイル塗装のものは、特に水気にデリケートだ。
+木製スタンドは美しいが、美しさを保つためには手入れが必要である。ドリップ中にコーヒー液が跳ねて木材に付着した場合、<strong>すぐに拭き取らないと薄っすらシミになることがある</strong>。天然オイル塗装のものは、特に水気にデリケートである。
 
-この経験から、僕はドリップの前に<strong>濡れ布巾を必ず用意</strong>するようになった。万が一跳ねてもすぐに拭き取れるようにするためだ。
+このため、ドリップの前に<strong>濡れ布巾を用意する</strong>ことが推奨される。万が一跳ねてもすぐに拭き取れるようにするためである。
 
 また、ドリッパーの安定性を高めるため、底面の縁にシリコン製のバンドを巻いてみたこともある。これにより、<strong>ドリッパーとスタンドの密着性が高まり、さらに安定して抽出できる</strong>ようになった。
 
@@ -194,9 +194,10 @@ A1: 使用後は、コーヒーの粉や液が付着しないようにすぐに�
 <strong>Q2: どんなドリッパーが使えますか？</strong>
 A2: ギギliving製スタンドのドリッパー穴は直径<strong>6.4cm</strong>です。ハリオV60、カリタウェーブ、KONO名門などの一般的な円錐形や台形ドリッパーの多くは問題なく使用できます。
 
-ただし、ドリッパーの底面の形状やサイズは多岐にわたるため、購入前に手持ちのドリッパーの底面直径を測り、適合するか確認することをおすすめします。MUKU工房製は詳細不明なため、問い合わせが必要です。
+ただし、ドリッパーの底面の形状やサイズは多岐にわたるため、購入前に手持ちのドリッパーの底面直径を測り、適合するか確認するのが効果的だ。MUKU工房製は詳細不明なため、問い合わせが必要です。
 
 <strong>Q3: 長く使うための注意点は？</strong>
 A3: 木製スタンドは天然素材のため、急激な温度変化や湿度変化に弱いです。直射日光が当たる場所やエアコンの風が直接当たる場所での使用・保管は、木の反りや割れの原因になる可能性があります。
 
 また、長時間の水濡れはシミや変色の原因となるため、使用後はすぐに水分を拭き取り、風通しの良い場所で保管してください。
+

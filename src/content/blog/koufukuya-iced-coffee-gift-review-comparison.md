@@ -11,9 +11,9 @@ faq:
   - question: 'ビターとスイートは具体的にどう違いますか？'
     answer: 'ビターは、アフターフレーバーをしっかり感じる深煎り系の重厚な味わいが特徴です。一方、スイートはコーヒーの甘みとすっきりとした後味が際立つ、軽やかで飲みやすいタイプだと感じます。 好みに合わせて選んだり、飲み比べを楽しんだりできます。'
   - question: '開封後、どのくらい日持ちしますか？'
-    answer: '公式には明確な記載はありませんが、リキッドコーヒーの一般的な開封後の保存期間は冷蔵庫で約1週間が目安です。風味が落ちないうちに、なるべく早く飲み切ることをおすすめします。私は開封後、3日程度で飲み切るようにしています。'
+    answer: '公式には明確な記載はありませんが、リキッドコーヒーの一般的な開封後の保存期間は冷蔵庫で約1週間が目安です。風味が落ちないうちに、なるべく早く飲み切ることが効果的である。開封後は、3日程度で飲み切ることが推奨される。'
   - question: 'そのまま飲む以外におすすめの飲み方はありますか？'
-    answer: '非常に濃厚なので、牛乳や豆乳で割ってアイスカフェオレにするのも絶品です。バニラアイスクリームにかければ、手軽にアフォガート風デザートも楽しめます。 少し贅沢ですが、ウイスキーと合わせてコーヒーカクテルにするのもおすすめです。'
+    answer: '非常に濃厚なので、牛乳や豆乳で割ってアイスカフェオレにするのも絶品です。バニラアイスクリームにかければ、手軽にアフォガート風デザートも楽しめます。 少し贅沢ですが、ウイスキーと合わせてコーヒーカクテルにするのも有効だ。'
 sidebarProducts:
   - title: '敬老の日【選べる2テイスト】コーヒー ギフト アイスコーヒー 500ml 2本 1L 無糖 瓶詰 リキッド アイスコーヒーギフト ラッピング 珈琲 ギフト コーヒーギフト 高級 香福屋 夏ギフト 残暑見舞い おしゃれ ご挨拶 内祝い 出産祝い 誕生日 感謝'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -57,10 +57,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -71,7 +71,7 @@ sidebarProducts:
 
 ## グラスに注ぐだけで、プロの味が常に安定する秘密
 
-私自身、自宅でハンドドリップを楽しんでいる。その中で、毎回同じクオリティのアイスコーヒーを淹れる難しさを痛感してきた。
+自宅でハンドドリップを行う際、毎回同じクオリティのアイスコーヒーを淹れることは難しい。
 
 湯温が少し変わるだけでも、抽出される成分のバランスは大きく変動する。細挽きすぎれば過抽出で雑味が出やすく、粗挽きすぎれば薄く物足りない味になる。
 
@@ -83,7 +83,7 @@ sidebarProducts:
 
 北海道ミネラルウォーター株式会社が製造している点も、水の品質がコーヒーの風味に与える影響の大きさを考えれば納得がいく。クリアな軟水が、豆本来の風味を引き出し、雑味なく仕上げる秘訣なのだろう。
 
-ビターとスイートの二つのタイプは、それぞれ異なる焙煎度合いやブレンドで、狙った風味特性を引き出しているに違いない。無添加・無香料であることも、コーヒー豆が持つ本来のアロマを純粋に味わう上で極めて重要だ。
+ビターとスイートの二つのタイプは、それぞれ異なる焙煎度合いやブレンドで、狙った風味特性を引き出していると言える。無添加・無香料であることも、コーヒー豆が持つ本来のアロマを純粋に味わう上で極めて重要だ。
 
 これにより、家庭では再現が難しい安定したプロの品質が、いつでも手軽に楽しめるのだ。
 
@@ -117,9 +117,9 @@ sidebarProducts:
 
 500mlという容量は、一人暮らしだと少し持て余す可能性もある。しかし、家族とシェアしたり、来客時に出すにはちょうど良い量だ。
 
-実は、私が初めてこのボトルを開けた時、そのままストレートで飲むとあまりに濃厚で驚いた経験がある。普段、薄めのアイスコーヒーを飲み慣れていたので、当初は「濃すぎないか？」と感じたのだ。
+このボトルを開封し、ストレートで飲んだ際、その濃厚さに驚くことがある。普段薄めのアイスコーヒーを飲み慣れている場合、当初は「濃すぎる」と感じる可能性もある。
 
-しかし、適切な量の氷を入れ、冷え冷えの状態で飲むと、その濃厚さの中にしっかりとクリアな香りと後味が感じられ、「コーヒー豆1.6倍」という言葉の意味を実感した。濃いと感じる場合は、あえて氷を多めにしたり、牛乳や豆乳で割ってカフェオレにするのがおすすめだ。
+しかし、適切な量の氷を入れ、冷えた状態で飲むと、濃厚さの中にクリアな香りと後味が感じられ、「コーヒー豆1.6倍」という特徴が明確になる。濃いと感じる場合は、氷を多めにしたり、牛乳や豆乳で割ってカフェオレにするのが適している。
 
 ## 香福屋のアイスコーヒー、その品質とこだわりをスペックから読み解く
 
@@ -149,7 +149,7 @@ sidebarProducts:
 
 しかし、忙しい日々の中で、常にその時間を確保できるとは限らない。そんな時、プロが丹精込めて抽出した、濃厚でクリアなアイスコーヒーが冷蔵庫にある安心感は大きい。
 
-この商品は、特に以下のような人におすすめしたい。時間がないけれど、妥協なく美味しいコーヒーを飲みたい人。
+この商品は、特に以下のような人に適している。時間がないけれど、妥協なく美味しいコーヒーを飲みたい人。
 
 コーヒー器具の手入れが面倒だと感じる人。自宅でいつでも安定した品質のアイスコーヒーを楽しみたい人。
 
@@ -163,9 +163,10 @@ A1: ビターは、アフターフレーバーをしっかり感じる深煎り�
 好みに合わせて選んだり、飲み比べを楽しんだりできます。
 
 <strong>Q2: 開封後、どのくらい日持ちしますか？</strong>
-A2: 公式には明確な記載はありませんが、リキッドコーヒーの一般的な開封後の保存期間は冷蔵庫で約1週間が目安です。風味が落ちないうちに、なるべく早く飲み切ることをおすすめします。私は開封後、3日程度で飲み切るようにしています。
+A2: 公式には明確な記載はありませんが、リキッドコーヒーの一般的な開封後の保存期間は冷蔵庫で約1週間が目安です。風味が落ちないうちに、なるべく早く飲み切るのが効果的だ。開封後は、3日程度で飲み切ることが推奨される。
 
 <strong>Q3: そのまま飲む以外におすすめの飲み方はありますか？</strong>
 A3: 非常に濃厚なので、牛乳や豆乳で割ってアイスカフェオレにするのも絶品です。バニラアイスクリームにかければ、手軽にアフォガート風デザートも楽しめます。
 
-少し贅沢ですが、ウイスキーと合わせてコーヒーカクテルにするのもおすすめです。
+少し贅沢ですが、ウイスキーと合わせてコーヒーカクテルにするのも有効だ。
+

@@ -9,7 +9,7 @@ tags:
   - 'angle:comparison'
 faq:
   - question: '極細ノズルは詰まりやすいか？'
-    answer: 'いいえ、ノズル自体が詰まることは基本的にありません。ただし、ポット内に水垢が溜まると水流が変化する可能性はあります。使用後は毎回きれいに洗浄し、定期的にクエン酸などで内部を洗浄することをおすすめします。'
+    answer: 'いいえ、ノズル自体が詰まることは基本的にありません。ただし、ポット内に水垢が溜まると水流が変化する可能性はあります。使用後は毎回きれいに洗浄し、定期的にクエン酸などで内部を洗浄するのが効果的だ。'
   - question: 'IH調理器で直接加熱して使用できるか？'
     answer: 'この製品は直接加熱調理器に対応しているとの明記はありません。湯を沸かす目的ではなく、沸騰したお湯を別のケトルから移し替えてドリップする用途に特化しています。 IH調理器対応のケトルで湯を沸かし、移し替えて使用してください。'
   - question: 'お手入れは難しいか？'
@@ -57,10 +57,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -87,7 +87,7 @@ sidebarProducts:
 
 ## 忙しい朝のドリップから後片付けまで
 
-日々の生活に寄り添う道具であるからこそ、使い勝手の良さは重要だ。このドリップポットは、満水容量350mlというコンパクトさが特徴。これは、僕が普段淹れる1杯分（約200ml〜250ml）に最適なサイズで、多くても2杯分のコーヒーを淹れるのに過不足ない。
+日々の生活に寄り添う道具であるからこそ、使い勝手の良さは重要だ。このドリップポットは、満水容量350mlというコンパクトさが特徴。これは、1杯分（約200ml〜250ml）に最適なサイズであり、多くても2杯分のコーヒーを淹れるのに十分な容量です。
 
 朝の忙しい時間でも、電気ケトルで沸かしたお湯を移し替えれば、すぐにドリップを始められる。注ぎ口が非常に細いため、他の作業をしながらでも慎重に注湯する必要がなく、気が散らないのが良い。
 
@@ -146,7 +146,7 @@ sidebarProducts:
 ### よくある質問
 
 <strong>Q1: 極細ノズルは詰まりやすいか？</strong>
-A1: いいえ、ノズル自体が詰まることは基本的にありません。ただし、ポット内に水垢が溜まると水流が変化する可能性はあります。使用後は毎回きれいに洗浄し、定期的にクエン酸などで内部を洗浄することをおすすめします。
+A1: いいえ、ノズル自体が詰まることは基本的にありません。ただし、ポット内に水垢が溜まると水流が変化する可能性はあります。使用後は毎回きれいに洗浄し、定期的にクエン酸などで内部を洗浄するのが効果的だ。
 
 <strong>Q2: IH調理器で直接加熱して使用できるか？</strong>
 A2: この製品は直接加熱調理器に対応しているとの明記はありません。湯を沸かす目的ではなく、沸騰したお湯を別のケトルから移し替えてドリップする用途に特化しています。
@@ -155,3 +155,4 @@ IH調理器対応のケトルで湯を沸かし、移し替えて使用してく
 
 <strong>Q3: お手入れは難しいか？</strong>
 A3: パーツが少なく、開口部も適度に広いため、スポンジで内部を洗いやすく、手入れは比較的簡単です。ステンレス製で錆びにくく、シリコン樹脂焼付塗装も汚れがつきにくいですが、長く使うためには定期的な洗浄が重要です。
+

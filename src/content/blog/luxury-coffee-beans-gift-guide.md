@@ -9,11 +9,11 @@ tags:
   - 'angle:guide'
 faq:
   - question: 'コーヒー豆を「豆のまま」で贈るべきか、「粉」で贈るべきか迷う。'
-    answer: '相手がコーヒーミルを持っているかどうかが判断基準になる。ミルがあるなら「豆のまま」が、挽きたての香りが最も楽しめるためおすすめだ。ミルがない、または手軽さを重視するなら「粉」を選ぶのが良い。多くのショップで挽き方を選べるので、相手に直接確認できれば理想的だ。'
+    answer: '相手がコーヒーミルを持っているかどうかが判断基準となる。ミルがある場合は「豆のまま」が、挽きたての香りを最も楽しめるため適している。ミルがない、または手軽さを重視するなら「粉」を選ぶのが良い。多くのショップで挽き方を選べるため、相手に直接確認することが望ましい。'
   - question: '高級コーヒー豆は、普段飲んでいるコーヒーとどう違うのか。'
     answer: '高級とされるコーヒー豆は、産地の厳選、栽培方法、精製処理、そして焙煎技術にこだわりがある。一般的に風味が豊かで、苦味、酸味、甘味のバランスが良く、雑味が少ないクリアな味わいが特徴だ。一杯あたりの香りの持続性や、飲んだ後の余韻の長さも普段のコーヒーとは異なる点だ。'
   - question: '贈る相手がコーヒー初心者でも、高級コーヒー豆の良さは伝わるのか。'
-    answer: '伝わるだろう。特に「バランスの取れた味わい」とされるブルーマウンテンのような銘柄は、初心者でもそのクリアさや上品な香りに気づきやすい。また、希少なコピ・ルアクのような銘柄は、その背景にあるストーリー性や「一度は飲んでみたい」という体験価値として喜ばれる。贈る際に、豆の背景や特徴を説明するメッセージを添えると、より一層楽しんでもらえるはずだ。'
+    answer: '伝わる。特に「バランスの取れた味わい」とされるブルーマウンテンのような銘柄は、初心者でもそのクリアさや上品な香りに気づきやすい。また、希少なコピ・ルアクのような銘柄は、その背景にあるストーリー性や、一度試す価値のあるものとして評価される。贈る際に、豆の背景や特徴を説明するメッセージを添えると、より深く楽しむことができる。'
 sidebarProducts:
   - title: '木箱入 ブルーマウンテン ＆ コピ・ルアク ギフトセット 大人の高級コーヒーギフト 送料無料 | 高級 コーヒー豆 贅沢 ジャコウネコ 珈琲 プレゼント お祝い 内祝 誕生日 退職祝 御礼 専門店 焙煎直送'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -38,7 +38,7 @@ sidebarProducts:
 
 そう考える方は多いはずだ。コーヒーは嗜好品ゆえに好みが分かれやすく、ギフト選びは意外と難しい。しかし、いくつかのポイントを押さえれば、あなたの気持ちが伝わる最高のコーヒーギフトを選べる。
 
-この記事では、僕自身の体験も踏まえ、コーヒー豆ギフトで失敗しないための選び方を紹介する。
+この記事では、コーヒー豆ギフトで失敗しないための選び方を紹介する。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -57,10 +57,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%25A8%25E7%25AE%25B1%25E5%2585%25A5%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%2520%25EF%25BC%2586%2520%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%259C%25A8%25E7%25AE%25B1%25E5%2585%25A5%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%2520%25EF%25BC%2586%2520%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%25A8%25E7%25AE%25B1%25E5%2585%25A5%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%2520%25EF%25BC%2586%2520%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%25A8%25E7%25AE%25B1%25E5%2585%25A5%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%2520%25EF%25BC%2586%2520%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -112,7 +112,7 @@ sidebarProducts:
 
 コーヒーの風味を最大限に楽しむためには、鮮度が命だ。焙煎したての豆は、香りが強く、味わいもクリアに感じられる。
 
-ギフトを選ぶ際には、「注文後に焙煎する」と明記されているショップを選ぶのがおすすめだ。これにより、相手は最も新鮮な状態でコーヒーを味わえる。
+ギフトを選ぶ際には、「注文後に焙煎する」と明記されているショップを選ぶのが適している。これにより、相手は最も新鮮な状態でコーヒーを味わえる。
 
 また、賞味期限だけでなく「焙煎日」が明記されているかどうかも確認したい。一般的に、コーヒー豆のピークは焙煎後数日から2週間程度と言われている。贈るタイミングと相手が飲み始める時期を考慮し、なるべく新鮮な豆を贈るよう心がけよう。
 
@@ -124,7 +124,7 @@ sidebarProducts:
 
 ## 【目的別】おすすめの高級コーヒー豆ギフト
 
-僕が実際に試したり、ギフトとして検討したりした中から、選び方の基準に合う商品をいくつか紹介しよう。
+公式スペックや風味プロファイルをもとに、選び方の基準に合う商品をいくつか紹介する。
 
 #### 迷ったらこれ！王道の高級感を贈るなら
 
@@ -180,7 +180,7 @@ sidebarProducts:
 | 価格 | 2,160円 |
 | 販売ショップ | NICO coffee and bakery |
 
-エスプレッソマシンを持っている方や、自宅でカフェラテを作るのが好きな方には、このスペシャルティエスプレッソブレンドがおすすめだ。Qグレーダー監修の高品質な生豆を自家焙煎しており、しっかりとしたボディと程よい甘みが特徴。
+エスプレッソマシンを所有している方や、自宅でカフェラテを作ることを好む方には、このスペシャルティエスプレッソブレンドが適している。Qグレーダー監修の高品質な生豆を自家焙煎しており、しっかりとしたボディと程よい甘みが特徴。
 
 エスプレッソ単体で飲むのはもちろん、ミルクや豆乳と合わせても豆の風味が負けず、リッチなカフェラテを楽しめる。クレマもきれいに抽出できるので、ラテアートの練習にも向いている。
 
@@ -202,13 +202,13 @@ sidebarProducts:
 ### よくある質問
 
 <strong>Q1: コーヒー豆を「豆のまま」で贈るべきか、「粉」で贈るべきか迷う。</strong>
-A1: 相手がコーヒーミルを持っているかどうかが判断基準になる。ミルがあるなら「豆のまま」が、挽きたての香りが最も楽しめるためおすすめだ。ミルがない、または手軽さを重視するなら「粉」を選ぶのが良い。多くのショップで挽き方を選べるので、相手に直接確認できれば理想的だ。
+A1: 相手がコーヒーミルを持っているかどうかが判断基準になる。ミルがある場合は「豆のまま」が、挽きたての香りを最も楽しめるため適している。ミルがない、または手軽さを重視するなら「粉」を選ぶのが良い。多くのショップで挽き方を選べるので、相手に直接確認できれば理想的だ。
 
 <strong>Q2: 高級コーヒー豆は、普段飲んでいるコーヒーとどう違うのか。</strong>
 A2: 高級とされるコーヒー豆は、産地の厳選、栽培方法、精製処理、そして焙煎技術にこだわりがある。一般的に風味が豊かで、苦味、酸味、甘味のバランスが良く、雑味が少ないクリアな味わいが特徴だ。一杯あたりの香りの持続性や、飲んだ後の余韻の長さも普段のコーヒーとは異なる点だ。
 
 <strong>Q3: 贈る相手がコーヒー初心者でも、高級コーヒー豆の良さは伝わるのか。</strong>
-A3: 伝わるだろう。特に「バランスの取れた味わい」とされるブルーマウンテンのような銘柄は、初心者でもそのクリアさや上品な香りに気づきやすい。また、希少なコピ・ルアクのような銘柄は、その背景にあるストーリー性や「一度は飲んでみたい」という体験価値として喜ばれる。贈る際に、豆の背景や特徴を説明するメッセージを添えると、より一層楽しんでもらえるはずだ。
+A3: 伝わる。特に「バランスの取れた味わい」とされるブルーマウンテンのような銘柄は、初心者でもそのクリアさや上品な香りに気づきやすい。また、希少なコピ・ルアクのような銘柄は、その背景にあるストーリー性や、一度試す価値のあるものとして評価される。贈る際に、豆の背景や特徴を説明するメッセージを添えると、より深く楽しむことができる。
 
 ## まとめ
 
@@ -216,23 +216,3 @@ A3: 伝わるだろう。特に「バランスの取れた味わい」とされ�
 
 豆の鮮度、味わいの方向性、そしてパッケージの演出。これらのポイントを押さえれば、きっと相手に心から喜ばれる、特別な一杯を贈ることができるだろう。贈られたコーヒーが、誰かの日常に豊かな癒やしや活力を与えることを願う。
 
-## よくある質問
-
-<strong>Q1: コーヒー豆を「豆のまま」で贈るべきか、「粉」で贈るべきか迷う。</strong>
-A1: 相手がコーヒーミルを持っているかどうかが判断基準になる。
-
-ミルがあるなら「豆のまま」が、挽きたての香りが最も楽しめるためおすすめだ。ミルがない、または手軽さを重視するなら「粉」を選ぶのが良い。
-
-多くのショップで挽き方を選べるので、相手に直接確認できれば理想的だ。
-
-<strong>Q2: 高級コーヒー豆は、普段飲んでいるコーヒーとどう違うのか。</strong>
-A2: 高級とされるコーヒー豆は、産地の厳選、栽培方法、精製処理、そして焙煎技術にこだわりがある。
-
-一般的に風味が豊かで、苦味、酸味、甘味のバランスが良く、雑味が少ないクリアな味わいが特徴だ。一杯あたりの香りの持続性や、飲んだ後の余韻の長さも普段のコーヒーとは異なる点だ。
-
-<strong>Q3: 贈る相手がコーヒー初心者でも、高級コーヒー豆の良さは伝わるのか。</strong>
-A3: 伝わるだろう。
-
-特に「バランスの取れた味わい」とされるブルーマウンテンのような銘柄は、初心者でもそのクリアさや上品な香りに気づきやすい。また、希少なコピ・ルアクのような銘柄は、その背景にあるストーリー性や「一度は飲んでみたい」という体験価値として喜ばれる。
-
-贈る際に、豆の背景や特徴を説明するメッセージを添えると、より一層楽しんでもらえるはずだ。

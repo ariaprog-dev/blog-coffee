@@ -41,15 +41,15 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-コーヒーにこだわり始めた多くの人が、最終的に辿り着く憧れの境地があります。それは、街の自家焙煎珈琲店や老舗喫茶店のカウンターで、マスターが静かにスイッチを入れて豆を挽いているあの光景——<strong>「業務用グラインダーが奏でる澄み切った一杯」</strong>を、自宅のキッチンで毎日再現することです。
+コーヒー愛好家にとって、街の自家焙煎珈琲店や老舗喫茶店で提供されるような、業務用グラインダーが奏でる澄み切った一杯の味わいを、日常的に楽しむことは一つの理想です。
 
 手挽きミルで丁寧に挽く時間も風情がありますが、家族の分まで何杯も淹れる朝や、出社前の慌ただしい時間に毎日ハンドルを回し続けるのは、どうしても継続のハードルになります。
 
 とはいえ、数千円のプロペラ式電動ミルでは微粉と摩擦熱で豆が台無しになり、家庭用の安価なコニカル式ミルでは粒度の均一性に不満が残る。
 
-このすべてのジレンマを解消し、日本のドリップコーヒー文化を半世紀以上牽引してきたカリタ（Kalita）が世に送り出す最高傑作が、<strong>「ナイスカットG（Nice Cut G）」</strong>です。
+このすべてのジレンマを解消し、日本のドリップコーヒー文化を半世紀以上牽引してきたカリタ（Kalita）が提供する代表的なモデルの一つが、**「ナイスカットG（Nice Cut G）」**です。
 
-なぜナイスカットGで挽いたコーヒーは、一口飲んだ瞬間に「甘い」と感じるほどクリアなのか？ ライバル機（ネクストG・みるっこ）との決定的な違いや、静電気対策・ダイヤル調整の秘訣を徹底解説します。
+ナイスカットGで挽いたコーヒーが、クリアな味わいをもたらす理由は何でしょうか。ライバル機（ネクストG・みるっこ）との決定的な違いや、静電気対策・ダイヤル調整の秘訣を徹底解説します。
 
 ---
 
@@ -70,10 +70,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E5%2593%2581%2520%25E5%259C%25A8%25E5%25BA%25AB%25E3%2581%2582%25E3%2582%258AKalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2596%25B0%25E5%2593%2581%2520%25E5%259C%25A8%25E5%25BA%25AB%25E3%2581%2582%25E3%2582%258AKalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qs0i1.ve2q5c67.g00qs0i1.ve2q6701/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitenekakakubamboo%2F61119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitenekakakubamboo%2Fi%2F10015115%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E5%2593%2581%2520%25E5%259C%25A8%25E5%25BA%25AB%25E3%2581%2582%25E3%2582%258AKalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qs0i1.ve2q5c67.g00qs0i1.ve2q6701/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmitenekakakubamboo%2F61119%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmitenekakakubamboo%2Fi%2F10015115%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2596%25B0%25E5%2593%2581%2520%25E5%259C%25A8%25E5%25BA%25AB%25E3%2581%2582%25E3%2582%258AKalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -82,18 +82,18 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-## 1. 喫茶店マスターがナイスカットGを手放さない「3つの構造美」
+## 1. プロフェッショナルがナイスカットGを評価する「3つの構造的特徴」
 
 ナイスカットGが単なる家電製品を超え、プロのバリスタや珈琲愛好家から「名機」として愛され続ける理由は、以下の3つの徹底した設計思想にあります。
 
 ### 1. 豆を切り刻む「カッティングタイプ平刃」
-一般的な家庭用ミルの多くが採用する「コニカル刃（円錐臼）」やすり潰し式のミルと異なり、ナイスカットGは<strong>対向する2枚の鋭利な特殊鋼刃が高速でスライドして豆をスライス</strong>します。豆の細胞壁を押しつぶさずにスパッと断裁するため、過抽出の原因となるパウダー状の微粉が極端に少なく、粒の揃った多角形の粉が生まれます。
+一般的な家庭用ミルの多くが採用する「コニカル刃（円錐臼）」やすり潰し式のミルと異なり、ナイスカットGは**対向する2枚の鋭利な特殊鋼刃が高速でスライドして豆をスライス**します。豆の細胞壁を押しつぶさずにスパッと断裁するため、過抽出の原因となるパウダー状の微粉が極端に少なく、粒の揃った多角形の粉が生まれます。
 
 ### 2. 摩擦熱を遮断する「毎分400回転」の低速トルク
-一般的な電動ミルが毎分1,000〜2,000回転で高速粉砕するのに対し、ナイスカットGは<strong>あえて毎分400回転という低速</strong>で回転します。遊星ギア機構によって強力なトルクを生み出しながらゆっくり挽くことで、摩擦熱による豆の酸化や揮発性アロマの損失を物理的に防ぎます。
+一般的な電動ミルが毎分1,000〜2,000回転で高速粉砕するのに対し、ナイスカットGは**あえて毎分400回転という低速**で回転します。遊星ギア機構によって強力なトルクを生み出しながらゆっくり挽くことで、摩擦熱による豆の酸化や揮発性アロマの損失を物理的に防ぎます。
 
-### 3. 幅わずか12cmの驚異的なコンパクト設計
-これほどの業務用直系パワーを誇りながら、設置幅は<strong>わずか120mm（奥行き229mm、高さ337mm）</strong>。キッチンのカウンターや家電ラックの隙間にすっきりと収まり、日本の住宅事情でも邪魔になりません。
+### 3. 幅わずか12cmのコンパクト設計
+これほどの業務用直系パワーを誇りながら、設置幅は**わずか120mm（奥行き229mm、高さ337mm）**。キッチンのカウンターや家電ラックの隙間にすっきりと収まり、日本の住宅事情でも邪魔になりません。
 
 ---
 
@@ -101,61 +101,61 @@ sidebarProducts:
 
 国内ハイエンド家庭用電動ミルの3大巨頭を比較した客観データ表です。
 
-**【表の見方のポイント】** 表の2行目「刃の構造と回転数」に着目してほしい。ナイスカットGの真価は「毎分400回転の低速カッティング平刃」にあり、豆に摩擦熱を与えず均一に裁断することで、ネクストG2のセラミック平刃やみるっこのカット臼とはまた異なる、透明感のあるシャープな切れ味を生み出している理由がわかる。
+**【表の見方のポイント】** 表の2行目「刃の構造と回転数」は、各モデルの特性を理解する上で重要です。ナイスカットGの主要な特徴である「毎分400回転の低速カッティング平刃」は、豆に摩擦熱を与えず均一に裁断することで、ネクストG2のセラミック平刃やみるっこのカット臼とは異なる、透明感のあるシャープな切れ味を生み出す設計です。
 
 | 比較項目 | ① カリタ ナイスカットG | ② カリタ ネクストG2 | ③ 富士ローヤル みるっこ R-220 |
 | :--- | :--- | :--- | :--- |
-| <strong>刃の材質・形状</strong> | <strong>特殊鋼 カッティング刃（平刃）</strong> | セラミック製平刃 | 特殊鋼 グラインド臼刃 |
-| <strong>回転数（分）</strong> | 約400回転（低速） | 約300回転（超低速） | <strong>約1,800回転（高速強力）</strong> |
-| <strong>味わいの傾向</strong> | <strong>キレのある酸味・透明感・甘み</strong> | まろやかで優しいマイルド風味 | <strong>重厚なボディ・深いコクと苦味</strong> |
-| <strong>静電気対策</strong> | なし（RDT等で対策推奨） | <strong>あり（静電除去イオン発生器）</strong> | なし（ステンレス受缶等で対策） |
-| <strong>10gの挽き時間</strong> | <strong>約5〜8秒（スムーズ）</strong> | 約15〜20秒（ゆっくり） | <strong>約3〜5秒（一瞬）</strong> |
-| <strong>本体サイズ（幅）</strong> | <strong>約12.0cm（最スリム）</strong> | 約12.3cm | 約16.5cm（やや大柄） |
-| <strong>本体重量</strong> | 約2.3kg（適度な重量） | 約3.2kg | 約5.0kg（超重量鋳物） |
-| <strong>価格帯の目安</strong> | <strong>約33,000〜39,000円</strong> | 約45,000〜55,000円 | 約48,000〜58,000円 |
+| **刃の材質・形状** | **特殊鋼 カッティング刃（平刃）** | セラミック製平刃 | 特殊鋼 グラインド臼刃 |
+| **回転数（分）** | 約400回転（低速） | 約300回転（超低速） | **約1,800回転（高速強力）** |
+| **味わいの傾向** | **キレのある酸味・透明感・甘み** | まろやかで優しいマイルド風味 | **重厚なボディ・深いコクと苦味** |
+| **静電気対策** | なし（RDT等で対策推奨） | **あり（静電除去イオン発生器）** | なし（ステンレス受缶等で対策） |
+| **10gの挽き時間** | **約5〜8秒（スムーズ）** | 約15〜20秒（ゆっくり） | **約3〜5秒（一瞬）** |
+| **本体サイズ（幅）** | **約12.0cm（最スリム）** | 約12.3cm | 約16.5cm（やや大柄） |
+| **本体重量** | 約2.3kg（適度な重量） | 約3.2kg | 約5.0kg（超重量鋳物） |
+| **価格帯の目安** | **約33,000〜39,000円** | 約45,000〜55,000円 | 約48,000〜58,000円 |
 
 ---
 
 ## 3. 【実用早見表】粗さ調整ダイヤル（1〜8）と抽出器具の対応
 
-ナイスカットGは、本体前面の大型ダイヤルを回すだけで、0.5刻みの無段階に近い粒度調整が可能です。失敗しないための推奨目盛り早見表です。
+ナイスカットGは、本体前面の大型ダイヤルを回すだけで、0.5刻みの無段階に近い粒度調整が可能です。抽出器具ごとの推奨目盛り早見表です。
 
-**【表の見方のポイント】** ペーパードリップ愛好家は、まず2行目の「ダイヤル目盛り 3.5〜4.5（中細挽き）」をスタート地点にしてほしい。湯落ちのスピードが遅く苦味が重いと感じたら0.5刻みで数字を大きく（粗く）、軽やかすぎる場合は0.5小さく（細かく）調整するだけで、理想の抽出レシピが即座に定まる。
+**【表の見方のポイント】** ペーパードリップをされる方は、まず2行目の「ダイヤル目盛り 3.5〜4.5（中細挽き）」を基準点とすることが推奨されます。湯落ちのスピードが遅く苦味が強く感じられる場合は0.5刻みで数字を大きく（粗く）、軽やかすぎる場合は0.5小さく（細かく）調整することで、好みに合わせた抽出レシピの調整が可能です。
 
 | ダイヤル目盛り | 粒度の目安 | 最適な抽出器具・淹れ方 | 抽出のポイントと味わいの特徴 |
 | :--- | :--- | :--- | :--- |
-| <strong>目盛り 1 〜 2</strong> | 細挽き | マキネッタ（直火式）、水出し濃縮抽出 | 濃厚なクレマとしっかりした苦味を短時間で抽出 |
-| <strong>目盛り 3 〜 4</strong> | <strong>中細挽き</strong> | <strong>ペーパードリップ（浅煎り・中煎り）</strong> | ハリオV60などで華やかな酸味と果実感をストレートに引き出す |
-| <strong>目盛り 4.5 〜 5.5</strong> | <strong>中挽き（王道）</strong> | <strong>ペーパードリップ（深煎り）、カリタ102</strong> | 雑味を出さず、香ばしい甘みと重厚なコクが際立つ黄金目盛り |
-| <strong>目盛り 6 〜 6.5</strong> | やや粗挽き | サイフォン、ネルドリップ | じっくりとお湯と触れ合わせ、澄み切ったビター感を楽しむ |
-| <strong>目盛り 7 〜 8</strong> | 粗挽き | フレンチプレス、コールドブリュー（水出し） | 粉っぽさを出さず、豆本来のオイル分とまろやかな風味を抽出 |
+| **目盛り 1 〜 2** | 細挽き | マキネッタ（直火式）、水出し濃縮抽出 | 濃厚なクレマとしっかりした苦味を短時間で抽出 |
+| **目盛り 3 〜 4** | **中細挽き** | **ペーパードリップ（浅煎り・中煎り）** | ハリオV60などで華やかな酸味と果実感をストレートに引き出す |
+| **目盛り 4.5 〜 5.5** | **中挽き（王道）** | **ペーパードリップ（深煎り）、カリタ102** | 雑味を出さず、香ばしい甘みと重厚なコクが際立つ黄金目盛り |
+| **目盛り 6 〜 6.5** | やや粗挽き | サイフォン、ネルドリップ | じっくりとお湯と触れ合わせ、澄み切ったビター感を楽しむ |
+| **目盛り 7 〜 8** | 粗挽き | フレンチプレス、コールドブリュー（水出し） | 粉っぽさを出さず、豆本来のオイル分とまろやかな風味を抽出 |
 
 ---
 
-## 4. 初心者が直面するリアルな注意点と「静電気飛び散り対策（RDT）」
+## 4. 利用開始時に考慮すべき点と「静電気飛び散り対策（RDT）」
 
-高額なグラインダーを購入した初心者が最初に直面する「ちょっとした戸惑い」と、その解決策を共有します。
+高額なグラインダーの利用開始時に考慮すべき点と、その解決策について解説します。
 
-1. <strong>粉受け周辺の静電気チャフ（薄皮）付着</strong>:
-   冬場など乾燥した季節に深煎り豆を挽くと、プラスチックや受缶に粉が張り付いて飛び散ることがあります。これを100%解決する裏技が世界中のバリスタが愛用する<strong>「RDT（Ross Droplet Technique）」</strong>です。ホッパーに豆を入れる直前、指先にほんの1滴水をつけて豆の表面を撫でるように軽く湿らせてから挽くだけで、静電気が完全に中和され、粉がサラサラと吸い込まれるように受缶に落ちます。
-2. <strong>付属ブラシによる毎日のワンアクション清掃</strong>:
-   排出口の内部には数粒分の粉が残留しやすい構造になっています。挽き終わった直後にスイッチを切った状態で、付属の豚毛ブラシで排出口をトントンと2〜3回軽く叩き払う習慣をつけるだけで、古い粉が次回の一杯に混ざるのを完全に防止できます。
+1.  **粉受け周辺の静電気チャフ（薄皮）付着**:
+    冬場など乾燥した季節に深煎り豆を挽くと、プラスチックや受缶に粉が張り付いて飛び散ることがあります。この現象に対し、世界中のバリスタが実践する効果的な対策が**「RDT（Ross Droplet Technique）」**です。ホッパーに豆を投入する直前、指先にほんの1滴水をつけて豆の表面を軽く湿らせてから挽くだけで、静電気の発生が大幅に抑制され、粉の飛び散りを軽減できます。
+2.  **付属ブラシによる毎日のワンアクション清掃**:
+    排出口の内部には数粒分の粉が残留しやすい構造になっています。挽き終わった直後にスイッチを切った状態で、付属の豚毛ブラシで排出口をトントンと2〜3回軽く叩き払う習慣をつけるだけで、古い粉が次回の一杯に混ざるのを効果的に防ぐことができます。
 
 ---
 
 ### よくある質問（Q&A 3問）
 
-<strong>Q1: カリタの「ネクストG」や富士ローヤル「みるっこ」と何が違いますか？</strong>  
-A1: ナイスカットGは特殊鋼カッティング平刃で豆を切り刻むため、後味のキレと透明感のある酸味・甘みが際立ちます。ネクストGはマイルドで静電除去付き、みるっこは重厚なコクが出やすい設計です。ドリップで澄んだ味を極めるならナイスカットGが最適です。
+**Q1: カリタの「ネクストG」や富士ローヤル「みるっこ」と何が違いますか？**
+A1: ナイスカットGは特殊鋼カッティング平刃で豆を切り刻むため、後味のキレと透明感のある酸味・甘みが際立ちます。ネクストGはマイルドで静電除去付き、みるっこは重厚なコクが出やすい設計です。ドリップで澄んだ味わいを追求する方には、ナイスカットGが適した選択肢の一つです。
 
-<strong>Q2: 挽いた後のコーヒー粉が静電気で飛び散ると聞きました。対策はありますか？</strong>  
-A2: 豆を挽く直前に指先でほんの1滴だけ水を豆になじませる「RDT（ロス・ドロップレット・テクニック）」を行うことで、静電気が驚くほどゼロになり、飛び散りを完全に解消できます。
+**Q2: 挽いた後のコーヒー粉が静電気で飛び散ると聞きました。対策はありますか？**
+A2: 豆を挽く直前に指先でほんの1滴だけ水を豆になじませる「RDT（ロス・ドロップレット・テクニック）」を行うことで、静電気の発生を大幅に抑制し、飛び散りを軽減できます。
 
-<strong>Q3: エスプレッソ用の極細挽きは挽けますか？</strong>  
+**Q3: エスプレッソ用の極細挽きは挽けますか？**
 A3: 目盛り1で直火式マキネッタ程度までは挽けますが、本格的な9気圧エスプレッソマシン用の極微細パウダー（小麦粉状）には非対応です。ハンドドリップやフレンチプレスに特化した設計となっています。
 
 ---
 
-カリタ ナイスカットGを自宅に迎えた朝、スイッチを入れた瞬間の小気味よいモーター音とともに、キッチン全体が名店のような芳醇な珈琲のアロマに包まれます。
+カリタ ナイスカットGは、スイッチを入れた瞬間のモーター音とともに、芳醇な珈琲のアロマが広がる体験を提供します。
 
-雑味のない透明な液体がサーバーに落ちていく至福のひととき。一生モノの道具として、日々の暮らしに豊かな贅沢を添えてくれる最高の一台です。
+雑味のない透明な液体がサーバーに落ちていく様子は、コーヒー愛好家にとって満足感のあるものです。長く愛用できる道具として、日々のコーヒータイムを充実させる一台となるでしょう。

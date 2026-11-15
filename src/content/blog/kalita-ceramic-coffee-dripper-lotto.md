@@ -24,11 +24,11 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-カリタの陶器製ドリッパー「ロト」を購入しようとするとき、誰もが最初に直面する悩みが「<strong>101（1〜2人用）と102（2〜4人用）、どちらのサイズを選ぶべきか？</strong>」「<strong>安価なプラスチック製と比べて陶器製を選ぶ価値はあるのか？</strong>」という選択の疑問です。
+カリタの陶器製ドリッパー「ロト」を購入しようとするとき、誰もが最初に直面する悩みが「<strong>101（1〜2人用）と102（2〜4人用）、どちらのサイズを選ぶべきか？</strong>」「<strong>プラスチック製と比べて陶器製を選ぶ価値はあるのか？</strong>」という選択の疑問です。
 
-「大は小を兼ねるだろうから、とりあえず大きい102を買っておけば安心」と考えてしまいがちですが、実はハンドドリップにおいて<strong>サイズ選びの失敗は、そのまま味の失敗に直結</strong>します。ドリッパーのサイズと粉の量（ベッドハイト）のバランスが崩れると、本来のコクが引き出せなくなってしまうからです。
+カリタの陶器製ドリッパー「ロト」のサイズ選びでは、「大は小を兼ねる」という考え方が必ずしも当てはまらない場合があります。ハンドドリップにおいてドリッパーのサイズと粉の量（ベッドハイト）のバランスが崩れると、本来のコクが十分に引き出されず、抽出結果に影響を及ぼす可能性があります。
 
-今回は、101と102の抽出効率の決定的な違い、プラスチック製・ガラス製との素材比較、そして陶器ならではの予熱テクニックを徹底比較・解説します。
+本記事では、101と102の抽出効率の違い、プラスチック製やガラス製との素材比較、そして陶器製ドリッパーの予熱テクニックについて解説します。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -42,15 +42,15 @@ sidebarProducts:
 <div class="live-price-box" data-product-key="カリタ-陶器製-コーヒードリッパー-ロト" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,980</span>
+<span class="live-price-display" style="font-size: 0.95rem; font-weight: 700; color: #334155;">価格・在庫は各ショップで確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520%25E3%2583%25AD%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520%25E3%2583%25AD%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20%E3%83%AD%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520%25E3%2583%25AD%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20%E3%83%AD%E3%83%88%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520%25E3%2583%25AD%25E3%2583%2588" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -59,55 +59,55 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-## 101 vs 102徹底比較：「粉の厚み（ベッドハイト）」で選ぶべき理由
+## 101 vs 102比較：「粉の厚み（ベッドハイト）」で選ぶべき理由
 
 なぜドリッパーにおいて「大は小を兼ねない」のでしょうか？その鍵を握るのが「ベッドハイト（粉層の高さ）」です。
 
-- <strong>101（1〜2人用）</strong>: 底面積が小さく、10g〜15g（1杯分）の少量粉でも十分な深さ（厚み）が形成されます。お湯が粉の中を通過する距離が確保されるため、しっかりとしたコクと甘みが抽出されます。
-- <strong>102（2〜4人用）</strong>: 底面積が広いため、10g〜15gの粉を入れると薄く広く広がってしまいます。お湯が粉と十分に接触せずにすぐに穴から抜けてしまい、味の薄い水っぽいコーヒー（アンダー抽出）になりがちです。
+-   <strong>101（1〜2人用）</strong>: 底面積が小さく、10g〜15g（1杯分）の少量粉でも十分な深さ（厚み）が形成されます。お湯が粉の中を通過する距離が確保されるため、しっかりとしたコクと甘みが抽出されます。
+-   <strong>102（2〜4人用）</strong>: 底面積が広いため、10g〜15gの粉を入れると薄く広く広がってしまいます。お湯が粉と十分に接触せずにすぐに穴から抜けてしまい、味の薄い水っぽいコーヒー（アンダー抽出）になりがちです。
 
 | 項目 | 101-ロト (1〜2人用) | 102-ロト (2〜4人用) |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | <strong>推奨粉量</strong> | 10g 〜 20g | 20g 〜 40g |
 | <strong>推奨出来上がり量</strong> | 120ml 〜 250ml | 300ml 〜 600ml |
 | <strong>底面幅</strong> | 約5.5cm | 約7.0cm |
-| <strong>最適な人</strong> | 毎朝自分用に1杯淹れる方、ソロ | 夫婦・家族で飲む方、来客が多い方 |
+| <strong>適した用途</strong> | 主に1杯を淹れる場合、ソロユース | 複数杯を一度に淹れる場合、家族・来客用 |
 
-普段9割以上が「自分1人分のコーヒーを淹れる」というライフスタイルであれば、迷わず「101」を選ぶのが成功の鉄則です。
+主に1人分のコーヒーを淹れる機会が多いライフスタイルには、「101」が適した選択肢となります。
 
-## 陶器製 vs プラスチック製：重厚な保温性と経年美化の差
+## 陶器製 vs プラスチック製：保温性と経年変化の差
 
-カリタのドリッパーには、同じ形状でプラスチック製（AS樹脂）もラインナップされています。価格差は約5倍（数百円 vs 約2,000円台）ですが、陶器製を選ぶメリットはどこにあるのでしょうか？
+カリタのドリッパーには、同じ形状でプラスチック製（AS樹脂）もラインナップされています。陶器製を選択するメリットについて解説します。
 
-1. <strong>熱の安定性（温度急降下の防止）</strong>:
-   プラスチック製は薄く、周囲の冷気に影響されやすい性質があります。陶器製は厚みのある焼き物であり、予熱さえすれば一度蓄えた熱を逃しません。抽出前半から後半まで一定の温度域をキープできるため、酸味と苦味のバランスが格段に安定します。
-2. <strong>耐久性と衛生面</strong>:
-   プラスチック製は毎日の洗浄で目に見えない微細な擦り傷が入り、そこにコーヒーの油脂や色素が染み付いて徐々に黄ばんでいきます。陶器製はガラス質の釉薬で覆われているため、何年使い続けても表面はつるつるのまま。洗剤でサッと流すだけで新品同様の白さと輝きを維持できます。
-3. <strong>道具としての愛着と質感</strong>:
-   岐阜県の美濃焼や長崎県の波佐見焼などで作られる陶器ロトは、手に取った時のズッシリとした心地よい重みと、キッチンに置いた時のインテリアとしての佇まいが段違いです。毎日のコーヒーを「儀式」として愛おしみたい人にとって、この質感は代えがたい価値になります。
+1.  <strong>熱の安定性（温度急降下の防止）</strong>:
+    プラスチック製は薄く、周囲の冷気に影響されやすい性質があります。陶器製は厚みのある焼き物であり、予熱さえすれば一度蓄えた熱を逃しません。抽出前半から後半まで一定の温度域をキープできるため、酸味と苦味のバランスが安定しやすいという特徴があります。
+2.  <strong>耐久性と衛生面</strong>:
+    プラスチック製は毎日の洗浄で微細な擦り傷が入りやすく、コーヒーの油脂や色素が染み付いて変色する可能性があります。一方、陶器製はガラス質の釉薬で覆われているため、表面の滑らかさが持続します。洗剤でサッと流すだけで清潔さを維持しやすく、コーヒーの油脂や色素が染み付きにくい特性があります。
+3.  <strong>道具としての質感</strong>:
+    岐阜県の美濃焼や長崎県の波佐見焼などで作られる陶器ロトは、手に取った際の心地よい重みと、キッチンに置いた際のインテリアとしての存在感が特徴です。道具としての質感や所有感を重視する方に適した選択肢です。
 
-## 陶器製を120%活かす「湯通し予熱」と取り扱いの極意
+## 陶器製ドリッパーの「湯通し予熱」と取り扱い上の注意点
 
-陶器製ドリッパーを使う上で、絶対に省いてはならないステップが「湯通し（予熱）」です。
+陶器製ドリッパーを使用する際、湯通し（予熱）は重要なステップの一つです。
 
-冷え切った陶器は、注いだお湯の熱を猛烈な勢いで奪い去ります。予熱なしでドリップを始めると、せっかく90℃で沸かしたお湯が粉に届いた瞬間に80℃以下まで冷やされ、十分な抽出ができなくなってしまいます。
+低温の陶器は、注がれた湯の熱を奪います。予熱せずにドリップを開始すると、湯は粉に到達するまでに80℃以下まで冷却され、適切な抽出が困難になる可能性があります。
 
-- <strong>予熱の手順</strong>: ドリップを始める直前に、沸騰したお湯をドリッパー内側にぐるりと回しかけ、サーバーへ落とします。陶器の外側がじんわりと温まったら、サーバーのお湯を捨ててからペーパーフィルターをセットします。
-- <strong>衝撃対策</strong>: 陶器であるため、シンク内での他の食器との衝突には注意が必要です。洗う際は単独で手洗いし、急激な冷水での冷却（ヒートショック）を避けることで、ヒビ割れを防ぎ10年、20年と使い続けることができます。
+-   <strong>予熱の手順</strong>: ドリップを始める直前に、沸騰したお湯をドリッパー内側にぐるりと回しかけ、サーバーへ落とします。陶器の外側がじんわりと温まったら、サーバーのお湯を捨ててからペーパーフィルターをセットします。
+-   <strong>衝撃対策</strong>: 陶器であるため、シンク内での他の食器との衝突には注意が必要です。洗う際は単独で手洗いし、急激な冷水での冷却（ヒートショック）を避けることで、ヒビ割れを防ぎ、製品の寿命を延ばすことにつながります。
 
-正しいサイズを選び、丁寧な予熱を施すことで、カリタ陶器ロトはあなたのハンドドリップを生涯にわたって支える最高峰のツールになってくれるはずです。
+適切なサイズを選び、丁寧な予熱を行うことで、カリタ陶器ロトはハンドドリップの安定した抽出をサポートする器具として活用できます。
 
 ### よくある質問
 
-<strong>Q1: 101（1〜2人用）と102（2〜4人用）、どちらを買うべきですか？</strong>
+**Q1: 101（1〜2人用）と102（2〜4人用）、どちらを買うべきですか？**
 A1: 普段1人分（150〜200ml）を淹れる機会が多いなら「101」一択です。大きな102で少量の粉を淹れると、粉の層が薄くなりすぎてお湯が素通りし、薄いコーヒーになってしまいます。逆に家族分やマグカップ2杯分（300ml以上）を一度に淹れるなら「102」が適しています。
 
-<strong>Q2: プラスチック製と陶器製で味や使い勝手はどう違いますか？</strong>
+**Q2: プラスチック製と陶器製で味や使い勝手はどう違いますか？**
 A2: プラスチック製は軽くて割れず予熱なしで手軽ですが、長年使うと細かな傷や色移りが目立ちます。陶器製は予熱の手間と割れるリスクがありますが、重厚な保温力で味が安定し、汚れやニオイが染み付かず半永久的に美しい艶を保ちます。
 
-<strong>Q3: 陶器の予熱はどのようにおこなうのがベストですか？</strong>
+**Q3: 陶器の予熱はどのようにおこなうのがベストですか？**
 A3: ペーパーフィルターをセットする前に、ケトルの熱湯をドリッパーの内側全体に回しかけ、下のサーバーに落とします。ドリッパーの外側を手で触って「じんわり熱い」と感じるまで温まったら、サーバーのお湯を捨ててからペーパーと粉をセットしてください。
 
-## まとめ：カリタ陶器ロトがもたらす安定した珈琲抽出の時間
+## まとめ：カリタ陶器ロトによる安定したコーヒー抽出
 
-高い蓄熱性と3つ穴構造によるスムーズな透過を兼ね備えたカリタの陶器製ドリッパー「ロト」は、抽出前の丁寧な湯通し（予熱）を行うことで、初心者でも雑味のない安定した味わいを再現できる名作器具です。淹れる杯数に合わせた適切なサイズ（101または102）を選び、長く愛用できる陶器ならではの質感とともに、毎日のハンドドリップをじっくり堪能してみてください。
+高い蓄熱性と3つ穴構造によるスムーズな透過を兼ね備えたカリタの陶器製ドリッパー「ロト」は、抽出前の丁寧な湯通し（予熱）を行うことで、安定した味わいのコーヒー抽出をサポートします。淹れる杯数に合わせた適切なサイズ（101または102）を選び、陶器ならではの質感とともに、ハンドドリップの時間を充実させることが可能です。

@@ -10,7 +10,7 @@ tags:
   - 'angle:review'
 faq:
   - question: 'KONO以外のメーカーのサイフォンでも使えるか？'
-    answer: '基本的にアルコールランプのセト口は一般的なサイズが多いので、KONO以外のサイフォンでも使える可能性は高い。しかし、念のため手持ちのアルコールランプのセト口のサイズや形状を確認することをおすすめする。'
+    answer: '基本的にアルコールランプのセト口は一般的なサイズが多いので、KONO以外のサイフォンでも使える可能性は高い。しかし、念のため手持ちのアルコールランプのセト口のサイズや形状を確認するのが効果的だ。'
   - question: 'ランプ芯の交換時期の目安は？'
     answer: '炎が不安定になったり、芯が極端に短くなったり、焦げ付きがひどくなったりしたら交換の目安だ。使用頻度にもよるが、大体数ヶ月から半年程度で交換するのが一般的だと考えている。'
   - question: 'アルコールランプの炎の調整方法は？'
@@ -35,7 +35,7 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅でのコーヒータイム、特にサイフォン抽出に魅せられた僕にとって、クリアで安定した味わいは追求し続ける目標だ。しかし、火力が不安定だと湯温が変動し、せっかくの豆の個性が台無しになる。
+自宅でのコーヒータイム、特にサイフォン抽出において、クリアで安定した味わいは追求される目標である。しかし、火力が不安定だと湯温が変動し、せっかくの豆の個性が台無しになる。
 
 そんな悩みを解決に導いてくれたのが、このKONO コーノ ランプ芯 セト口付 サイフォンだった。
 
@@ -58,10 +58,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-flask4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000248%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-flask4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000248%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -92,13 +92,13 @@ sidebarProducts:
 
 ## 実際に使って実感したクリアな味わい
 
-僕も以前は、サイフォンの付属の芯や、価格の安さから互換品を試した時期がある。しかし、どうにも炎が不安定で、抽出中に湯の対流が定まらない感覚があった。せっかく丁寧に挽いた豆も、なんだかぼんやりとした味に仕上がっていたのだ。
+以前は、サイフォンの付属の芯や安価な互換品が使用されていた。しかし、炎が不安定で、抽出中に湯の対流が定まらないという問題があった。丁寧に挽いた豆も、風味が不明瞭な味に仕上がることがあった。
 
-KONO製のランプ芯に交換してからは、その違いに驚いた。炎は穏やかに燃え続け、フラスコ内の湯は均一に加熱されていく。湯が上昇する時の動きも、以前より滑らかに感じられた。
+KONO製のランプ芯に交換後、炎は穏やかに燃焼し、フラスコ内の湯は均一に加熱される。湯が上昇する際の動きも、より滑らかになる。
 
-結果として、カップに注がれたコーヒーは明らかにクリアになった。雑味がなくなり、豆本来の甘みや酸味、香りがストレートに感じられる。特に浅煎りのエチオピアを淹れた時には、フローラルな香りが際立ち、その風味に感動した。
+結果として、カップに注がれたコーヒーはクリアな味わいとなる。雑味がなくなり、豆本来の甘みや酸味、香りが明確に感じられる。特に浅煎りのエチオピアを抽出した際には、フローラルな香りが際立つ。
 
-サイフォンでコーヒーを淹れる醍醐味は、その視覚的な美しさにもある。炎が安定していると、湯がフラスコ内を行き交う様子も落ち着いて見え、コーヒーを淹れる時間がより豊かなものになる。この小さな部品が、僕のコーヒー体験を一段階引き上げてくれたのだ。
+サイフォンでコーヒーを淹れる醍醐味は、その視覚的な美しさにもある。炎が安定していると、湯がフラスコ内を行き交う様子も落ち着いて見え、コーヒーを淹れる時間がより豊かなものになる。この小さな部品は、コーヒー抽出の品質を向上させる。
 
 | 項目 | 詳細 |
 | --- | --- |
@@ -120,17 +120,18 @@ KONOのランプ芯は高品質だが、消耗品であることには変わり�
 
 KONOのランプ芯は、サイフォン抽出の品質にこだわりたい人にこそ使ってほしいアイテムだ。たかが交換部品、されど交換部品。この小さな部品一つで、日々のコーヒー体験は大きく変わる。
 
-安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるだろう。サイフォンの持つ魅力を最大限に引き出し、僕のコーヒーライフを豊かにしてくれた。
+安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるだろう。サイフォンの持つ魅力を最大限に引き出し、コーヒー抽出の質を高める。
 
 このKONO コーノ ランプ芯 セト口付 サイフォンは、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
 
 ### よくある質問
 
 <strong>Q1: KONO以外のメーカーのサイフォンでも使えるか？</strong>
-A1: 基本的にアルコールランプのセト口は一般的なサイズが多いので、KONO以外のサイフォンでも使える可能性は高い。しかし、念のため手持ちのアルコールランプのセト口のサイズや形状を確認することをおすすめする。
+A1: 基本的にアルコールランプのセト口は一般的なサイズが多いので、KONO以外のサイフォンでも使える可能性は高い。しかし、念のため手持ちのアルコールランプのセト口のサイズや形状を確認するのが効果的だ。
 
 <strong>Q2: ランプ芯の交換時期の目安は？</strong>
 A2: 炎が不安定になったり、芯が極端に短くなったり、焦げ付きがひどくなったりしたら交換の目安だ。使用頻度にもよるが、大体数ヶ月から半年程度で交換するのが一般的だと考えている。
 
 <strong>Q3: アルコールランプの炎の調整方法は？</strong>
 A3: 芯の出し具合で炎の大きさを調整する。芯を出しすぎると炎が大きくなりすぎ、芯の消耗が早まる。フラスコの底面全体を均一に温める程度の、穏やかな炎が理想的だ。
+

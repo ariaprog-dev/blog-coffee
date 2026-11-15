@@ -11,7 +11,7 @@ faq:
   - question: '生豆1kgで何杯くらいのコーヒーが淹れられますか？'
     answer: '一般的に、コーヒー1杯に必要な豆は10g〜15g程度です。焙煎すると水分が抜けて約15〜20%重量が減少するため、生豆1kgからは約800g〜850gの焙煎豆が得られます。したがって、およそ50杯〜85杯分のコーヒーを淹れることができます。'
   - question: '生豆の保存期間はどれくらいですか？'
-    answer: '適切な環境で保存すれば、生豆は半年から1年程度は品質を保てます。密閉容器に入れ、湿度の低い冷暗所で保存してください。焙煎済みの豆よりも長く保存できますが、鮮度が落ちるにつれて風味も変化するため、できるだけ早めに消費することをおすすめします。'
+    answer: '適切な環境で保存すれば、生豆は半年から1年程度は品質を保てます。密閉容器に入れ、湿度の低い冷暗所で保存してください。焙煎済みの豆よりも長く保存できますが、鮮度が落ちるにつれて風味も変化するため、できるだけ早めに消費するのが効果的だ。'
   - question: '初心者でも美味しく焙煎できますか？'
     answer: 'はい、十分に可能です。最初は火加減や焙煎度合いの調整に戸惑うかもしれませんが、何度か挑戦するうちにコツが掴めます。まずは失敗を恐れずに、コロンビア スプレモのような扱いやすい豆から手網焙煎を始めてみてください。失敗しても、それは次に活かせる貴重な経験です。'
 sidebarProducts:
@@ -34,9 +34,9 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自家焙煎コーヒーの魅力に取り憑かれた僕は、日々新しい豆や焙煎方法を試している。ただ、いざ「自分で焙煎してみたい」と思っても、生豆の種類が多すぎて何を選べばいいか分からない、という声もよく耳にする。
+自家焙煎コーヒーは、日々新しい豆や焙煎方法を試すことが可能である。ただ、いざ「自分で焙煎してみたい」と思っても、生豆の種類が多すぎて何を選べばいいか分からない、という声もよく耳にする。
 
-今回は、そんな自家焙煎初心者が生豆選びで失敗しないためのポイントと、僕がおすすめする生豆を紹介する。
+今回は、自家焙煎初心者が生豆選びで失敗しないためのポイントと、生豆の選択基準を紹介する。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -55,10 +55,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E9%2585%258D%25E4%25BE%25BF%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25B3%25E3%2583%25A9%2520%25EF%25BC%259C%25E5%2586%2585%25E5%25AE%25B9%25E9%2587%258F%25EF%25BC%259E1kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25AE%2585%25E9%2585%258D%25E4%25BE%25BF%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25B3%25E3%2583%25A9%2520%25EF%25BC%259C%25E5%2586%2585%25E5%25AE%25B9%25E9%2587%258F%25EF%25BC%259E1kg" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00s9rc1.ve2q5c3a.g00s9rc1.ve2q6c40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F8coffee%2F8coffee-bra-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F8coffee%2Fi%2F10005731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E9%2585%258D%25E4%25BE%25BF%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25B3%25E3%2583%25A9%2520%25EF%25BC%259C%25E5%2586%2585%25E5%25AE%25B9%25E9%2587%258F%25EF%25BC%259E1kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00s9rc1.ve2q5c3a.g00s9rc1.ve2q6c40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F8coffee%2F8coffee-bra-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F8coffee%2Fi%2F10005731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E9%2585%258D%25E4%25BE%25BF%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25B3%25E3%2583%25A9%2520%25EF%25BC%259C%25E5%2586%2585%25E5%25AE%25B9%25E9%2587%258F%25EF%25BC%259E1kg" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -79,13 +79,13 @@ sidebarProducts:
 
 ## 生豆選びの重要チェックポイント
 
-失敗を避けるためには、いくつかのポイントを押さえて生豆を選ぶことが大切だ。僕自身の経験からも、ここだけは見てほしいという点を3つ紹介する。
+失敗を避けるためには、いくつかのポイントを押さえて生豆を選ぶことが重要である。特に確認すべき点を3つ紹介する。
 
 #### 生産国と品種で好みの味を探す
 
 コーヒー豆の風味は、生産国や品種によって大きく異なる。まず、どんな味のコーヒーを飲みたいかをイメージしてみよう。
 
-一般的に流通しているのは、繊細な香りと酸味が特徴の「アラビカ種」と、苦味が強くカフェイン含有量の多い「ロブスタ種」だ。自家焙煎で楽しむなら、複雑な風味を持つアラビカ種から始めるのがおすすめだ。
+一般的に流通しているのは、繊細な香りと酸味が特徴の「アラビカ種」と、苦味が強くカフェイン含有量の多い「ロブスタ種」だ。自家焙煎で楽しむなら、複雑な風味を持つアラビカ種から始めるのが適している。
 
 例えば、コロンビアは酸味と苦味のバランスが良く、癖が少ないため初心者でも飲みやすい。ブラジル産はナッツやチョコレートのような香ばしい風味が特徴で、マイルドな口当たりが楽しめるだろう。
 
@@ -95,7 +95,7 @@ sidebarProducts:
 
 生豆の精製方法も、風味に大きな影響を与える要素だ。主に「ウォッシュド」と「ナチュラル」がある。
 
-「ウォッシュド」は、収穫したコーヒーチェリーの果肉を除去し、水洗いで粘液質を洗い流してから乾燥させる方法だ。この製法で作られた豆は、クリーンでクリアな酸味と、豆本来の風味をストレートに楽しめる。初心者には、雑味が少なく扱いやすいウォッシュド精製がおすすめだ。
+「ウォッシュド」は、収穫したコーヒーチェリーの果肉を除去し、水洗いで粘液質を洗い流してから乾燥させる方法だ。この製法で作られた豆は、クリーンでクリアな酸味と、豆本来の風味をストレートに楽しめる。初心者には、雑味が少なく扱いやすいウォッシュド精製が適している。
 
 一方、「ナチュラル」は、コーヒーチェリーを果肉がついたまま乾燥させる方法で、果実の甘みやフルーティーな香りが豆に移りやすい。個性的で華やかな風味を楽しめるが、ウォッシュドに比べて豆の個性が強く出るため、少し上級者向けと言えるかもしれない。
 
@@ -113,13 +113,13 @@ sidebarProducts:
 
 ## 目的別！おすすめの生豆1kg（初心者向け）
 
-ここからは、僕が厳選した初心者におすすめの生豆を、選び方の基準に合わせて紹介する。
+ここからは、初心者向けの生豆を、選び方の基準に合わせて紹介する。
 
 #### まずはバランスの取れた一杯から！コロンビア スプレモ
 
 「まずは手軽に美味しいコーヒーを焙煎してみたい」「失敗なく、日常的に楽しめる豆が良い」という人には、コロンビア スプレモが最適だ。酸味、苦味、コクのバランスが非常に良く、癖が少ないため、自分の好みの焙煎度合いを見つけやすい。
 
-僕も自家焙煎を始めた頃は、このコロンビア スプレモで練習した。中煎りから深煎りまで、どの焙煎度合いでも美味しく仕上がり、飲み飽きない味わいは、自家焙煎の楽しさを教えてくれるはずだ。
+自家焙煎の練習には、このコロンビア スプレモが使用されることがある。中煎りから深煎りまで、どの焙煎度合いでも美味しく仕上がり、飲み飽きない味わいは、自家焙煎の楽しさを教えてくれるはずだ。
 
 | 項目 | 詳細 |
 | --- | --- |
@@ -130,7 +130,7 @@ sidebarProducts:
 
 「ナッツやチョコレートのような、まろやかで親しみやすい風味が好み」という人には、ブラジル プレミアムショコラが良い選択肢になる。ブラジル豆特有の香ばしさと優しい甘みが特徴で、ホットでもアイスでも楽しめる。
 
-この豆は深煎りにすると、より一層チョコレートのような濃厚なコクが引き立つ。ミルクとの相性も抜群なので、カフェオレやラテにするのもおすすめだ。普段からカフェで甘いコーヒーを飲むことが多い人には、特に試してほしい。
+この豆は深煎りにすると、より一層チョコレートのような濃厚なコクが引き立つ。ミルクとの相性も抜群なので、カフェオレやラテにするのも有効だ。普段からカフェで甘いコーヒーを飲むことが多い人には、特に試してほしい。
 
 | 項目 | 詳細 |
 | --- | --- |
@@ -156,7 +156,7 @@ sidebarProducts:
 
 次に、焙煎器具だが、最初は手網焙煎から始めるのが最も手軽だ。コンロで直火にかけ、豆を振り続けるだけのシンプルな方法で、豆が弾ける「ハゼ」の音や、香りの変化をダイレクトに感じられる。費用も数千円程度で抑えられる。
 
-初めての焙煎は、少量（50g〜100g程度）から始めるのがおすすめだ。最初は失敗しても、その経験が次の焙煎に活きる。焙煎度合いの目安は、豆の色や香り、ハゼの音で判断する。焙煎時間も測っておくと、後で振り返りやすい。
+初めての焙煎は、少量（50g〜100g程度）から始めるのが適している。最初は失敗しても、その経験が次の焙煎に活きる。焙煎度合いの目安は、豆の色や香り、ハゼの音で判断する。焙煎時間も測っておくと、後で振り返りやすい。
 
 焙煎したての豆は、ガス抜きのために2〜3日置いてから淹れると、より美味しくなる。この待つ時間も、自家焙煎の醍醐味の一つだ。
 
@@ -170,7 +170,7 @@ A1: 一般的に、コーヒー1杯に必要な豆は10g〜15g程度です。焙
 <strong>Q2: 生豆の保存期間はどれくらいですか？</strong>
 A2: 適切な環境で保存すれば、生豆は半年から1年程度は品質を保てます。密閉容器に入れ、湿度の低い冷暗所で保存してください。
 
-焙煎済みの豆よりも長く保存できますが、鮮度が落ちるにつれて風味も変化するため、できるだけ早めに消費することをおすすめします。
+焙煎済みの豆よりも長く保存できますが、鮮度が落ちるにつれて風味も変化するため、できるだけ早めに消費するのが効果的だ。
 
 <strong>Q3: 初心者でも美味しく焙煎できますか？</strong>
 A3: はい、十分に可能です。最初は火加減や焙煎度合いの調整に戸惑うかもしれませんが、何度か挑戦するうちにコツが掴めます。
@@ -179,17 +179,7 @@ A3: はい、十分に可能です。最初は火加減や焙煎度合いの調�
 
 ## 自分だけのコーヒーを追求する喜び
 
-自家焙煎は、ただコーヒーを淹れる行為以上のものだ。生豆を選ぶところから始まり、自分の手で焙煎し、最高の状態で一杯を抽出する。この一連のプロセスすべてが、僕たちを豊かなコーヒーの世界へと誘ってくれる。
+自家焙煎は、ただコーヒーを淹れる行為以上のものだ。生豆を選ぶところから始まり、自分の手で焙煎し、最高の状態で一杯を抽出する。この一連のプロセスすべてが、豊かなコーヒーの世界を提供する。
 
 今回紹介した生豆選びのポイントを参考に、ぜひ自分だけの一杯を見つけてほしい。最初の豆選びは、その道のりの第一歩に過ぎない。あなたのコーヒーライフが、より一層深まることを願っている。
 
-### よくある質問
-
-<strong>Q1: 生豆1kgで何杯くらいのコーヒーが淹れられますか？</strong>
-A1: 一般的に、コーヒー1杯に必要な豆は10g〜15g程度です。焙煎すると水分が抜けて約15〜20%重量が減少するため、生豆1kgからは約800g〜850gの焙煎豆が得られます。したがって、およそ50杯〜85杯分のコーヒーを淹れることができます。
-
-<strong>Q2: 生豆の保存期間はどれくらいですか？</strong>
-A2: 適切な環境で保存すれば、生豆は半年から1年程度は品質を保てます。密閉容器に入れ、湿度の低い冷暗所で保存してください。焙煎済みの豆よりも長く保存できますが、鮮度が落ちるにつれて風味も変化するため、できるだけ早めに消費することをおすすめします。
-
-<strong>Q3: 初心者でも美味しく焙煎できますか？</strong>
-A3: はい、十分に可能です。最初は火加減や焙煎度合いの調整に戸惑うかもしれませんが、何度か挑戦するうちにコツが掴めます。まずは失敗を恐れずに、コロンビア スプレモのような扱いやすい豆から手網焙煎を始めてみてください。失敗しても、それは次に活かせる貴重な経験です。

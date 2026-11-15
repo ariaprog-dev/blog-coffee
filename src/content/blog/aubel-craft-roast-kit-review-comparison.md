@@ -34,7 +34,7 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「自宅で焙煎したてのコーヒーを飲みたい」その願いを、手軽さと本格性を両立して叶えてくれるのが、このアウベルクラフト 遠赤コーヒー焙煎キットだ。特に、豆の均一な加熱と効率的な熱伝導に着目した独自の設計は、僕が求めていた「いつでも安定して美味しい一杯」を実現する上で欠かせない要素だった。
+「自宅で焙煎したてのコーヒーを飲みたい」というニーズに対し、アウベルクラフト 遠赤コーヒー焙煎キットは手軽さと本格性を両立する。特に、豆の均一な加熱と効率的な熱伝導に着目した独自の設計は、安定した品質のコーヒーを実現する上で重要な要素である。
 
 一般的な手回し焙煎機が抱える「焼きムラ」という課題に対し、このキットは素材と形状の工夫で明確な解決策を提示している。初めて自宅焙煎に挑戦する初心者から、より質の高い焙煎を追求したい上級者まで、納得のいく仕上がりを手軽に楽しめるだろう。
 
@@ -55,10 +55,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -69,7 +69,7 @@ sidebarProducts:
 
 ## なぜこの焙煎機は豆を均一に焼き上げ、クリアな風味を生むのか
 
-手回し式焙煎機の最大の課題は、豆に均一に熱を伝えにくいことだ。熱源に対する豆の位置が固定されがちだと、一部が焦げ付いたり、中心まで火が通らなかったりして、味にムラが出やすい。このキットがこの課題をどう解決しているのか、僕はその設計思想に深く感銘を受けた。
+手回し式焙煎機の最大の課題は、豆に均一に熱を伝えにくいことである。熱源に対する豆の位置が固定されがちだと、一部が焦げ付いたり、中心まで火が通らなかったりして、味にムラが生じやすい。このキットは、この課題を解決する設計が施されている。
 
 まず注目すべきは、世界でも珍しい「四角い焙煎カゴ」の形状だ。一般的な円柱状のカゴと比較すると、四角い形状はハンドルを回した際に豆がカゴの隅に当たり、より大きく撹拌される。
 
@@ -81,9 +81,9 @@ sidebarProducts:
 
 均一に熱が通った豆は、ドリップした際に雑味が少なく、クリアで深みのある一杯を生み出す。
 
-初めて焙煎した際、僕は火加減の調整に少し戸惑った。推奨されるガスコンロの中央に置いたものの、最初は火力が強すぎて一部の豆が早く色付き始めてしまったのだ。
+初めて焙煎する際、火加減の調整に注意が必要である。推奨されるガスコンロの中央に置いた場合、火力が強すぎると一部の豆が早く色付き始める可能性がある。
 
-そこで、少し火元から離し、ゆっくりとハンドルを回すことで、豆全体が均一に茶色く色づき、心地よいハゼ音とともにふっくらと膨らむ様子を実感した。この均一な焙煎こそが、後で淹れるコーヒーの味の安定性、そして口に広がるクリアな風味の土台となる。
+火元から離し、ゆっくりとハンドルを回すことで、豆全体が均一に茶色く色づき、ハゼ音とともに膨らむ。この均一な焙煎は、コーヒーの味の安定性とクリアな風味の基盤となる。
 
 ## 自家焙煎が変える日々のコーヒー代と片付けの手間
 
@@ -99,7 +99,7 @@ sidebarProducts:
 
 使用後は、冷めた焙煎器からチャフ（薄皮）を払い、軽く拭き取るだけで手入れが完了する。投入窓から豆の出し入れがスムーズにできるのも、小さなことだが毎日の作業では地味にありがたい。
 
-使わない時はコンパクトに収納できるのも、限られたキッチンスペースには助かる。組み立てキットであるため、初期に約20～30分かけて組み立てる手間はあるものの、一度組み立ててしまえば、あとは焙煎のたびにさっと出して使える。この手軽さも、僕が自家焙煎を習慣化できた大きな理由の一つだ。
+使用しない時はコンパクトに収納できるため、限られたキッチンスペースでも利用しやすい。組み立てキットであるため、初期に約20～30分かけて組み立てる作業が必要だが、一度組み立てれば、焙煎のたびに手軽に使用できる。この手軽さは、自家焙煎を習慣化する上で有効な要素である。
 
 ## 手回し焙煎だからこそ感じる課題と乗り越えるコツ
 
@@ -107,11 +107,11 @@ sidebarProducts:
 
 1回の焙煎量は最大250g（基本量は200g）と十分な量ではあるが、その間、常にハンドルを回し続けなければならない。焙煎時間は豆の種類や火力にもよるが、おおよそ10分から15分程度。
 
-この間、集中して手を動かす必要がある。僕の場合、休日の朝など、時間にゆとりのある時にまとめて焙煎するルーティンを組むことで、この手間を解消している。
+焙煎中は集中して手を動かす必要がある。時間にゆとりのある時にまとめて焙煎するなどの工夫により、この手間を解消できる。
 
 また、火力の調整と豆の焼け具合の判断には、ある程度の経験が必要だ。ガスコンロの直火で行うため、火力は自分で調整し、豆の色や香り、ハゼ音を聞き分けながら焙煎の進行具合を見極める必要がある。これは、自動で温度管理してくれる電動焙煎機とは異なり、まさに「職人の技」が求められる部分だ。
 
-しかし、僕はこれをデメリットとは捉えていない。むしろ、自分の手で豆と向き合い、五感をフル活用して焼き上げるプロセスそのものが、自家焙煎の醍醐味だと感じている。
+この作業はデメリットではなく、自分の手で豆と向き合い、五感を活用して焼き上げるプロセスは、自家焙煎の魅力の一つである。
 
 最初は多少の失敗もあるかもしれないが、何度か試すうちに自分なりのコツを掴み、理想の焼き加減を見つけられるはずだ。この手間こそが、コーヒーへの愛着を深め、一杯の価値を高めてくれる。
 
@@ -150,7 +150,7 @@ sidebarProducts:
 *   高品質なコーヒーを、長期的に見て経済的に楽しみたいと考える人。
 *   手作業の道具に愛着を感じ、長く使い続けたいと考える人。
 
-確かに初期投資として60,000円という価格は安くはない。しかし、このキットが提供する「唯一無二の焙煎体験」と「日々のコーヒー生活の質の向上」を考えれば、十分すぎる価値があると僕は確信している。
+初期投資として60,000円という価格は安価ではない。しかし、このキットが提供する焙煎体験とコーヒー生活の質の向上を考慮すると、その価値は十分である。
 
 ### よくある質問
 
@@ -168,3 +168,4 @@ A2: 焙煎時間は豆の量や火力にもよりますが、50gから250g（基
 A3: 他の手回し式と比べると、特許取得済みの四角い焙煎カゴと内側の羽根による「圧倒的な攪拌効率」が最大の特徴です。これにより、手回し式で最も難しいとされる「焼きムラの抑制」を高いレベルで実現しています。
 
 また、風防と遠赤ネットの組み合わせで熱効率が良く、豆がしっかり膨らむため、風味豊かな仕上がりが期待できます。
+

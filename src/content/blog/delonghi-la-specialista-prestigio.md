@@ -32,15 +32,15 @@ tags:
 <div class="live-price-box" data-product-key="デロンギ-ラ-スペシャリスタ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
-<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">最安値をチェック</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">価格・在庫を確認</span>
 </div>
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%2F" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -67,9 +67,9 @@ tags:
 
 また、「ダイナミック プリインフュージョン」という蒸らし機能も、エスプレッソの品質を高める上で極めて重要なポイントである。これは、抽出前に少量の湯を均一にコーヒー粉に浸透させ、粉に含まれるガス（主に二酸化炭素）を効率的に排出する「蒸らし」の工程だ。この工程により、粉は均一に膨らみ、その後の本格的な抽出で湯が粉全体にムラなく行き渡りやすくなる。これにより、偏りのない安定した成分抽出が可能となり、コーヒー豆が持つ本来の豊かな風味とアロマを最大限に引き出すことができる。経験上、この蒸らしがあるかないかで、エスプレッソの風味の深みや複雑さが大きく変わると実感している。
 
-## 私が実際に淹れてみた体験談
+## 抽出の検証
 
-今回、私は中深煎りのエチオピア産ウォッシュド豆（イルガチェフェ地方）を使ってみた。設定温度は90℃、挽き目はグラインダーの「4」（8段階中の真ん中よりやや細かめ）に調整した。
+中深煎りのエチオピア産ウォッシュド豆（イルガチェフェ地方）を使用し、設定温度は90℃、挽き目はグラインダーの「4」（8段階中の真ん中よりやや細かめ）に調整した。
 
 まず、グラインダーで豆を挽き始めた瞬間、周囲に広がる華やかな香りに引き込まれた。フレッシュな花のようなアロマと、かすかに感じる柑橘系の爽やかさが、リビング全体に心地よく広がる。この段階で、すでに抽出への期待感が高まるのを感じた。
 
@@ -79,7 +79,7 @@ tags:
 
 一口含むと、まず舌の上に広がるのは、明るくクリーンなベリー系の酸味だ。続いて、喉の奥へと滑らかに落ちていくにつれて、ローストナッツのような香ばしいコクと、微かな甘みが現れる。苦味は非常に穏やかで、全体のバランスが絶妙にとれていた。後味には、フローラルな余韻が長く続き、クリーンな印象を残すのも印象的だった。
 
-この一杯は、まさに緻密に計算されたかのようなバランスの取れた味わいだった。普段、ハンドドリップで温度や蒸らしに細心の注意を払っているが、このマシンはそれを常に高い精度で再現する。特に、手動での調整に比べ、抽出の安定性は格段に優れていると実感した。
+この一杯は、バランスの取れた味わいを示した。本マシンは、温度や蒸らしの条件を高い精度で再現する。手動での調整と比較して、抽出の安定性が優れている。
 
 その後、ミルクフロッサーで牛乳をスチームしてみた。二重構造のスチームボイラーが内蔵されているだけあり、非常にパワフルだ。短時間で、キメ細かく、なめらかなフォームミルクが完成した。ミルクの温度管理も容易であり、ラテアートの練習にも十分に対応できると感じた。
 
@@ -103,7 +103,7 @@ tags:
 
 ### 設置スペースと初期投資
 
-本体寸法が幅38.5cm x 奥行37.0cm x 高さ45.0cm、重量13.5kgと、かなりの存在感がある。キッチンのカウンターやコーヒーを淹れるスペースに十分な余裕があるか、導入前に確認することを強く推奨する。設置場所をしっかり決めてから購入計画を立てることが重要だ。
+本体寸法が幅38.5cm x 奥行37.0cm x 高さ45.0cm、重量13.5kgと、かなりの存在感がある。キッチンのカウンターやコーヒーを淹れるスペースに十分な余裕があるか、導入前に確認することが重要である。設置場所をしっかり決めてから購入計画を立てることが重要だ。
 
 また、初期投資として168,000円という価格は、コーヒー器具としては高額である。手軽にコーヒーを楽しみたい方や、エスプレッソにそこまでこだわりがない方には、オーバースペックに感じるかもしれない。価格に見合うだけの価値を求めているか、自身のコーヒーへの情熱と照らし合わせて検討する必要があるだろう。
 
@@ -111,7 +111,7 @@ tags:
 
 このマシンは、安定した抽出をサポートする様々な革新的な機能を備えているが、それだけで完璧な一杯が約束されるわけではない。やはり、使用するコーヒー豆の品質、鮮度、焙煎度合いが最も重要である。
 
-どんなに高性能なマシンでも、豆の状態が悪ければ美味しいコーヒーは抽出できない。このマシンを最大限に活用するには、良質なスペシャルティコーヒー豆を積極的に試してみることをおすすめする。そして、豆の特性に合わせて、挽き目や抽出温度を微調整する手間は、やはり必要となる。この「微調整」こそが、コーヒーを淹れることの面白さの一つであり、マシンはあくまで道具であり、使いこなす側の探求心も大切であることを忘れてはならない。
+どんなに高性能なマシンでも、豆の状態が悪ければ美味しいコーヒーは抽出できない。このマシンを最大限に活用するには、良質なスペシャルティコーヒー豆を積極的に試してみるのが効果的だ。そして、豆の特性に合わせて、挽き目や抽出温度を微調整する手間は、やはり必要となる。この「微調整」こそが、コーヒーを淹れることの面白さの一つであり、マシンはあくまで道具であり、使いこなす側の探求心も大切であることを忘れてはならない。
 
 ## まとめ：日常のコーヒータイムを充実させる、価値ある選択
 
@@ -119,7 +119,7 @@ tags:
 
 抽出の安定性、正確な温度管理、そして簡単に高品質なフォームミルクが作れる機能は、日々のコーヒータイムを大きく向上させるだろう。高価な買い物ではあるが、長期的に見れば、自宅で過ごす時間をより充実させるための、価値ある投資であると考える。
 
-このマシンは、自宅で本格的なエスプレッソ体験を追求するコーヒー愛好家にとって、新たな可能性をもたらす一台となるだろう。導入にあたっては、設置スペースや初期投資額を考慮しつつ、自身のコーヒーに対する情熱と照らし合わせ、その価値を熟考することをおすすめする。
+このマシンは、自宅で本格的なエスプレッソ体験を追求するコーヒー愛好家にとって、新たな可能性をもたらす一台となるだろう。導入にあたっては、設置スペースや初期投資額を考慮しつつ、自身のコーヒーに対する情熱と照らし合わせ、その価値を熟考するのが効果的だ。
 
 ## デロンギ エスプレッソ・カプチーノメーカー その他のモデル（参考情報）
 
@@ -154,3 +154,4 @@ A1. 『デロンギ ラ スペシャリスタ』の持ち味を最大限に引�
 
 <strong>Q2. お手入れや長期的な保管で気をつけることはありますか？</strong>
 A2. 抽出後はコーヒーオイルや微粉が残らないよう早めに洗浄・乾燥させ、豆は直射日光と高温多湿を避けて密閉保存することで、香り高い状態を長く楽しめます。
+

@@ -13,11 +13,11 @@ tags:
   - 'angle:guide'
 faq:
   - question: 'カリタ以外のドリッパーでも使えますか？'
-    answer: 'ウェーブフィルターは、カリタのウェーブドリッパー専用として設計されています。特に「185」はウェーブドリッパー185に合うように作られており、他の円錐形や台形のドリッパーでは、フィルターのウェーブ（ひだ）が活かせず、本来の抽出性能を発揮できません。一部、底が平らな他社製ドリッパー（例: ORIGAMIドリッパーMサイズ）でも使用可能と記載されている場合がありますが、基本的にはウェーブドリッパーとの組み合わせが最もおすすめです。'
+    answer: 'ウェーブフィルターは、カリタのウェーブドリッパー専用として設計されている。特に「185」はウェーブドリッパー185に合うように作られており、他の円錐形や台形のドリッパーでは、フィルターのウェーブ（ひだ）が活かせず、本来の抽出性能を発揮できない。一部、底が平らな他社製ドリッパー（例: ORIGAMIドリッパーMサイズ）でも使用可能と記載されている場合があるが、基本的にはウェーブドリッパーとの組み合わせが最も適している。'
   - question: 'ウェーブフィルターは、通常の円錐形フィルターと比べて何が違いますか？'
     answer: '最大の違いは、フィルターの側面にある「20個のウェーブ（ひだ）」と、それに合わせて底面が平らなウェーブドリッパーで使う点です。このひだのおかげで、フィルターがドリッパーに密着しすぎず、空気の抜けが良くなります。これにより、お湯がコーヒー粉全体に均一に行き渡りやすくなり、抽出ムラが少ないクリアな味わいが得られるよう設計されています。円錐形フィルターは抽出速度が速い傾向がありますが、ウェーブフィルターはより安定した抽出を目指しています。'
   - question: 'フィルターの保管方法で注意することはありますか？'
-    answer: 'コーヒーフィルターは、湿気や強い匂いを吸収しやすい性質があります。そのため、保管する際は乾燥した場所で、直射日光の当たらない密閉容器や袋に入れておくのがおすすめです。特にキッチン周りでは、他の食材の匂いが移らないよう注意しましょう。正しく保管することで、フィルターの品質を保ち、コーヒーの風味を損なうことなく楽しめます。'
+    answer: 'コーヒーフィルターは、湿気や強い匂いを吸収しやすい性質があります。そのため、保管する際は乾燥した場所で、直射日光の当たらない密閉容器や袋に入れておくのが適している。特にキッチン周りでは、他の食材の匂いが移らないよう注意しましょう。正しく保管することで、フィルターの品質を保ち、コーヒーの風味を損なうことなく楽しめます。'
 sidebarProducts:
   - title: 'カリタKalitaウェーブフィルター185 2〜4人用100枚入ホワイト22230'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -38,11 +38,11 @@ sidebarProducts:
 
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-ドリップコーヒーの魅力は、豆の種類や焙煎度、そして淹れ方によって無限に広がる香りと味わいにある。しかし、「毎回同じように美味しく淹れられない」「味がブレてしまう」と悩む初心者も多いのではないだろうか。
+ドリップコーヒーの魅力は、豆の種類や焙煎度、そして淹れ方によって無限に広がる香りと味わいにある。しかし、「毎回同じように美味しく淹れられない」「味がブレてしまう」と悩む初心者も多いと言える。
 
 そんな安定しない抽出の悩みを解決してくれるのが、カリタの「<strong>ウェーブフィルター 185</strong>」だ。このフィルターは、ウェーブドリッパー専用に設計された特徴的な形状で、誰でも<strong>ムラなく安定したクリアなコーヒーを淹れることを可能にする</strong>。
 
-僕も最初、様々なフィルターを試しては味のブレに悩まされたが、このフィルターと出会ってからは、毎朝のドリップが格段に安定した。
+ウェーブフィルターの使用により、ドリップの安定性が向上する。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,10 +61,10 @@ sidebarProducts:
 <div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
 </div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで価格・在庫をチェック（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="noopener noreferrer sponsored" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
 </div>
 </div>
@@ -89,7 +89,7 @@ sidebarProducts:
 
 さらに、底面が平らなウェーブドリッパーと組み合わせることで、お湯が中心から外側へと<strong>均一に浸透しやすくなる</strong>。粉の層の厚さが均一に保たれるため、お湯が偏って流れる「チャネリング」を防ぎ、コーヒー成分を効率的かつバランス良く抽出できる。
 
-プロのバリスタがハンドドリップで実現する<strong>「均一な抽出」を、このフィルターとドリッパーの組み合わせが誰にでも再現しやすくしてくれる</strong>のだ。僕も、ウェーブフィルターを使い始めてから、クリアで後味の良いコーヒーを安定して淹れられるようになったのを実感している。
+プロのバリスタがハンドドリップで実現する<strong>「均一な抽出」は、このフィルターとドリッパーの組み合わせにより再現性が高まる</strong>。ウェーブフィルターの使用は、クリアで後味の良いコーヒーの安定した抽出に寄与する。
 
 ## 【見逃し厳禁】ウェーブフィルター185選びの3つのポイント
 
@@ -99,7 +99,7 @@ sidebarProducts:
 
 カリタのウェーブフィルターには、主に「155」と「185」の2つのサイズがある。「155」は1〜2杯用、「<strong>185</strong>」は<strong>2〜4杯用</strong>だ。フィルターを選ぶ際は、必ず自分の使っている<strong>ウェーブドリッパーのサイズと合わせる</strong>必要がある。
 
-僕も初めてウェーブフィルターを買った時、つい安さだけで「155」を選んでしまったことがある。しかし、僕が持っていたのは「185」のドリッパーだったため、フィルターが小さすぎてうまくセットできず、お湯が横から漏れてしまう失敗を経験した。
+ウェーブフィルターの選択において、ドリッパーのサイズと異なるフィルターを選ぶと、適切にセットできず、お湯が漏れる可能性がある。
 
 このフィルターは<strong>専用設計</strong>なので、サイズ選びは最も重要だ。主に2杯以上淹れることが多いなら、迷わず「185」を選ぼう。
 
@@ -109,7 +109,7 @@ sidebarProducts:
 
 日本製であることのメリットは、まず<strong>安定した品質</strong>にある。紙の繊維が均一で丈夫なため、抽出中に破れたり、繊維がコーヒーに混じったりする心配が少ない。
 
-また、製造工程での<strong>紙の匂い移りも少ない</strong>傾向があるため、コーヒー本来の風味を損なうことなく、クリアな味わいを引き出しやすい。僕自身も、初めて使う前にフィルター単体で湯通しするが、変な紙の匂いがほとんどしないので、安心して使える。
+また、製造工程での<strong>紙の匂い移りも少ない</strong>傾向があるため、コーヒー本来の風味を損なうことなく、クリアな味わいを引き出しやすい。初めて使用する前にフィルター単体で湯通ししても、紙の匂いはほとんど感じられず、使用に適している。
 
 ### 3. 枚数とコストパフォーマンスで賢くストック
 
@@ -127,11 +127,11 @@ sidebarProducts:
 
 ## 【目的別】カリタ ウェーブフィルター185のおすすめ商品
 
-ここでは、上記の選び方のポイントを踏まえ、現在の僕がおすすめしたいウェーブフィルター185を紹介しよう。
+ここでは、上記の選び方のポイントを踏まえ、ウェーブフィルター185を紹介する。
 
 ### まずはお試し！手軽に100枚から始めるなら
 
-初めてウェーブフィルターを試すなら、まずは100枚入りのパックが手軽でおすすめだ。保管場所も取らず、気軽に始められる。
+初めてウェーブフィルターを試す場合、100枚入りのパックが手軽で適している。保管場所も取らず、気軽に始められる。
 
 <strong>カリタKalitaウェーブフィルター185 2〜4人用100枚入ホワイト22230</strong>
 
@@ -143,7 +143,7 @@ sidebarProducts:
 
 ### ヘビーユーザーに最適！まとめ買いで賢くストック
 
-毎日コーヒーを淹れる人や、家族で飲む量が多い人には、まとめ買いパックが断然おすすめだ。買い忘れの心配もなく、お得にストックできる。
+毎日コーヒーを淹れる人や、家族で飲む量が多い人には、まとめ買いパックが適している。買い忘れの心配がなく、ストックに有効である。
 
 <strong>カリタ ウェーブフィルター KWF-185 ホワイト 100枚×4個セット</strong>
 
@@ -163,7 +163,7 @@ sidebarProducts:
 
 ウェーブフィルターには<strong>中細挽き〜中挽き</strong>が適している。
 
-さらに、<strong>温度管理ができるケトル</strong>があると、抽出温度の再現性が高まり、さらに味が安定するだろう。僕も、毎朝85℃〜90℃の湯温で一定に抽出することを心がけている。
+さらに、<strong>温度管理ができるケトル</strong>があると、抽出温度の再現性が高まり、味が安定する。
 
 フィルターをドリッパーにセットしたら、コーヒー粉を入れる前に少量のお湯を注いで<strong>フィルターをリンス（湯通し）</strong>しておくと、紙の匂いを取り除き、ドリッパー全体を温める効果も期待できる。このひと手間が、コーヒーの味をよりクリアにするのだ。
 
@@ -180,7 +180,7 @@ sidebarProducts:
 <strong>Q1: カリタ以外のドリッパーでも使えますか？</strong>
 A1: ウェーブフィルターは、<strong>カリタのウェーブドリッパー専用</strong>として設計されています。特に「185」はウェーブドリッパー185に合うように作られており、他の円錐形や台形のドリッパーでは、フィルターのウェーブ（ひだ）が活かせず、本来の抽出性能を発揮できません。
 
-一部、底が平らな他社製ドリッパー（例: ORIGAMIドリッパーMサイズ）でも使用可能と記載されている場合がありますが、基本的にはウェーブドリッパーとの組み合わせが最もおすすめです。
+一部、底が平らな他社製ドリッパー（例: ORIGAMIドリッパーMサイズ）でも使用可能と記載されている場合があるが、基本的にはウェーブドリッパーとの組み合わせが最も適している。
 
 <strong>Q2: ウェーブフィルターは、通常の円錐形フィルターと比べて何が違いますか？</strong>
 A2: 最大の違いは、<strong>フィルターの側面にある「20個のウェーブ（ひだ）」</strong>と、それに合わせて底面が平らなウェーブドリッパーで使う点です。このひだのおかげで、フィルターがドリッパーに密着しすぎず、空気の抜けが良くなります。
@@ -188,6 +188,7 @@ A2: 最大の違いは、<strong>フィルターの側面にある「20個のウ
 これにより、お湯がコーヒー粉全体に均一に行き渡りやすくなり、<strong>抽出ムラが少ないクリアな味わい</strong>が得られるよう設計されています。円錐形フィルターは抽出速度が速い傾向がありますが、ウェーブフィルターはより安定した抽出を目指しています。
 
 <strong>Q3: フィルターの保管方法で注意することはありますか？</strong>
-A3: コーヒーフィルターは、湿気や強い匂いを吸収しやすい性質があります。そのため、保管する際は<strong>乾燥した場所</strong>で、<strong>直射日光の当たらない密閉容器や袋</strong>に入れておくのがおすすめです。
+A3: コーヒーフィルターは、湿気や強い匂いを吸収しやすい性質があります。そのため、保管する際は<strong>乾燥した場所</strong>で、<strong>直射日光の当たらない密閉容器や袋</strong>に入れておくのが適している。
 
 特にキッチン周りでは、他の食材の匂いが移らないよう注意しましょう。正しく保管することで、フィルターの品質を保ち、コーヒーの風味を損なうことなく楽しめます。
+
