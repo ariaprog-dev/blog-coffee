@@ -1428,14 +1428,14 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="author-info">
 								<div class="author-header">
 									<span class="author-label">WRITTEN BY</span>
-									<h4 class="author-name">珈琲豆仙人</h4>
-									<span class="author-role">自家焙煎歴15年・器具マニア</span>
+									<h4 class="author-name">珈琲豆仙人｜珈琲暮らし編集部</h4>
+									<span class="author-role">抽出理論・器具スペック分析</span>
 								</div>
 								<p class="author-bio">
-									手挽きミルから業務用エスプレッソマシンまで100台以上の器具を検証。日々の抽出理論と豆の個性を引き出す器具選びを本音で発信しています。
+									手挽きミルやドリッパー、エスプレッソ機器の公開仕様・抽出構造・ユーザー評価を体系的に整理。豆の特性と器具選びの判断基準を客観的に発信しています。
 								</p>
 								<a href="/about/" class="author-link">
-									詳しいプロフィール・執筆方針を見る ➔
+									詳しいプロフィール・編集方針を見る ➔
 								</a>
 							</div>
 						</section>
@@ -1496,11 +1496,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							{products && products.length > 0 && (
 								<div class="sidebar-product-card">
 									{products[0].imageUrl && (
-										<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+										<a href={products[0].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-image-link">
 											<img src={products[0].imageUrl} alt={products[0].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+									<a href={products[0].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-title-link">
 										{products[0].title}
 									</a>
 									{products[0].price && (
@@ -1508,7 +1508,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 											{products[0].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[0].url} target="_blank" rel="sponsored noopener noreferrer">
 										{products[0].microCopy || '詳細を見る'}
 									</a>
 								</div>
@@ -1541,11 +1541,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="ad-label">SPONSORED</div>
 								<div class="sidebar-product-card">
 									{products[1].imageUrl && (
-										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+										<a href={products[1].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-image-link">
 											<img src={products[1].imageUrl} alt={products[1].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+									<a href={products[1].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-title-link">
 										{products[1].title}
 									</a>
 									{products[1].price && (
@@ -1553,7 +1553,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 											{products[1].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[1].url} target="_blank" rel="sponsored noopener noreferrer">
 										{products[1].microCopy || '詳細を見る'}
 									</a>
 								</div>
@@ -1566,11 +1566,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="ad-label">SPONSORED</div>
 								<div class="sidebar-product-card">
 									{products[2].imageUrl && (
-										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+										<a href={products[2].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-image-link">
 											<img src={products[2].imageUrl} alt={products[2].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+									<a href={products[2].url} target="_blank" rel="sponsored noopener noreferrer" class="sidebar-product-title-link">
 										{products[2].title}
 									</a>
 									{products[2].price && (
@@ -1578,7 +1578,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 											{products[2].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[2].url} target="_blank" rel="sponsored noopener noreferrer">
 										{products[2].microCopy || '詳細を見る'}
 									</a>
 								</div>
@@ -1595,7 +1595,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					<span>📋</span> 目次
 				</button>
 				<button id="quick-deal-btn" style="background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff; border: none; border-radius: 9999px; padding: 8px 14px; font-size: 0.78rem; font-weight: 700; box-shadow: 0 4px 12px rgba(255,153,0,0.3); cursor: pointer; display: flex; align-items: center; gap: 4px;">
-					<span>🛒</span> 最安値
+					<span>🛒</span> 商品を見る
 				</button>
 				<button id="quick-top-btn" style="background: rgba(255,255,255,0.9); color: #64748b; border: 1px solid #e2e8f0; border-radius: 9999px; width: 36px; height: 36px; align-self: flex-end; font-size: 0.85rem; font-weight: 700; box-shadow: 0 2px 8px rgba(0,0,0,0.06); cursor: pointer; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(4px);">
 					▲

@@ -55,7 +55,7 @@ function getArticleTypeBadge(post: { id: string; data: { title: string } }): Art
 	if (slug.includes('guide') || title.includes('ガイド') || title.includes('選び方') || title.includes('入門') || title.includes('初心者')) {
 		return { type: 'guide', label: '選び方ガイド', icon: '📖', className: 'badge-type-guide' };
 	}
-	return { type: 'review', label: '本音レビュー', icon: '🔍', className: 'badge-type-review' };
+	return { type: 'review', label: '解説・分析', icon: '🔍', className: 'badge-type-review' };
 }
 ---
 

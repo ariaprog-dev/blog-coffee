@@ -2,8 +2,15 @@
 https://blog-coffee.pages.dev/*
   X-Robots-Tag: noindex
 
+https://*.blog-coffee.pages.dev/*
+  X-Robots-Tag: noindex
+
 https://ariawriter.com/*
   X-Robots-Tag: noindex
 
 https://www.ariawriter.com/*
   X-Robots-Tag: noindex
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
