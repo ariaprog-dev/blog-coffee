@@ -35,7 +35,6 @@ sidebarProducts:
     price: 6580
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 朝、コーヒーを淹れる時間は、一日を整える上で重要な時間である。ただ熱いお湯を注ぐだけでなく、豆の個性を最大限に引き出すためには、<strong>湯温と湯量の緻密なコントロールが欠かせない</strong>。
@@ -94,6 +93,11 @@ sidebarProducts:
 
 薄型のタッチパネル操作部もスマートで、見た目にも美しい。握りやすいグリップは、細口ノズルからのお湯の安定した流出をサポートする。まるで自分の手の延長のように、狙った場所に思い通りにお湯を落とせる感覚だ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>山善 EGL-C1281</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B1%25B1%25E5%2596%2584%2520EGL-C1281" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B1%B1%E5%96%84%20EGL-C1281%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B1%25B1%25E5%2596%2584%2520EGL-C1281" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 山善 EKG-C801: コストと機能の優れたバランス
 
 次に、<strong>山善の電気ケトル EKG-C801</strong>を紹介しよう。こちらは、EGL-C1281よりも手頃な価格帯ながら、ドリップケトルに求められる基本的な性能をしっかり押さえている。
@@ -114,6 +118,11 @@ sidebarProducts:
 EKG-C801もまた、1度単位での温度設定と保温機能を備えている。50℃から設定できるため、コーヒーだけでなく、緑茶や白湯、粉ミルク作りにも活用できる汎用性の高さが魅力だ。
 
 コードの長さが<strong>0.9mと比較的長め</strong>なのもポイントだ。キッチンのコンセント位置に制約がある場合でも、設置場所の自由度が高まる。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>山善 EKG-C801</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25B1%25B1%25E5%2596%2584%2520EKG-C801" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B1%B1%E5%96%84%20EKG-C801%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25B1%25B1%25E5%2596%2584%2520EKG-C801" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## なぜ湯温と細口ノズルがコーヒーの味を劇的に変えるのか
 
@@ -233,4 +242,3 @@ A2: どちらのモデルも内側はニオイ移りの少ないステンレス�
 A3: 両モデルともに保温機能が搭載されており、設定温度で一定時間（多くの場合、購入時の設定で30分〜1時間程度）キープされます。2杯目以降をすぐに淹れたい時や、湯温を一定に保ちたい場合に便利です。
 
 詳しい保温時間は取扱説明書をご確認ください。
-

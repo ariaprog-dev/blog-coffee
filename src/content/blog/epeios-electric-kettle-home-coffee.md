@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 | 項目 | 詳細 |
 | --- | --- |
 | <strong>本体サイズ</strong> | 280 x 140 x 195 mm |
@@ -155,6 +154,11 @@ EPEIOSを導入してからの自身のコーヒーライフは、以前と比�
 
 カップから立ち上る芳醇な香りを深く吸い込むたびに、EPEIOSを導入して良かったと改めて思う。来客時にコーヒーを淹れる際も、自信を持って質の高い一杯を提供できるようになったことは大きな収穫である。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>EPEIOS 電気ケトルで淹れる一杯</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEPEIOS%20%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%81%A7%E6%B7%B9%E3%82%8C%E3%82%8B%E4%B8%80%E6%9D%AF%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 適切な湯量や挽き目はどう見極めればよいか？</strong>
@@ -245,4 +249,3 @@ EPEIOSは、以下のような状況やニーズを持つ人に、特にその�
 この一台が、あなたのコーヒーライフを次のステージへと押し上げる可能性を、自身の経験から高く評価している。
 
 EPEIOSがあなたのコーヒー体験に新たな価値をもたらす一助となることを願う。
-

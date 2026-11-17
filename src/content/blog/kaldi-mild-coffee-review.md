@@ -21,7 +21,6 @@ sidebarProducts:
     price: 3790
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -121,6 +120,11 @@ sidebarProducts:
 
 コーヒー豆に求めるものが「安定した美味しさ」「優れたコストパフォーマンス」「どんなシーンにも合う万能性」であるならば、マイルドカルディを一度試してみてほしい。きっとあなたのコーヒーライフの新たな基準になるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カフェカルディ ドリップ マイルドカルディ 3袋セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tvsr1.ve2q53d5.g00tvsr1.ve2q640a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalman%2Fkaldi0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalman%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: マイルドカルディは、どんな抽出方法に向いていますか？</strong>
 A1: 中煎りでバランスが取れているため、ペーパードリップ、フレンチプレス、コーヒーメーカーなど、ほとんどの抽出方法で美味しく淹れられます。好みに合わせて、お湯の温度や挽き目を微調整すると良いでしょう。
@@ -130,4 +134,3 @@ A2: 鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し�
 
 <strong>Q3: 他のカルディのブレンド豆と比べて、マイルドカルディはどのような位置づけですか？</strong>
 A3: マイルドカルディは、カルディのブレンドの中でも最も「標準的」で「バランスの取れた」味わいが特徴です。酸味や苦味が控えめで飲みやすいため、他のブレンドを試す際の基準としても最適です。
-

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 7840
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「自宅で挽きたてのコーヒーを毎日楽しみたいが、毎回少量ずつ買うのはコストも手間もかかる。」そう考えて、<strong>自家焙煎のコーヒー豆1kgまとめ買い</strong>に興味を持つ人は多い。しかし、大容量の豆を何も考えずに購入すると、鮮度を落とす可能性がある。
@@ -169,6 +168,11 @@ sidebarProducts:
 | 産地 | コロンビア・ウイラ県サンアグスティン村 |
 | 標高 | 1,800m |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>コロンビア・サンアグスティン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2593%25E3%2582%25A2%2520%25E3%2582%25B5%25E3%2583%25B3%25E3%2582%25A2%25E3%2582%25B0%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%20%E3%82%B5%E3%83%B3%E3%82%A2%E3%82%B0%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2593%25E3%2582%25A2%2520%25E3%2582%25B5%25E3%2583%25B3%25E3%2582%25A2%25E3%2582%25B0%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 2. 濃厚なコクとビターな味わいでリラックスしたいなら：カロシ・トラジャ
 
 <strong>「朝はしっかり苦味のあるコーヒーで気合を入れたい」「ミルクと合わせても負けない深いコクが好き」</strong>という人には、カロシ・トラジャが最適だろう。
@@ -192,6 +196,11 @@ sidebarProducts:
 | 精選方法 | スマトラ式 |
 | 産地 | インドネシア・スラウェシ島トラジャ高原カロシ地区スロトコ農園 |
 | 標高 | – |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カロシ・トラジャ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AD%25E3%2582%25B7%2520%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25A3%25201kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0003-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000097%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AD%25E3%2582%25B7%2520%25E3%2583%2588%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25A3%25201kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### 3. バランスの取れた軽やかさで毎日飲みたいなら：グァテマラ・アゾティアSHB
 
@@ -217,6 +226,11 @@ sidebarProducts:
 | 産地 | グァテマラ・サカテベケケ県アンティグア地区アゾティア農園 |
 | 標高 | 1,645m |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>グァテマラ・アゾティアSHB</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2582%25A1%25E3%2583%2586%25E3%2583%259E%25E3%2583%25A9%2520%25E3%2582%25A2%25E3%2582%25BE%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2SHB" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0399-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000480%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B0%25E3%2582%25A1%25E3%2583%2586%25E3%2583%259E%25E3%2583%25A9%2520%25E3%2582%25A2%25E3%2582%25BE%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25A2SHB" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 4. 安定感と調和を求めるならブレンドを試す：神田ブレンド
 
 <strong>「シングルオリジンはまだ難しい」「失敗したくないから安心感のある豆が良い」</strong>と考えるなら、ブレンド豆から始めるのが賢い選択だ。
@@ -237,6 +251,11 @@ sidebarProducts:
 | 価格 | 7,840円 |
 | 内容量 | 1000g（500gずつ2袋） |
 | 使用豆 | グァテマラ・アゾティア、マンデリン・ラスナ・リントン、ブラジル・樹上完熟豆（DOT） |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>神田ブレンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%25A5%259E%25E7%2594%25B0%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25201kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0053-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000113%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%25A5%259E%25E7%2594%25B0%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25201kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 自家焙煎豆1kgを最大限に楽しむための初めの一歩
 
@@ -280,4 +299,3 @@ A2: いいえ、コーヒー豆は<strong>飲む直前に挽くのが鉄則</str
 A3: 初心者こそ、<strong>豆の品質と挽きたての鮮度</strong>にこだわるべきです。その上で、基本を忠実に守ることが重要です。
 
 具体的には、適切な湯温（90〜95℃）、ゆっくりと均一に注ぐ（蒸らしを含め2〜3分）、使う器具は常に清潔に保つ、といった点を意識するだけで、味が劇的に変わります。最初は簡単なハンドドリップから始めて、少しずつ自分の淹れ方を見つける楽しさがあります。
-

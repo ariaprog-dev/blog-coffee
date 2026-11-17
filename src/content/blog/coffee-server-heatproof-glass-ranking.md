@@ -35,7 +35,6 @@ sidebarProducts:
     price: 1678
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でハンドドリップコーヒーを淹れるなら、<strong>耐熱ガラス製のコーヒーサーバーは必須アイテム</strong>だ。抽出過程を目で見て楽しめるだけでなく、温度変化に強く、電子レンジ対応のモデルも多い。
@@ -120,6 +119,11 @@ KINTOの「SLOW COFFEE STYLE SPECIALTY SCS-S02」は、その<strong>圧倒的�
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>KINTO SLOW COFFEE STYLE SPECIALTY SCS-S02 コーヒーサーバー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%2520SLOW%2520COFFEE%2520STYLE" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKINTO%20SLOW%20COFFEE%20STYLE%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKINTO%2520SLOW%2520COFFEE%2520STYLE" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第2位: IwaiLoft 世界各国で高い評価を得ている コーヒーサーバー ガラスドリッパー セット
 
 IwaiLoftのコーヒーサーバーは、<strong>木製のハンドルとドリッパーがセットになった美しいデザイン</strong>が特徴だ。天然木の温もりは、ガラスのクールさと絶妙なコントラストを生み出し、キッチンの雰囲気を格上げしてくれる。
@@ -150,6 +154,11 @@ IwaiLoftのコーヒーサーバーは、<strong>木製のハンドルとドリ�
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>IwaiLoft 世界各国で高い評価を得ている コーヒーサーバー ガラスドリッパー セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIwaiLoft%2520%25E4%25B8%2596%25E7%2595%258C%25E5%2590%2584%25E5%259B%25BD%25E3%2581%25A7%25E9%25AB%2598%25E3%2581%2584%25E8%25A9%2595%25E4%25BE%25A1%25E3%2582%2592%25E5%25BE%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tzo21.ve2q56d0.g00tzo21.ve2q6add/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiwailoft%2Fiw-gcst02set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiwailoft%2Fi%2F10000449%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIwaiLoft%2520%25E4%25B8%2596%25E7%2595%258C%25E5%2590%2584%25E5%259B%25BD%25E3%2581%25A7%25E9%25AB%2598%25E3%2581%2584%25E8%25A9%2595%25E4%25BE%25A1%25E3%2582%2592%25E5%25BE%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位: カリタ 電子レンジ用サーバー N
 
 カリタの「電子レンジ用サーバー N」は、<strong>コーヒー器具の老舗ブランドならではの安心感と実用性</strong>が光る一品だ。<strong>300ml、500ml、800mlの3サイズ展開</strong>があるため、一人暮らしから大家族まで、幅広いニーズに対応できる。
@@ -176,6 +185,11 @@ IwaiLoftのコーヒーサーバーは、<strong>木製のハンドルとドリ�
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カリタ 電子レンジ用サーバー N</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%259B%25BB%25E5%25AD%2590%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B8%25E7%2594%25A8%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520N" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10128069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10128069%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E9%259B%25BB%25E5%25AD%2590%25E3%2583%25AC%25E3%2583%25B3%25E3%2582%25B8%25E7%2594%25A8%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520N" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第4位: カリタ Kalita コーヒーサーバー500ml 500サーバーG
 
 「カリタ Kalita コーヒーサーバー500ml 500サーバーG」は、前述のカリタ 電子レンジ用サーバーNと同じく、<strong>カリタの定番サーバー</strong>だ。こちらは500ml（約4カップ分）の単一容量で販売されているモデルで、<strong>家族でコーヒーを飲む機会が多い人や、来客時にも対応できる容量</strong>を求めている人にはぴったりだ。
@@ -197,6 +211,11 @@ IwaiLoftのコーヒーサーバーは、<strong>木製のハンドルとドリ�
 | レビュー評価 | 5.0 (4件) |
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カリタ Kalita コーヒーサーバー500ml 500サーバーG</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520Kalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC500ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00quqf1.ve2q5429.g00quqf1.ve2q64e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimadoki%2F500g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimadoki%2Fi%2F10003958%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520Kalita%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC500ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## まとめ：あなたのコーヒータイムに合う一台は？
 
@@ -225,4 +244,3 @@ A2: ほとんどのドリッパーは、一般的なサーバーの口径に合�
 A3: 耐熱ガラスは丈夫ですが、<strong>金属製のたわしや研磨剤入り洗剤は傷の原因になる</strong>ため避けてください。柔らかいスポンジと中性洗剤で優しく洗いましょう。
 
 食洗機対応の製品であれば、食洗機での洗浄も可能ですが、ガラスの曇りを防ぐために乾燥もしっかりと行うと良いです。木製パーツが付いている製品は、水濡れに弱いため、<strong>洗浄後はすぐに水分を拭き取り、よく乾燥させる</strong>ことが長持ちの秘訣です。
-

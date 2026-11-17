@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -233,6 +232,11 @@ IGURAMUリッチブレンド2kgは、そのコストパフォーマンスと品�
 
 この豆がもたらすのは、日常を彩る豊かな香りと味わい、そして、自宅で高品質なコーヒーを追求する喜びである。あなたのコーヒーライフを、より深く、より豊かにするための選択肢として、IGURAMUリッチブレンド2kgを検討してみる価値は大いにあるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>IGURAMUリッチブレンド2kg</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIGURAMU%E3%83%AA%E3%83%83%E3%83%81%E3%83%96%E3%83%AC%E3%83%B3%E3%83%892kg%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 2kgは多すぎないか？鮮度は大丈夫か？</strong>
@@ -251,5 +255,3 @@ A2: このブレンドは深煎り主体であるため、様々な抽出方法�
 A3: IGURAMUリッチブレンド2kgは、深煎りならではのまろやかな苦味としっかりとしたコクが特徴です。酸味は控えめで、全体のバランスを崩すことなく、むしろ深みを増すアクセントとして機能しています。
 
 口に含んだ瞬間に感じる甘みも心地よく、苦味一辺倒ではなく、深みと複雑さのあるバランスの取れた味わいを実現しています。毎日飲んでも飽きがこない、落ち着いた風味が好きな方には特に適したブレンドです。
-
-

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 26000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ふるさと納税で手軽に本格的なコーヒーを楽しみたい。ふるさと納税で手軽に本格的なコーヒーを楽しみたいと考える人は多い。しかし、一言で「ふるさと納税のコーヒー定期便」と言っても、その内容は実に多様だ。
@@ -120,6 +119,11 @@ Morrow珈琲の定期便を初めて利用する際、ブルーマウンテン�
 
 <strong>Morrow珈琲 ブルーマウンテン定期便はこちら</strong>
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>Morrow珈琲 ブルーマウンテン定期便</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMorrow%25E7%258F%2588%25E7%2590%25B2%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMorrow%E7%8F%88%E7%90%B2%20%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E5%AE%9A%E6%9C%9F%E4%BE%BF%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMorrow%25E7%258F%2588%25E7%2590%25B2%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 【ふるさと納税】くるりカフェ ドリップバッグ定期便：忙しい日々の救世主、手軽な本格派
 
 次に紹介するのは、宮崎県綾町のくるりカフェが提供するオリジナルドリップバッグの定期便だ。こちらは、手間をかけずに美味しいコーヒーを楽しみたいというニーズに特化した商品と言える。
@@ -146,6 +150,11 @@ Morrow珈琲の定期便を初めて利用する際、ブルーマウンテン�
 以降は、最初の少量のお湯で粉全体を湿らせ、20秒ほど蒸らしてから、さらにゆっくりと注ぎ足す工夫をしている。このひと手間で、<strong>同じドリップバッグでも格段にクリアな味わい</strong>を引き出せるようになる。
 
 <strong>くるりカフェ ドリップバッグ定期便はこちら</strong>
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>くるりカフェ ドリップバッグ定期便</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%258F%25E3%2582%258B%25E3%2582%258A%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00smt31.ve2q5177.g00smt31.ve2q6588/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff453838-aya%2F0019-020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff453838-aya%2Fi%2F10001035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%258F%25E3%2582%258B%25E3%2582%258A%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 比較ポイント1：抽出体験と味わいの深掘り
 
@@ -236,4 +245,3 @@ A3: ドリップバッグでも、少しの工夫で味わいは変わります�
 これにより粉からガスが抜け、お湯が均一に行き渡りやすくなります。その後は、<strong>ゆっくりと数回に分けてお湯を注ぐ</strong>ことで、安定した抽出が期待できます。
 
 湯温が高すぎると苦味が出やすいので注意が必要です。
-

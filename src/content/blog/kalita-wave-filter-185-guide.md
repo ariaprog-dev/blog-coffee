@@ -35,7 +35,6 @@ sidebarProducts:
     price: 935
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ドリップコーヒーの魅力は、豆の種類や焙煎度、そして淹れ方によって無限に広がる香りと味わいにある。しかし、「毎回同じように美味しく淹れられない」「味がブレてしまう」と悩む初心者も多いと言える。
@@ -151,6 +150,11 @@ sidebarProducts:
 | 販売ショップ | FRESH ROASTER珈琲問屋 楽天市場店 |
 | レビュー評価 | 5.0 (6件)                          |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カリタKalitaウェーブフィルター185</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## ウェーブフィルターを最大限に活かすための準備
 
 ウェーブフィルター185の性能を最大限に引き出すには、いくつかポイントがある。
@@ -189,4 +193,3 @@ A2: 最大の違いは、<strong>フィルターの側面にある「20個のウ
 A3: コーヒーフィルターは、湿気や強い匂いを吸収しやすい性質があります。そのため、保管する際は<strong>乾燥した場所</strong>で、<strong>直射日光の当たらない密閉容器や袋</strong>に入れておくのが適しています。
 
 特にキッチン周りでは、他の食材の匂いが移らないよう注意しましょう。正しく保管することで、フィルターの品質を保ち、コーヒーの風味を損なうことなく楽しめます。
-

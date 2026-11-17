@@ -35,7 +35,6 @@ sidebarProducts:
     price: 10780
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「手軽に、毎日安定して美味しいコーヒーを淹れたい」と考えている場合、エアロプレスは適した選択肢の一つです。ドリップコーヒーのような高度な技術を必要とせず、空気圧の力を利用することで、クリアで風味豊かな一杯を短時間で抽出できる特徴があります。
@@ -146,6 +145,11 @@ sidebarProducts:
 エアロプレスは、コーヒー抽出の複雑さを軽減し、安定して美味しいコーヒーを淹れることを可能にする器具です。その独自の空気圧抽出は、短時間で雑味の少ないクリアな味わいを引き出し、豆本来の風味を存分に楽しめます。
 
 自宅で手軽に本格的なコーヒーを楽しみたい方、あるいは職場やキャンプなどの外出先でも品質の高い一杯を求める方に、エアロプレスは適した選択肢の一つです。エアロプレスは、日常に、豊かなコーヒータイムを提供する可能性を秘めています。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>エアロプレス オリジナル コーヒーメーカー｜公式小川珈琲</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25EF%25BD%259C%25E5%2585%25AC%25E5%25BC%258F%25E5%25B0%258F%25E5%25B7%259D%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00sjd21.ve2q5785.g00sjd21.ve2q66e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foc-shop%2F4996%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foc-shop%2Fi%2F10000937%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25EF%25BD%259C%25E5%2585%25AC%25E5%25BC%258F%25E5%25B0%258F%25E5%25B7%259D%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

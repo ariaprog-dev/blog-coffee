@@ -35,7 +35,6 @@ sidebarProducts:
     price: 3000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「コモディティコーヒー」と聞いて、あなたはどんなイメージを持つだろうか。スペシャルティコーヒーブームが続く中で、その対極にある言葉として、時に「安価でそれなりの味」といった認識を持つ人もいるかもしれない。
@@ -101,6 +100,11 @@ sidebarProducts:
 | 内容         | 生豆 300g × 5銘柄 (計1.5kg) ※銘柄は在庫状況で変動する |
 | 特徴         | 自家焙煎用、飲み比べ、多様な産地を体験                  |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>アサヒコーヒー 生豆お試し焙煎飲み比べセット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A2%25E3%2582%25B5%25E3%2583%2592%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E7%2594%259F%25E8%25B1%2586%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%2584%2599%25E7%2585%258E%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B5%E3%83%92%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E7%94%9F%E8%B1%86%E3%81%8A%E8%A9%A6%E3%81%97%E7%84%99%E7%85%8E%E9%A3%B2%E3%81%BF%E6%AF%94%E3%81%B9%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A2%25E3%2582%25B5%25E3%2583%2592%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E7%2594%259F%25E8%25B1%2586%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%2584%2599%25E7%2585%258E%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 2. 日常の安定を届ける「ヴィディヤコーヒーロースターズ 大容量ブラジルNO.2」
 
 ヴィディヤコーヒーロースターズのブラジルNo.2は、プロの焙煎士がシティロースト（中深煎り）に仕上げた<strong>焙煎済みの大容量豆</strong>だ。500g×4袋で合計2kgというボリュームは、まさに業務用。
@@ -118,6 +122,11 @@ sidebarProducts:
 | 生豆生産国   | ブラジル                                                             |
 | 焙煎度合い   | シティロースト (中深煎り)                                            |
 | 特徴         | 大容量、業務用にも、安定した品質、まろやかな風味                     |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ヴィディヤコーヒーロースターズ 大容量ブラジルNO.2</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BA%2520%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25ABNO%25202" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%B4%E3%82%A3%E3%83%87%E3%82%A3%E3%83%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20%E5%A4%A7%E5%AE%B9%E9%87%8F%E3%83%96%E3%83%A9%E3%82%B8%E3%83%ABNO%202%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25B4%25E3%2582%25A3%25E3%2583%2587%25E3%2582%25A3%25E3%2583%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25BA%2520%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25ABNO%25202" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 「豆の形態」がもたらす体験と味わいの差
 
@@ -258,4 +267,3 @@ A2: 焙煎豆は酸素と光、熱に弱いため、開封後は<strong>密閉�
 A3: コモディティコーヒーは、日常的に楽しめるよう<strong>バランスの取れた、親しみやすい風味</strong>が特徴です。一方、スペシャルティコーヒーは、特定のテロワール（生育環境）や精製方法に由来する、より<strong>個性的で複雑な風味特性</strong>（例: フローラル、シトラス、ベリーなど）を持つことが多いです。
 
 コモディティが「安定した美味しさ」なら、スペシャルティは「驚きや発見のある美味しさ」と言えるでしょう。どちらが良いかは、その日の気分や求める体験によって変わります。
-

@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -226,6 +225,11 @@ sidebarProducts:
 | 主な適正容量・用途 | 1〜2杯分のハンドドリップコーヒー（V60・カリタウェーブ等） | 紅茶・カップ麺・複数人分の大容量沸騰用途全般 |
 | 日常のメンテナンス要点 | 使用後の水洗い＋乾燥、週1回程度のクエン酸洗浄・細ブラシ推奨 | 広口のため内部洗浄しやすいが湯線調整用途では別途用意が必要 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>極細3 4mmノズル ドリップポット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A5%B5%E7%B4%B03%204mm%E3%83%8E%E3%82%BA%E3%83%AB%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%83%9D%E3%83%83%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: ドリップポットは本当に必要か。普通のケトルでは代替できないか。</strong>
@@ -246,4 +250,3 @@ A3: この極細ノズル ドリップポットは、多くがシンプルなス
 使用後すぐに水洗いし、乾燥させるだけで清潔に保てます。ただし、ノズルが細いため、内部に水垢などが溜まらないよう、週に一度程度のクエン酸洗浄が有効です。
 
 ノズル用の細いブラシがあればさらに完璧ですが、基本的にはそれほど手間はかかりません。日々の簡単な手入れで、長く清潔に使用することが可能です。
-

@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ## 自宅コーヒーの抽出を安定させる「珈琲考具」の魅力
@@ -239,3 +238,8 @@ sidebarProducts:
 コストパフォーマンス、実用性、メンテナンス性のすべてにおいてバランスが取れており、日常のコーヒー体験を向上させる選択肢となります。
 
 スペシャルティコーヒーの豊かな世界を、より気軽に、より深く楽しむためのツールとして、「一杯の贅沢。珈琲考具」があなたのコーヒーライフの一助となれば幸いです。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>一杯の贅沢 珈琲考具</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25B8%2580%25E6%259D%25AF%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%2520%25E7%258F%2588%25E7%2590%25B2%25E8%2580%2583%25E5%2585%25B7" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E6%9D%AF%E3%81%AE%E8%B4%85%E6%B2%A2%20%E7%8F%88%E7%90%B2%E8%80%83%E5%85%B7%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25B8%2580%25E6%259D%25AF%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%2520%25E7%258F%2588%25E7%2590%25B2%25E8%2580%2583%25E5%2585%25B7" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>

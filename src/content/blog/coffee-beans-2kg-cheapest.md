@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で毎日コーヒーを飲む習慣を持つ方にとって、豆選びは常に課題となる要素の一つです。特に「そこそこ美味しく、毎日飲んでも経済的な負担が少ない豆」を見つけることは、多くの方が直面する共通の悩みと考えられます。
@@ -242,6 +241,11 @@ SNSやオンラインショップのレビューでは、同様の感想が多�
 購入を検討する際は、この豆の特性と「賢い付き合い方」を考慮することが推奨されます。届いてから後悔することなく、その恩恵を最大限に享受できるでしょう。特に鮮度管理については、最初に少し手間をかけるだけで、長期的に安定した美味しいコーヒーを毎日楽しめるようになります。
 
 この低価格豆は、手頃な価格で日常のコーヒー体験を向上させる選択肢となります。豆の持つポテンシャルを引き出すための工夫を凝らし、好みに合わせた「いつもの一杯」を見つける上で、この豆は確かな選択肢の一つとなり得ます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>大容量 コーヒー豆 2kg 自家焙煎ブレンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E5%AE%B9%E9%87%8F%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%202kg%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

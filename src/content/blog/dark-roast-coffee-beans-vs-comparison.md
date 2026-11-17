@@ -35,7 +35,6 @@ sidebarProducts:
     price: 2200
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「酸っぱいコーヒーは苦手だ。毎日、深いコクと香ばしい苦味で、頭をシャキッとさせてくれる一杯が飲みたい。」
@@ -105,6 +104,11 @@ sidebarProducts:
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>KOTENブレンド 深煎り</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKOTEN%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKOTEN%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 珈琲工房リバティ 深煎りリバティブレンド：濃厚なコクと香ばしさの極み
 
 次に、珈琲工房リバティの深煎りリバティブレンドである。こちらは「重厚なコクと香ばしい苦味！」を前面に打ち出し、特に**カフェオレや急冷アイスコーヒーに最適**とされている。
@@ -131,6 +135,11 @@ sidebarProducts:
 本格的な喫茶店の味わいを体験できます。
 
 ---
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>珈琲工房リバティ 深煎りリバティブレンド</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258F%2588%25E7%2590%25B2%25E5%25B7%25A5%25E6%2588%25BF%25E3%2583%25AA%25E3%2583%2590%25E3%2583%2586%25E3%2582%25A3%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2583%25AA%25E3%2583%2590%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258F%2588%25E7%2590%25B2%25E5%25B7%25A5%25E6%2588%25BF%25E3%2583%25AA%25E3%2583%2590%25E3%2583%2586%25E3%2582%25A3%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2583%25AA%25E3%2583%2590%25E3%2583%2586%25E3%2582%25A3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 深煎り豆の「なぜ」に迫る：焙煎の科学と味の設計思想
 

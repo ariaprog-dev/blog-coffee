@@ -31,7 +31,6 @@ sidebarProducts:
     price: 16000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でハンドドリップコーヒーを淹れる際、「なぜか味が安定しない」「もっとクリアな味にしたい」と悩む人は少なくないだろう。そのブレの原因の多くは、実はお湯の注ぎ方、特に流速と狙ったポイントへの正確性にある。
@@ -143,6 +142,11 @@ sidebarProducts:
 
 そう願うコーヒー愛好家にとって、このポットへの投資は、単なる道具の購入ではなく、「自宅コーヒーを究める」という体験への投資だと言える。日々の忙しさの中でも、一杯のコーヒーを通じて得られる知的な刺激と深い満足感は、何物にも代えがたい価値がある。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>極細3 4mmノズル ドリップポット 350ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 極細ノズルは詰まりやすいか？</strong>
@@ -155,4 +159,3 @@ IH調理器対応のケトルで湯を沸かし、移し替えて使用してく
 
 <strong>Q3: お手入れは難しいか？</strong>
 A3: パーツが少なく、開口部も適度に広いため、スポンジで内部を洗いやすく、手入れは比較的簡単です。ステンレス製で錆びにくく、シリコン樹脂焼付塗装も汚れがつきにくいですが、長く使うためには定期的な洗浄が重要です。
-

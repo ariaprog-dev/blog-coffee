@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーの味が日によって安定しない。そんな悩みを抱えるコーヒー愛好家は少なくないだろう。豆の挽き目、湯温、注ぎ方、蒸らし時間。これらの複雑な要素が絡み合い、理想の一杯にたどり着くことは至難の業である。
@@ -242,6 +241,11 @@ SNSやコーヒーコミュニティでも、「コーヒードリッパー (1�
 
 コーヒードリッパー (1〜3杯用・円すい/台形フィルター対応)
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>コーヒー ドリッパー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: 「コーヒードリッパー (1〜3杯用・円すい/台形フィルター対応)」は、どんな種類の豆に適していますか？</strong>
 A1: 本システムは、湯温と注湯を精密に制御するため、あらゆる焙煎度の豆でその真価を発揮します。特に、浅煎りのスペシャルティコーヒーが持つ繊細な酸味やアロマを最大限に引き出す能力に優れるが、中煎りや深煎りの豆でも、それぞれの持つコクや甘みをクリアで安定した状態で抽出できます。豆の種類を選ばず、その豆本来のポテンシャルを引き出すことが可能です。
@@ -257,5 +261,3 @@ A2: 日常的なお手入れは非常に容易です。使用後は、ドリッ�
 A3: はい、むしろ初心者の方に適したシステムです。コーヒーの抽出は多くの変数が絡み合い、経験と技術が必要とされるが、「で解決 毎回味がブレる悩みを）」は、これらの難しい要素を自動で最適化します。
 
 湯温管理や注ぎ方といった専門的な技術がなくても、ボタン一つでプロ並みの安定した抽出が可能になるため、コーヒー初心者でもすぐに質の高い一杯を自宅で楽しめるようになる。抽出の失敗で自信をなくすことなく、純粋にコーヒーの魅力を味わうことができるでしょう。
-
-

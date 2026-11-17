@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 高級コーヒー豆を自宅で最大限に活かす方法。この探求は、多くのコーヒー愛好家にとって尽きることのないテーマである。
@@ -240,6 +239,11 @@ sidebarProducts:
 
 その探求のプロセス自体が、あなたのコーヒーライフをより豊かなものへと導く第一歩となるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ブルーマウンテン＆コピ ルアク</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%EF%BC%86%E3%82%B3%E3%83%94%20%E3%83%AB%E3%82%A2%E3%82%AF%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 高級豆は自宅で淹れても違いがわかるものですか？</strong>
@@ -258,4 +262,3 @@ A3: コーヒー豆は鮮度が命です。
 特に高級豆は、香りの劣化が風味に大きく影響します。購入後は、密閉性の高い容器（キャニスターなど）に入れ、直射日光や高温多湿を避け、冷暗所で保管してください。
 
 可能であれば、豆のまま購入し、淹れる直前に必要な量だけ挽くのが最も理想的です。開封後は、できるだけ早く（目安として1ヶ月以内）消費するのが効果的だ。
-

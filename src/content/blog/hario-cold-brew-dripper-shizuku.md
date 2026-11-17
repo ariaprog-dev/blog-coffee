@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でコーヒーを淹れる際、湯量コントロールのわずかなブレが味わいを劇的に変えることは、多くのドリップ愛好家が経験するところだろう。特に、湯を細く、均一に注ぐ難しさは、抽出ムラによる雑味やえぐみを生み、高品質な豆の魅力を半減させてしまう。
@@ -216,6 +215,11 @@ HARIO 雫 SBS-5Bは、単なるお湯を注ぐ道具ではない。それは、�
 
 この一本が、あなたの毎日のコーヒータイムを、より豊かで、より探求心に満ちたものに導くはずである。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>HARIO ウォータードリップサーバー 雫 SBS-5B</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHARIO%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520%25E9%259B%25AB%2520SBS-5B" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%20%E9%9B%AB%20SBS-5B%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHARIO%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520%25E9%259B%25AB%2520SBS-5B" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: HARIO 雫 SBS-5Bは、ドリップ初心者でも使いこなせますか？</strong>
@@ -232,4 +236,3 @@ A2: はい、可能です。電気ケトルで沸騰させたお湯をHARIO 雫 
 A3: 極細ノズルによる精密な湯量コントロールで、抽出ムラが減り、豆本来のクリアな味わいや複雑な風味が引き出されやすくなる。雑味や苦みが抑えられ、甘みや酸味のバランスが整い、口当たりが滑らかで、後味のすっきりとしたコーヒーを淹れることが可能になる。
 
 特に浅煎り豆の繊細な風味や、深煎り豆の豊かなコクをより鮮明に感じられるようになるだろう。
-

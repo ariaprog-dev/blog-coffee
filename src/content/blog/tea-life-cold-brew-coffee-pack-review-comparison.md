@@ -31,7 +31,6 @@ sidebarProducts:
     price: 4104
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「忙しい朝でも、手間なく本当に美味しいコーヒーが飲みたい」そう願う人は多いはずだ。コーヒー器具の選択において、手間と美味しさのバランスが常に課題となっていた。そんな中、見つけたのがティーライフの《高評価4 66★》水出し珈琲 10パックだ。
@@ -167,6 +166,11 @@ sidebarProducts:
 
 自分のライフスタイルに合ったコーヒーとの付き合い方を見つけるきっかけとなるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ティーライフ 水出し珈琲 10パック</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2595%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E7%258F%2588%25E7%2590%25B2%252010%25E3%2583%2591%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00pufz1.ve2q51be.g00pufz1.ve2q6a02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftea-life%2F90919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftea-life%2Fi%2F10001910%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2595%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E7%258F%2588%25E7%2590%25B2%252010%25E3%2583%2591%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## よくある質問
 <strong>Q1: ホットドリップのコーヒー豆でも水出しは可能ですか？</strong>
 A1: 理論的には可能ですが、推奨されません。ホットドリップ用の豆は高温抽出に適した焙煎がされているため、水出しにすると風味が薄くなったり、狙った味が出にくいことがあります。このティーライフのパックは水出し専用に豆のブレンドと焙煎が調整されており、最適な味わいを追求しています。
@@ -176,4 +180,3 @@ A2: 一般的に、水出しコーヒーは高温で抽出するホットコー�
 
 <strong>Q3: 抽出後、何日くらい保存できますか？</strong>
 A3: 抽出した水出しコーヒーは、冷蔵庫で密閉容器に入れて保存すれば、一般的に2〜3日程度は美味しく飲めると言われています。ただし、風味が落ちる前に、なるべく早めに飲み切るのが効果的です。
-

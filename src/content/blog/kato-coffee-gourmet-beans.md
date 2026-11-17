@@ -21,7 +21,6 @@ sidebarProducts:
     price: 3599
     microCopy: '詳細を見る'
 ---
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で毎日コーヒーを淹れる際、日によって異なる味わいを求めることがあります。例えば、コクのある一杯や、酸味のきいたクリアな味わいなど、気分やシーンに応じた選択肢を求める方もいるでしょう。しかし、複数の豆を常備することにはコストや選択の迷いが生じる場合があります。
@@ -247,6 +246,11 @@ sidebarProducts:
 このセットは単なるコーヒー豆の消費に留まりません。それは、自宅でコーヒーを淹れる行為をより深く理解するきっかけとなります。
 
 自分だけのコーヒー道を極めたいと願うなら、この加藤珈琲店の飲み比べセットから、その一歩を踏み出してみるのも良い選択肢でしょう。新たなコーヒー体験のきっかけとなることを期待します。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>加藤珈琲店 1kg ゴールデンブレンドセット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%25201kg%2520%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2630-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10006798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%25201kg%2520%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2587%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

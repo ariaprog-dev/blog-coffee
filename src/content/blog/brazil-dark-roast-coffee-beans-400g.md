@@ -21,7 +21,6 @@ sidebarProducts:
     price: 3330
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「毎朝カフェオレを楽しむ方で、市販の豆だとミルクに風味が負けて薄いコーヒー牛乳になりがちだと感じる方」「夏にキリッと冷えた、香ばしくて苦味の効いたアイスコーヒーを自宅で楽しみたい方」にとって、ブラジル深煎り400g自家焙煎コーヒー豆は日常のコーヒータイムを豊かにする選択肢の一つです。
@@ -113,3 +112,8 @@ A3: サーバーにあらかじめ氷を150gほど入れておき、粉25gに対
 ## まとめ：深煎りブラジル400gで毎日のコーヒー習慣を格上げ
 
 香ばしいナッツやビターチョコレートを思わせる深いコクと、酸味を抑えたまろやかな甘みが魅力のブラジル深煎り400gパック。朝の濃厚なカフェオレから午後の澄んだ急冷アイスコーヒーまで、抽出レシピ次第で多彩な表情を楽しめる頼もしい常備豆です。たっぷり楽しめる400gサイズで、毎日のコーヒータイムを一段と豊かに彩る選択肢として検討できます。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ブラジル サントス 400g 中深煎り 珈琲豆</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B9%2520400g%2520%25E4%25B8%25AD%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tl781.ve2q5962.g00tl781.ve2q66b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandushcoffee%2Fbrazilsantos400nekopos%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandushcoffee%2Fi%2F10000433%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B9%2520400g%2520%25E4%25B8%25AD%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 1990
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 朝の忙しい時間でも、本格的なアイスコーヒーを飲みたい。そう考えているなら、<strong>水出しコーヒーパック</strong>は最適な選択肢になるだろう。冷蔵庫に入れておくだけで、まろやかでクリアなアイスコーヒーが手軽に楽しめる。
@@ -107,6 +106,11 @@ sidebarProducts:
 
 1バッグで約5杯分（600ml）と抽出量も多めであり、毎日本格的なコーヒーを楽しみたい人に適している。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>グルメコーヒー豆専門加藤珈琲店 水出しアイスコーヒーバッグ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B0%25E3%2583%25AB%25E3%2583%25A1%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E5%25B0%2582%25E9%2596%2580%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%A1%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E5%B0%82%E9%96%80%E5%8A%A0%E8%97%A4%E7%8F%88%E7%90%B2%E5%BA%97%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B0%25E3%2583%25AB%25E3%2583%25A1%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E5%25B0%2582%25E9%2596%2580%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 忙しい朝の「浸漬時間」と「抽出効率」の関係
 
 水出しコーヒーの抽出時間は一般的に8時間から12時間とされる。これは、低温の水がコーヒーの成分をゆっくりと溶かし出すのに必要な時間だ。しかし、<strong>忙しい日常では「今すぐ飲みたい」というニーズ</strong>もあるだろう。
@@ -127,6 +131,11 @@ sidebarProducts:
 <strong>冷蔵庫で4時間冷やすだけ</strong>で、甘みのあるマイルドなコールドブリューコーヒーが作れる点が大きな魅力だ。急いでいる時や、急にアイスコーヒーが飲みたくなった時に重宝する。
 
 アラビカ豆100%使用で、雑味のないクリアな味わいが特徴。1バッグで250ml〜500mlと抽出量の幅があるため、濃さの調整もしやすい。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>MJB アイスコーヒー 水出し バッグ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DMJB%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%2520%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00uolg1.ve2q51fe.g00uolg1.ve2q6f9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frvjapan%2Fcompass1750669595%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frvjapan%2Fi%2F10000050%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DMJB%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%2520%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 1杯あたりの「コスパ」と「大容量」の賢い選び方
 
@@ -150,6 +159,11 @@ sidebarProducts:
 
 ブラジル、コロンビア他を原産国とする本格的なブレンドで、喫茶店のような味わいが自宅で手軽に再現できる。コーヒーを毎日たくさん消費する家庭には、この大容量は非常にありがたい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>キーコーヒー 水だしコーヒーパック</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B0%25B4%25E3%2581%25A0%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2591%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E6%B0%B4%E3%81%A0%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B0%25B4%25E3%2581%25A0%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2591%25E3%2583%2583%25E3%2582%25AF" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 #### 【おすすめ商品】バランスの取れた味わいで「毎日ごくごく」飲みたい派に：ティーライフ 水出し珈琲
 
 | 項目 | 詳細 |
@@ -161,6 +175,11 @@ sidebarProducts:
 10パック入りで約30杯分の水出し珈琲が楽しめる。ベトナムのロブスタ種とブラジルのアラビカ種をブレンドし、<strong>フルシティローストで焙煎</strong>されている。
 
 これにより、酸味を抑えつつ、コクとビターテイストのバランスが良い「すっきりとした後味」が特徴だ。ミルクや砂糖を入れてもコーヒーの風味をしっかり感じられる設計になっている。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ティーライフ 水出し珈琲</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2595%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00pufz1.ve2q51be.g00pufz1.ve2q6a02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftea-life%2F90919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftea-life%2Fi%2F10001910%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%2595%2520%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 【比較表】水出しコーヒーパック、タイプ別おすすめ
 
@@ -200,4 +219,3 @@ A2: 冷蔵庫で適切に保存すれば、<strong>作った水出しコーヒ�
 A3: 水出しコーヒーは基本的にはアイスで飲むことを想定して作られているが、<strong>温めてホットコーヒーとして飲むことも可能だ</strong>。ただし、温めすぎると水出し特有のまろやかさや甘みが損なわれたり、香りが飛んでしまったりすることがある。
 
 レンジで軽く温めるか、お湯で割ってアメリカーノのようにすると、水出しコーヒーの良さを残しつつ楽しめるだろう。
-

@@ -31,7 +31,6 @@ sidebarProducts:
     price: 4990
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で美味しいアイスコーヒーを安定して淹れるのは、実はかなり難しいものだ。豆の種類、挽き目、湯温、抽出時間。
@@ -155,6 +154,11 @@ sidebarProducts:
 
 そして、コーヒーが好きなご両親や大切な人へのギフトを探している人にも、この敬老の日 コーヒー ギフト アイスコーヒーは最高の選択となるだろう。手間をかけることなく、純粋に「飲む」という行為そのものに集中できる、そんな贅沢な時間を提供してくれるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>敬老の日 コーヒー ギフト アイスコーヒー 500ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: ビターとスイートは具体的にどう違いますか？</strong>
@@ -169,4 +173,3 @@ A2: 公式には明確な記載はありませんが、リキッドコーヒー�
 A3: 非常に濃厚なので、牛乳や豆乳で割ってアイスカフェオレにするのも絶品です。バニラアイスクリームにかければ、手軽にアフォガート風デザートも楽しめます。
 
 少し贅沢ですが、ウイスキーと合わせてコーヒーカクテルにするのも有効だ。
-

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 20000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 ハワイコナ、それは「コーヒーの王様」と称される特別な豆だ。しかし、一言でハワイコナと言っても、農園や焙煎、販売店によってその表情は大きく変わる。価格も決して安くはないため、せっかくなら自分にぴったりの一杯を選びたいと考える人も多いだろう。
@@ -95,6 +94,11 @@ sidebarProducts:
 | 保存方法 | 直射日光をさけ、涼しいところに保存 |
 | 煎り方 | 普通煎り |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>キーコーヒー ハワイ コナ エクストラファンシー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%2520%25E3%2582%25B3%25E3%2583%258A%2520%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00q5iy1.ve2q55f5.g00q5iy1.ve2q6c6c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkeycomr%2Ftc122000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkeycomr%2Fi%2F10001046%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AD%25E3%2583%25BC%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%2520%25E3%2582%25B3%25E3%2583%258A%2520%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## HQC「レガリア ハワイコナコーヒー エクストラファンシー100%」：農園直輸入の個性際立つ一杯
 
 「コーヒー通を虜にするハワイコナの最高峰」という謳い文句が目を引くのが、HQCのレガリアだ。こちらは数々のコンテストで受賞歴を持つ<strong>「ハワイアンクイーンコーヒー農園」から直輸入された豆を使用</strong>している。
@@ -115,6 +119,11 @@ sidebarProducts:
 | 賞味期限 | 6ヶ月 |
 | 保存方法 | 要冷蔵（2週間以上保存なら冷凍推奨） |
 | 焙煎度合 | ミディアムーハイ |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>HQC レガリア ハワイコナコーヒー エクストラファンシー100%</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHQC%2520%25E3%2583%25AC%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qrpg1.ve2q5d22.g00qrpg1.ve2q6e6a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbio-cosme%2Fkona-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbio-cosme%2Fi%2F10001241%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHQC%2520%25E3%2583%25AC%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 【徹底比較】焙煎度合い、鮮度、価格で味わいがどう変わるか
 
@@ -200,4 +209,3 @@ A3: ハワイコナの繊細な風味を最大限に引き出すには、<strong
 一方、HQCレガリアのハワイコナは、農園から直送される<strong>圧倒的な鮮度と、ミディアムーハイの焙煎が引き出す個性</strong>が光る。ハワイコナの持つフルーティーな酸味や甘みを追求し、一杯のコーヒーに深い感動を求めるこだわり派には、この上ない選択肢となるはずだ。
 
 どちらを選ぶかは、あなたがハワイコナに何を求めるかによって決まる。自分にとって最高の「コーヒー体験」を見つける一助となれば嬉しい限りだ。
-

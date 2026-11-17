@@ -35,7 +35,6 @@ sidebarProducts:
     price: 5659
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 父の日に何を贈るか、毎年頭を悩ませる人も多いだろう。毎日仕事で忙しいお父さんにとって、ホッと一息つけるコーヒーの時間は貴重だ。
@@ -107,6 +106,11 @@ sidebarProducts:
 | 販売ショップ | マイセン磁器 日本総代理店 |
 | レビュー評価 | 4.82 (159件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>マイセン コーヒー ドリップバッグコーヒーセット（30袋入）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25BB%25E3%2583%25B3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00t87v1.ve2q5f3b.g00t87v1.ve2q6c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeissen%2Fmcof_gift_20dp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeissen%2Fi%2F10000475%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25BB%25E3%2583%25B3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第2位：OCEAN ＆ TERRE Speciality Coffee セットC（ドリップバッグ12袋）
 ### 世界を旅するスペシャルティコーヒーの探求セット
 
@@ -137,6 +141,11 @@ sidebarProducts:
 | 販売ショップ | natu & robe ナチュアンドローブ |
 | レビュー評価 | 4.57 (87件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>OCEAN ＆ TERRE Speciality Coffee セットC（ドリップバッグ12袋）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DOCEAN%2520%25EF%25BC%2586%2520TERRE%2520Speciality" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOCEAN%20%EF%BC%86%20TERRE%20Speciality%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DOCEAN%2520%25EF%25BC%2586%2520TERRE%2520Speciality" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第3位：マイセン コーヒー ドリップバッグコーヒーセット（20袋入）
 ### 日常に寄り添う上質、安心のマイセンクオリティ
 
@@ -166,6 +175,11 @@ sidebarProducts:
 | 価格 | 6,156円 |
 | 販売ショップ | マイセン磁器 日本総代理店 |
 | レビュー評価 | 4.79 (344件) |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>マイセン コーヒー ドリップバッグコーヒーセット（20袋入）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25BB%25E3%2583%25B3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00t87v1.ve2q5f3b.g00t87v1.ve2q6c76/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeissen%2Fmcof_gift_20dp%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeissen%2Fi%2F10000475%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259E%25E3%2582%25A4%25E3%2582%25BB%25E3%2583%25B3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 第4位：INIC Coffee PEANUTS coffee Powder ギフトセット 2本セット
 ### 忙しいお父さんへ、5秒で本格コーヒーと癒しのデザインを
@@ -200,6 +214,11 @@ sidebarProducts:
 | 販売ショップ | natu & robe ナチュアンドローブ |
 | レビュー評価 | 4.66 (111件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>INIC Coffee PEANUTS coffee Powder ギフトセット 2本セット</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DINIC%2520Coffee%2520PEANUTS%2520coffee" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00ta1l1.ve2q5848.g00ta1l1.ve2q61e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnaturobe%2Fnr-09812%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnaturobe%2Fi%2F10000507%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DINIC%2520Coffee%2520PEANUTS%2520coffee" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## まとめ：お父さんの笑顔を想像して選ぶ、最高のコーヒーギフト
 
 今回のランキングでは、父の日のコーヒーギフトとしておすすめの4つの商品を紹介した。それぞれのギフトには異なる魅力と特性がある。
@@ -232,4 +251,3 @@ A2: スペシャルティコーヒーは、豆の栽培から収穫、精製、�
 A3: コーヒーにこだわりがある人には、今回のランキングで言えば、第1位の「マイセン コーヒー ドリップバッグコーヒーセット（30袋入）」が最も適しています。特に、希少価値の高いブルーマウンテンブレンドが含まれており、その風味のバランスの良さや上質さが評価されるでしょう。
 
 また、第2位の「OCEAN ＆ TERRE Speciality Coffee セットC」も、12種類のスペシャルティコーヒーを通して新しい味の発見ができるため、コーヒーの探求心があるお父さんには喜ばれるはずです。
-

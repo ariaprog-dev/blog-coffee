@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーにおいて、クリアな味わいや豆本来の香りを深く追求したいと考える愛好家は少なくない。ペーパーフィルター特有の紙臭さや、微細な雑味が気になる場合、波佐見焼COFILは、その課題に対する有力な解決策となる。
@@ -214,3 +213,8 @@ COFILはペーパーフィルターのような手軽さを保ちつつ、より
 もちろん、抽出に時間を要することや、定期的なメンテナンスが必要な点は、この器具と長く付き合う上で理解しておくべき特性である。しかし、この一手間を「コーヒーを淹れるプロセス全体を楽しむ時間」と捉え、丁寧に道具を扱う喜びを見出せる人にとっては、COFILは単なる抽出器具に留まらない価値を提供する。
 
 特に、スペシャルティコーヒーやシングルオリジンの豆を愛し、その複雑な風味のレイヤーを深く探求したいと考えるコーヒー愛好家には、COFILが適している。日々の生活の中で、一杯のコーヒーにこだわり、五感を研ぎ澄ます喜びを求めるのであれば、波佐見焼COFILの導入を検討することは、あなたのコーヒー体験を新たな段階へと引き上げる一助となり得る。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>波佐見焼COFIL</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B3%A2%E4%BD%90%E8%A6%8B%E7%84%BCCOFIL%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>

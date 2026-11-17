@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 毎日のコーヒー抽出において、安定した品質や手間に課題を感じる方は少なくありません。お湯の温度や注ぐスピードが少し違うだけで味が変わってしまうのは、多くの人が直面する悩みです。
@@ -187,3 +186,8 @@ sidebarProducts:
 購入を検討しているなら、まずは「手軽に上質なコーヒーを飲みたいか」「複数の風味を手間なく楽しみたいか」「器具のメンテナンスから解放されたいか」という点を自問してみてください。もしこれらの質問に一つでも「はい」と答えるなら、このドリップコーヒーファクトリー淡路島アソートは、あなたの毎日のコーヒー体験を豊かにする満足度の高い選択肢となるでしょう。
 
 普段本格的なハンドドリップを楽しむ人にとっても、このドリップバッグが提供する便利さと品質のバランスは、日常の隙間を埋める上で有効な選択肢です。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ドリップコーヒーファクトリー淡路島アソート</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E6%25B7%25A1%25E8%25B7%25AF%25E5%25B3%25B6%25E3%2582%25A2%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E6%B7%A1%E8%B7%AF%E5%B3%B6%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E6%25B7%25A1%25E8%25B7%25AF%25E5%25B3%25B6%25E3%2582%25A2%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2588" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>

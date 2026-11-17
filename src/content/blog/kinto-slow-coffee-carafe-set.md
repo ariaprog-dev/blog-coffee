@@ -21,7 +21,6 @@ sidebarProducts:
     price: 4840
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で美味しいコーヒーを淹れたいと考えているものの、どのような器具を選べば良いか、安定した味を再現できるか、あるいは手間はかからないかといった悩みを持つ人は多い。そうした方には、まずKINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlを検討するのが望ましい。
@@ -232,6 +231,11 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは、自宅で�
 
 まずは、お気に入りのコーヒー豆を一つ見つけ、このカラフェで淹れてみてほしい。きっと、これまで知らなかったコーヒーの新たな魅力と、自身の手で美味しい一杯を淹れる喜びを発見できるはずである。このセットは、日々のコーヒー体験をより豊かにする一助となるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>KINTO コーヒーカラフェセット ステンレス</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKINTO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: ペーパーフィルター不要とのことですが、一般的なドリップコーヒーとの味の違いはありますか？</strong>
 A1: はい、明確な違いがあります。KINTOのカラフェセットのステンレスフィルターは、コーヒーオイルを透過させるため、一般的なペーパーフィルターで淹れたコーヒーに比べて、よりまろやかでコクがあり、ボディ感のしっかりした味わいになります。豆本来の複雑な風味やアロマをダイレクトに感じやすいのが特徴です。微粉がカップの底に若干残る可能性はありますが、それがコーヒーオイルによる豊かな風味の証拠でもあります。
@@ -251,4 +255,3 @@ A3: 初心者でも美味しく淹れるためのコツはいくつかありま�
 抽出の際は、最初に少量のお湯でコーヒー粉全体を湿らせ、20～30秒ほど蒸らす時間を設けてください。その後は、中心から「の」の字を描くように細くゆっくりと、一定のペースでお湯を注ぐことがポイントです。
 
 これらを意識するだけで、格段に美味しいコーヒーが淹れられるはずです。
-

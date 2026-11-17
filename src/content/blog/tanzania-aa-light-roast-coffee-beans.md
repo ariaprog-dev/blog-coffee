@@ -13,7 +13,6 @@ mediaType: 'beans'
 tags:
   - 'angle:roast-origin'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 多忙な日常において、朝焼けが街を染める光景を目にした際、質の高いコーヒーが求められることがあります。それは単に喉を潤すだけでなく、思考を明晰にし、心を落ち着かせる効果が期待できる特別な存在です。コーヒーを淹れる時間は、豆を挽く音、湯を注ぐ際の蒸気の香り、そして抽出される過程を観察する行為を通じて、集中を促す機会となります。
@@ -143,6 +142,11 @@ tags:
 
 ## 『浅煎りタンザニアAA、正直レビュー』の導入前チェックポイント
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>浅煎りタンザニアAA</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2AA%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問（FAQ）：『浅煎りタンザニアAA、正直レビュー』
 
 <strong>Q1. 「キリマンジャロの雪解け水を思わせる透明感、その秘密を紐解く」の観点から、毎日のコーヒー抽出で意識すべきポイントは何ですか？</strong>
@@ -150,4 +154,3 @@ A1. 『浅煎りタンザニアAA、正直レビュー』の持ち味を最大�
 
 <strong>Q2. 浅煎りキリマンジャロの繊細な酸味や香りを落とさず保存するコツはありますか？</strong>
 A2. 浅煎り豆は香気成分が抜けやすいため、開封後はチャック付きの遮光袋や密閉キャニスターに入れ、直射日光と湿気を避けた冷暗所で保管します。1ヶ月以内に飲みきれる分量で使い、淹れる直前に挽くのが理想的です。
-

@@ -35,7 +35,6 @@ sidebarProducts:
     price: 13750
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるドリップコーヒーは、豆の種類や焙煎度だけでなく、抽出のプロセス一つで大きく味が変わる。特に「お湯の温度」と「注ぎ方」は、狙った味を再現するために欠かせない要素だ。
@@ -117,6 +116,11 @@ EKG PROには、抽出の安定性と効率を高めるための先進機能が�
 | 設定可能温度 | 40-100 ℃ (0.5度単位) |
 | 特徴 | グースネック、デジタル温度設定、スケジュール機能、プレボイル機能、Wi-Fi接続（日本国内は準備中） |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>Stagg EKG PRO</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DStagg%2520EKG%2520PRO" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-ekpro06-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DStagg%2520EKG%2520PRO" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## Stagg Pour-Over Kettle：アナログの魅力と日々の使いやすさ
 
 一方、Fellow Stagg Pour-Over Kettleは、電気ケトルほどの精密な温度制御は不要だが、<strong>手軽に美味しいコーヒーを楽しみたい</strong>人向けの直火・IH対応モデルだ。
@@ -153,6 +157,11 @@ EKG PROが約1250gなのに対し、こちらは<strong>約530g</strong>と半�
 | 特徴 | グースネック、蓋にアナログ温度計、軽量、熱源を選ばない |
 
 FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル (楽天)
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>Stagg Pour-Over Kettle</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DStagg%2520Pour-Over%2520Kettle" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStagg%20Pour-Over%20Kettle%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DStagg%2520Pour-Over%2520Kettle" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## どちらを選ぶ？ フェローケトル徹底比較表
 
@@ -219,4 +228,3 @@ Stagg EKG PROは、最新のテクノロジーを駆使して「最高の抽出�
 一方、Stagg Pour-Over Kettleは、アナログな操作感と場所を選ばない自由さで、「気軽に美味しいコーヒーを楽しみたい」という日々のニーズに応える。そのシンプルさが、かえってコーヒーを淹れるプロセスを豊かにしてくれることもある。
 
 どちらのケトルを選ぶかは、あなたがコーヒーに何を求め、どのようなスタイルで楽しみたいかによって決まる。あなたのコーヒーライフをより豊かなものにする、最適な一台を見つけてほしい。
-

@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1980
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でカフェのような本格的なラテアートに挑戦したい人は多いだろう。本格的なラテアートに挑戦する人は多い。エスプレッソマシンやコーヒー豆にこだわる一方で、意外と見落としがちなのがミルクピッチャーの選び方だと感じる。
@@ -90,6 +89,11 @@ sidebarProducts:
 | サイズ | 350ml: 高さ 9cm x 幅 7.5cm |
 | 重量 | 350ml: 約163g |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ユニバイ ミルクピッチャー350ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2590%25E3%2582%25A4%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00tkn81.ve2q59aa.g00tkn81.ve2q6ade/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichifujiec%2Fnk049%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichifujiec%2Fi%2F10000128%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A6%25E3%2583%258B%25E3%2583%2590%25E3%2582%25A4%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### ハッピーラボ ステンレス ミルクジャグ 350ml
 
 プロ仕様と銘打たれたステンレス製ピッチャーだ。手頃な価格も魅力で、300mlまでの目盛りがあり、ミルクの計量をサポートする。
@@ -106,6 +110,11 @@ sidebarProducts:
 | 目盛り | 300mlまで |
 | サイズ | 記載なし |
 | 重量 | 記載なし |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ハッピーラボ ステンレス ミルクジャグ 350ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%2583%25E3%2583%2594%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B0%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00slqj1.ve2q58b7.g00slqj1.ve2q6e2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylab%2F10000011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylab%2Fi%2F10000011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258F%25E3%2583%2583%25E3%2583%2594%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B0%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 自宅ラテアートに必須！ピッチャーの「設計思想」を読み解く
 
@@ -204,4 +213,3 @@ A2: 使用後はすぐに中性洗剤とスポンジで洗い、よく乾燥さ�
 A3: 目盛り付きが適しています。ミルクの量を正確に計量できるため、毎回安定した品質のフォームミルクを作れるからだ。
 
 特に自宅で複数回練習する際や、毎回同じ味を再現したい場合には、目盛りは非常に役立つ。目分量での計量は慣れが必要で、失敗の原因にもなりやすい。
-

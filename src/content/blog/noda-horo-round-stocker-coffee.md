@@ -21,7 +21,6 @@ sidebarProducts:
     price: 4240
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 コーヒー豆の鮮度維持は、自宅で美味しい一杯を淹れる上で最も重要な要素の一つだ。光や湿気、酸素は豆の劣化を早め、せっかくの風味が失われてしまう。
@@ -115,6 +114,11 @@ sidebarProducts:
 
 この容器を選ぶことは、単に豆を保存するだけでなく、日々の暮らしに上質な道具を取り入れ、丁寧にコーヒーと向き合う時間を作り出すことにも繋がる。あなたのコーヒーライフをきっと充実させてくれるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>野田琺瑯 ラウンドストッカー 18cm ホワイトシリーズ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%252018cm%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00s8b01.ve2q5b75.g00s8b01.ve2q6694/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbft-ltd%2Fnt-n13n-ur82%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbft-ltd%2Fi%2F10013976%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%252018cm%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: ホーロー容器の手入れで特に気をつけることはありますか？</strong>
 A1: 琺瑯はガラス質のため、落としたりぶつけたりして衝撃を与えると欠ける可能性があります。優しく扱い、直火や電子レンジでの使用は避けてください。中性洗剤で洗い、よく乾燥させることが大切です。
@@ -126,4 +130,3 @@ A2: はい、もちろん可能です。琺瑯は匂い移りが少ないため�
 
 <strong>Q3: シリコンパッキンの交換時期はどのように判断すれば良いですか？</strong>
 A3: パッキンの弾力性がなくなったり、ひび割れや変色が見られたりしたら交換のサインです。密閉性が低下すると鮮度保持能力が落ちるため、定期的に状態を確認し、野田琺瑯から販売されている交換用パッキンと交換するのが効果的です。
-

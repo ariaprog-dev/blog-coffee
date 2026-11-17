@@ -21,7 +21,6 @@ sidebarProducts:
   price: 2980
   microCopy: 詳細を見る
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 毎朝、自宅で淹れるコーヒーの味が安定しない、あるいはせっかくの良い豆を使っているのに雑味が出てしまうといった悩みを持つコーヒー愛好家は少なくない。その根本的な原因は、「挽きムラ」にある可能性が高い。
@@ -211,6 +210,11 @@ SNSやコーヒー愛好家のコミュニティでも、同様の声が多く�
 このグラインダーは、単なるコーヒー豆を粉砕する機械ではありません。それは、毎日のコーヒー体験を向上させ、コーヒーライフをより深く、豊かにするためのツールとなり得ます。
 
 自宅で過ごす時間が、質の高いコーヒーによって満たされることの意義は大きいでしょう。このグラインダーが、あなたのコーヒーライフに新たな価値をもたらす可能性を秘めています。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>カリタ ナイスカットG</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%258A%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588G" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%20%E3%83%8A%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%83%E3%83%88G%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%258A%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%2583%25E3%2583%2588G" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ### よくある質問
 

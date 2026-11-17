@@ -31,7 +31,6 @@ sidebarProducts:
     price: 35475
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「自宅で焙煎したてのコーヒーを飲みたい」というニーズに対し、アウベルクラフト 遠赤コーヒー焙煎キットは手軽さと本格性を両立する。特に、豆の均一な加熱と効率的な熱伝導に着目した独自の設計は、安定した品質のコーヒーを実現する上で重要な要素である。
@@ -152,6 +151,11 @@ sidebarProducts:
 
 初期投資として60,000円という価格は安価ではない。しかし、このキットが提供する焙煎体験とコーヒー生活の質の向上を考慮すると、その価値は十分である。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>遠赤 コーヒー焙煎キット アウベルクラフト 焙煎器</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 焙煎は難しいですか？初心者でも上手にできますか？</strong>
@@ -168,4 +172,3 @@ A2: 焙煎時間は豆の量や火力にもよりますが、50gから250g（基
 A3: 他の手回し式と比べると、特許取得済みの四角い焙煎カゴと内側の羽根による「圧倒的な攪拌効率」が最大の特徴です。これにより、手回し式で最も難しいとされる「焼きムラの抑制」を高いレベルで実現しています。
 
 また、風防と遠赤ネットの組み合わせで熱効率が良く、豆がしっかり膨らむため、風味豊かな仕上がりが期待できます。
-

@@ -32,7 +32,6 @@ sidebarProducts:
     price: 890
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でのコーヒータイム、特にサイフォン抽出において、クリアで安定した味わいは追求される目標である。しかし、火力が不安定だと湯温が変動し、せっかくの豆の個性が台無しになる。
@@ -124,6 +123,11 @@ KONOのランプ芯は、サイフォン抽出の品質にこだわりたい人�
 
 このKONO コーノ ランプ芯 セト口付 サイフォンは、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>KONO コーノ フラスコ4人用 サイフォン PR型</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-flask4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000248%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: KONO以外のメーカーのサイフォンでも使えるか？</strong>
@@ -134,4 +138,3 @@ A2: 炎が不安定になったり、芯が極端に短くなったり、焦げ�
 
 <strong>Q3: アルコールランプの炎の調整方法は？</strong>
 A3: 芯の出し具合で炎の大きさを調整する。芯を出しすぎると炎が大きくなりすぎ、芯の消耗が早まる。フラスコの底面全体を均一に温める程度の、穏やかな炎が理想的だ。
-

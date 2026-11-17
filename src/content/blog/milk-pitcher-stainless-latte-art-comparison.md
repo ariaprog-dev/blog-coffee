@@ -31,7 +31,6 @@ sidebarProducts:
     price: 1460
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で本格的なラテアートに挑戦したいけれど、なかなか思い通りの泡が作れない。そのような悩みを持つ人には、このステンレス製ミルクピッチャーが選択肢となる。
@@ -169,6 +168,11 @@ sidebarProducts:
 
 このピッチャーは、単なる道具ではなく、自宅でのコーヒー体験をワンランク引き上げるための確かな投資となるだろう。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ミルクピッチャー350ml 600ml 900ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC350ml%2520600ml%2520900ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC350ml%2520600ml%2520900ml" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: どのサイズを選べばいいですか？</strong>
 A1: 普段淹れるラテの杯数で選びましょう。1杯分（約150〜200mlのミルク）には350mlまたは600mlが適しています。ミルクがピッチャーの半分程度に収まる容量を選ぶと、泡立て作業が安定しやすくなります。複数杯を一度に作る場合は900mlが良いでしょう。
@@ -182,4 +186,3 @@ A2: はい、このピッチャーは初心者にも適しています。ステ�
 A3: いいえ、手入れは非常に簡単です。ステンレス製でサビにくく、丸底なのでミルクが残りにくく洗いやすい設計です。
 
 使用後はすぐに水で洗い流し、必要であれば洗剤とスポンジで軽く洗うだけで清潔に保てます。特別な手入れは不要で、日常使いに最適です。
-

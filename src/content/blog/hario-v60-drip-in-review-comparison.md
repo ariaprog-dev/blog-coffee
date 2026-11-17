@@ -33,7 +33,6 @@ sidebarProducts:
     price: 550
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅ハンドドリップで「味が重く濁る」「豆の華やかな酸味が引き出せない」と悩むコーヒー愛好家にとって、<strong>ハリオ V60 円すい形ドリッパー</strong> はまさに世界基準の解答と言える。
@@ -164,6 +163,11 @@ VDIR-02-B V60ドリップイン は、単なる初心者向けの安価なセッ
 
 朝の静かなキッチンで、ケトルから立ち上る湯気とともに粉がふっくらと膨らむ瞬間。スパイラルリブを伝って澄んだ琥珀色の液体がサーバーへと落ちていく時間を、この相棒とともにぜひ楽しんでほしい。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>VDIR-02-B V60ドリップイン</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DVDIR-02-B%2520V60%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A4%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00r1361.ve2q5ebd.g00r1361.ve2q616e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4977642143296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11176711%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVDIR-02-B%2520V60%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A4%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: V60ドリッパーは初心者でも美味しく淹れられますか？</strong>
@@ -174,4 +178,3 @@ A2: ポリプロピレン（樹脂）製は熱伝導率が低いため、事前�
 
 <strong>Q3: 耐熱ガラス製ポットは直火や電子レンジで使用できますか？</strong>
 A3: 電子レンジでの温め直しには完全対応していますが、直火にかけることはできません。冷めてしまったコーヒーもレンジで手軽に温め直せるため、デスクワークや読書中のおかわり用として非常に実用的です。
-

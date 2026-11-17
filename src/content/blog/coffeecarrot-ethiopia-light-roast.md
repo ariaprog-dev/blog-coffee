@@ -21,7 +21,6 @@ sidebarProducts:
     price: 2480
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーの味わいは、豆の品質と抽出方法によって大きく左右される。特にスペシャルティコーヒーに目を向けるとき、その奥深さと可能性は計り知れない。長年、様々なコーヒー豆を試してきた中で、抽出の安定性や味わいの深さに物足りなさを感じていた経験を持つ方もいるだろう。
@@ -245,6 +244,11 @@ sidebarProducts:
 
 これらの「デメリット」は、裏を返せば、この豆が持つ繊細で奥深い魅力を引き出すための「挑戦」とも言える。少しの手間や知識を投資することで、自宅でのコーヒー体験は、想像以上に豊かなものになるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>珈琲きゃろっと エチオピア イルガチェフェ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%2520%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2595%25E3%2582%25A7" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%20%E3%82%A4%E3%83%AB%E3%82%AC%E3%83%81%E3%82%A7%E3%83%95%E3%82%A7%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%2520%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25AC%25E3%2583%2581%25E3%2582%25A7%25E3%2583%2595%25E3%2582%25A7" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 浅煎りとのことですが、酸味が強すぎて飲みにくいことはありませんか？</strong>
@@ -273,4 +277,3 @@ A3: 珈琲きゃろっとの浅煎り豆は、鮮度が非常に重要です。
 自宅で淹れるコーヒーは、豆の選択から抽出のプロセスまで、すべてが個人の裁量に委ねられる。このイルガチェフェを通じてコーヒーの奥深さを知り、自分だけの一杯を追求することは、日々の満足度向上に寄与する可能性がある。
 
 あなた自身のコーヒーライフを、この特別な豆で新たな次元へと引き上げてみてはいかがだろうか。
-

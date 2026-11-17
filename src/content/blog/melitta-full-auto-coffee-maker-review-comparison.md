@@ -21,7 +21,6 @@ sidebarProducts:
     price: 30000
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 毎朝のコーヒー、豆の鮮度が落ちるのが気になったり、淹れる手間を負担に感じたりしていないだろうか。そのような悩みに対し、Melitta（メリタ）の全自動コーヒーメーカーが解決策となる。
@@ -147,6 +146,11 @@ Melitta 全自動コーヒーメーカーは、コーヒーを淹れる手間を
 
 もしあなたが、自宅で手軽に、しかし妥協のない味わいのコーヒーを求めているなら、Melitta 全自動コーヒーメーカーが、あなたのコーヒーライフに新たな扉を開いてくれるはずだ。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>メリタ アロマフレッシュ ミル付 全自動</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E3%2583%259F%25E3%2583%25AB%25E4%25BB%2598%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00u5nc1.ve2q54c6.g00u5nc1.ve2q6ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faft1022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000119%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E3%2583%259F%25E3%2583%25AB%25E4%25BB%2598%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 <strong>Q1: ミルのお手入れは本当に簡単か？</strong>
 A1: はい、非常に簡単です。ミル部分は本体からワンタッチで取り外せる構造で、付着したコーヒー粉は付属のブラシで払うだけで十分です。週に一度程度、水洗いして完全に乾燥させれば、衛生的に保てます。日々の手入れに手間はかかりません。
@@ -160,4 +164,3 @@ A2: ステンレス製真空二重ポットのため、抽出後2〜3時間は�
 A3: 挽き目3段階と濃度調整機能の組み合わせで、コーヒーの味わいはかなり変化します。例えば、同じ豆でも細挽きにするとコクや苦味が強調され、粗挽きにすると酸味やフルーティーさが引き出されやすくなります。
 
 さらに濃度調整を組み合わせることで、好みの味をかなり細かく再現できるようになります。様々な豆を試しながら、最適な設定を見つける楽しみもあります。
-

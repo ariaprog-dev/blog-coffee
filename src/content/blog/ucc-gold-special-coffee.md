@@ -21,7 +21,6 @@ sidebarProducts:
     price: 600
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で本格的なコーヒーを楽しみたいと考えるものの、どの豆を選び、どのように淹れれば良いか迷う人は少なくない。その最初の「基準点」として最適な選択肢が、UCC上島珈琲の「UCCゴールドスペシャル」である。
@@ -182,6 +181,11 @@ UCCゴールドスペシャルは優れたレギュラーコーヒー粉だが�
 | 型番/仕様 | レギュラーコーヒー（粉）、スペシャルブレンド、内容量360g、生豆生産国名：ベトナム、ブラジル他 |
 | 主な特徴 | UCCの定番、ロングセラー商品。芳醇な香りとコク、すっきりとした後味のバランスが特徴で、家庭での日常使いに最適。様々な抽出器具に対応。 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>UCCゴールドスペシャル</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DUCC%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUCC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DUCC%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問
 
 <strong>Q1: 初めて自宅でコーヒーを淹れるが、この粉で大丈夫か？</strong>
@@ -208,4 +212,3 @@ UCC上島珈琲の「UCCゴールドスペシャル」は、自宅でコーヒ�
 1杯あたり約17円という優れたコストパフォーマンスは、コーヒーを日常の一部として無理なく取り入れることを可能にする。
 
 「まずは安定した美味しいコーヒーを毎日楽しみたい」と考えるなら、UCCゴールドスペシャルはその期待を裏切らない選択肢となる。日々の生活に寄り添い、確かな満足感をもたらしてくれる一杯を、この機会に体験してみてはいかがだろうか。
-

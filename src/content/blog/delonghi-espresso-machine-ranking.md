@@ -31,7 +31,6 @@ sidebarProducts:
     price: 22800
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーは、日常の重要な要素である。特にエスプレッソマシンは、その奥深さから注目を集めている。本稿では、デロンギのエスプレッソマシンに焦点を当て、その特徴や設計思想をランキング形式で紹介する。
@@ -101,6 +100,11 @@ sidebarProducts:
 | 販売ショップ | デロンギ公式 楽天市場店 |
 | レビュー評価 | 4.55 (328件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>デロンギ マグニフィカS 全自動コーヒーマシン ECAM22112B</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%259E%25E3%2582%25B0%25E3%2583%258B%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25ABS%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%9E%E3%82%B0%E3%83%8B%E3%83%95%E3%82%A3%E3%82%ABS%20%E5%85%A8%E8%87%AA%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9E%E3%82%B7%E3%83%B3%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%259E%25E3%2582%25B0%25E3%2583%258B%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25ABS%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 第2位：デロンギ ラ・スペシャリスタ・プレスティージオ EC9355J-M
 「自宅でバリスタ気分を味わいたい、でも全て手動はハードルが高い」そんな人には、この「ラ・スペシャリスタ・プレスティージオ」が最適だ。全自動とセミオートの良いとこ取りをしたような、まさに「スペシャルな」一台だ。
 
@@ -127,6 +131,11 @@ sidebarProducts:
 | 販売ショップ | デロンギ公式 楽天市場店 |
 | レビュー評価 | 4.63 (19件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>デロンギ ラ・スペシャリスタ・プレスティージオ EC9355J-M</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132126050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002509%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 第3位：デロンギ デディカ アルテ エスプレッソ カプチーノ メーカー EC885J-M
 コンパクトなボディに本格的な機能を凝縮したのが、「デディカ アルテ」だ。キッチンに置いても主張しすぎないスリムなデザインは、多くの人の心を掴むだろう。グラインダーは別途必要だが、この価格帯でこれだけの抽出性能とミルク機能を備えているのは素晴らしい。
 
@@ -149,6 +158,11 @@ sidebarProducts:
 | 販売ショップ | デロンギ公式 楽天市場店 |
 | レビュー評価 | 5.0 (5件) |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>デロンギ デディカ アルテ エスプレッソ カプチーノ メーカー EC885J-M</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%2587%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AB%2520%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2586%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%2520%25E3%2582%25AB%25E3%2583%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%258E" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132106263%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002591%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%2587%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25AB%2520%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2586%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%2520%25E3%2582%25AB%25E3%2583%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%258E" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 第4位：デロンギ スティローザ エスプレッソ・カプチーノメーカー EC235J-W
 デロンギのエスプレッソマシンを初めて使用するユーザーや、手軽に導入を検討しているユーザーに適しているのが、「スティローザ」である。2万円台の価格帯でありながら、デロンギの本格的なエスプレッソを抽出できる点が特徴である。
 
@@ -167,6 +181,11 @@ sidebarProducts:
 | 価格 | 22,800円 |
 | 販売ショップ | デロンギ公式 楽天市場店 |
 | レビュー評価 | 4.76 (21件) |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>デロンギ スティローザ エスプレッソ・カプチーノメーカー EC235J-W</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B6%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%2520%25E3%2582%25AB%25E3%2583%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%258E%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132104225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002790%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25B6%2520%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%2520%25E3%2582%25AB%25E3%2583%2597%25E3%2583%2581%25E3%2583%25BC%25E3%2583%258E%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## よくある質問（FAQ）
 
@@ -200,4 +219,3 @@ A3: 今回紹介した「デディカ アルテ」と「スティローザ」は
 <strong>第4位の「スティローザ」</strong>は、まずはエスプレッソの世界に足を踏み入れてみたい、というエントリーユーザー向けだ。価格を抑えながらデロンギの品質を利用できる、入門機として適したモデルである。
 
 どのマシンを選ぶにしても、デロンギのエスプレッソマシンは、あなたのコーヒーライフを豊かにしてくれるはずだ。じっくりと自分に合った一台を選び、自宅での特別な一杯を心ゆくまで楽しんでほしい。
-

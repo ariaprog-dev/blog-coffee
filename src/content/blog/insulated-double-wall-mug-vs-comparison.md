@@ -35,7 +35,6 @@ sidebarProducts:
     price: 4039
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 コーヒーを淹れる朝のひととき、淹れたての香りと温度を長く保ちたい。しかし、一般的なマグカップではすぐに冷めてしまったり、アイスドリンクでは結露でデスクが濡れてしまったりする。
@@ -92,6 +91,11 @@ BISTROシリーズは、ボダムが掲げる「機能がフォルムを定め�
 | 使用可能家電 | 電子レンジ、オーブン（180℃まで）、食洗機、冷凍庫 |
 | 原産国 | 中国 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ボダム BISTRO（ビストロ）シリーズの特徴</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520BISTRO%2520%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25AE%25E7%2589%25B9%25E5%25BE%25B4" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%80%E3%83%A0%20BISTRO%20%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E7%89%B9%E5%BE%B4%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520BISTRO%2520%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25AE%25E7%2589%25B9%25E5%25BE%25B4" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## ボダム CANTEEN（キャンティーン）シリーズの特徴
 
 CANTEENシリーズは、そのユニークなデザインが目を引く。内側の層と外側の層の間にできる空間が、<strong>あたかもドリンクが宙に浮いているかのような視覚的錯覚</strong>を生み出すのだ。これが、通常のマグカップにはないモダンな印象を与えてくれる。
@@ -110,6 +114,11 @@ CANTEENシリーズは、そのユニークなデザインが目を引く。内�
 | 素材 | 耐熱ガラス |
 | 使用可能家電 | 電子レンジ、オーブン（180℃まで）、食洗機、冷凍庫 |
 | 原産国 | 中国 |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ボダム CANTEEN（キャンティーン）シリーズの特徴</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520CANTEEN%2520%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25AE%25E7%2589%25B9%25E5%25BE%25B4" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%80%E3%83%A0%20CANTEEN%20%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%81%AE%E7%89%B9%E5%BE%B4%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520CANTEEN%2520%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%25E3%2581%25AE%25E7%2589%25B9%25E5%25BE%25B4" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 2つのボダムマグ、どこが違う？徹底比較
 
@@ -227,4 +236,3 @@ A3: ホウケイ酸ガラスは一般的なガラスより衝撃に強いです�
 一方で、<strong>日常に少しの驚きとモダンな視覚効果を取り入れたい、そしてコストパフォーマンスも重視したい</strong>のであれば、CANTEENが魅力的に映るはずだ。ドリンクが宙に浮くようなその独特のフォルムは、使うたびに新鮮な感動を与えてくれるだろう。
 
 どちらを選ぶにしても、ボダムのダブルウォールマグは、あなたのコーヒーライフをより豊かで快適なものにしてくれる。日々の小さな満足感を大切にしたいと願う人にとって、この選択はきっと後悔のないものとなるだろう。
-

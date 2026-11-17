@@ -29,7 +29,6 @@ sidebarProducts:
     price: 13090
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 休日の朝、部屋いっぱいに広がる挽きたてコーヒーの芳醇なアロマ。しかし、自分で豆を挽いてハンドドリップを始めた人の多くが、ある日「なぜかお店で飲むような透明感のある美味しさにならない」「苦味ばかりが強調されて、後味に渋みやエグ味が残る」という壁にぶつかります。
@@ -152,6 +151,11 @@ TIMEMORE C3シリーズが他の追随を許さない最大の秘密は、心臓
 
 ---
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>正規販売店 TIMEMORE コーヒーグラインダー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00rbhs1.ve2q5f5b.g00rbhs1.ve2q62a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10011927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10011928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### よくある質問（Q&A 3問）
 
 <strong>Q1: タイムモアC3は水洗いできますか？お手入れの方法は？</strong>  
@@ -168,4 +172,3 @@ A3: ダイヤルを右いっぱいに締めた原点から反時計回りに「1
 一杯のコーヒーのクオリティを最も劇的に変える魔法の道具は、高価なケトルでも抽出マシンでもなく、毎朝豆を切り刻む「刃」そのものです。
 
 TIMEMORE C3を手に入れたその日から、お気に入りのコーヒー豆が本来持っていた驚くほど澄んだ果実味と香ばしい甘みが、あなたのカップに溢れ出すことでしょう。
-

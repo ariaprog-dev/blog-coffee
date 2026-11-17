@@ -36,7 +36,6 @@ sidebarProducts:
     price: 2600
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
@@ -84,6 +83,11 @@ sidebarProducts:
 
 手入れの簡単さは、他の追随を許さない。抽出が終わったら、フィルターごとそのままゴミ箱へ捨てるだけ。ドリッパー本体もサッと水洗いすれば事足りる。忙しい朝でもサッと一杯を淹れられる手軽さは、日常使いに最強のドリッパーと言える。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ペーパードリップ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 2. 究極のまろやかさ「ネルドリップ」
 
 ネルドリップは、布製のフィルターを使う、昔ながらの抽出方法だ。ペーパーとは全く異なる、とろりとした濃厚な舌触りが特徴である。
@@ -95,6 +99,11 @@ sidebarProducts:
 乾燥させると布の繊維が硬くなり、抽出に悪影響が出るため、常に水に浸して冷蔵庫で保管しなければならない。この手間を面倒に感じる人もいるだろう。
 
 しかし、その手間をかけるからこそ得られる「至高の1杯」は、一度体験すると代えがたい魅力がある。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>ネルドリップ</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258D%25E3%2583%25AB%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8D%E3%83%AB%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258D%25E3%2583%25AB%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 3. ワイルドな個性を楽しむ「金属メッシュドリッパー」
 
@@ -108,6 +117,11 @@ sidebarProducts:
 
 ただし、目詰まりを防ぐため、定期的に重曹や洗剤でしっかり洗浄する必要がある。半永久的に使える点は、ペーパーフィルターのコストを考えると経済的とも言える。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>金属メッシュドリッパー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%2591%25E5%25B1%259E%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%87%91%E5%B1%9E%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%2591%25E5%25B1%259E%25E3%2583%25A1%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 4. 安定した抽出を支える「陶器製ドリッパー」
 
 陶器製ドリッパーは、美濃焼や有田焼といった伝統的な素材が使われることが多い。プラスチックやガラス製に比べ、その圧倒的な蓄熱性・保温力が最大の特性だ。
@@ -120,6 +134,11 @@ sidebarProducts:
 
 手入れは、割れ物であるため慎重な扱いが必要となる。食洗機に対応している製品も多いが、丁寧に手洗いするのが基本だ。温もりのある質感や、デザイン性の高さも陶器製ならではの魅力。飾っておくだけでキッチンが上質な空間になる。
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>陶器製ドリッパー</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%99%B6%E5%99%A8%E8%A3%BD%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 5. 定番にして世界標準「HARIO V60」
 
 HARIO V60は、円すい形、内側のスパイラルリブ、そして底の大きな一つ穴という独特の構造を持つ。このシンプルなデザインが、自由度の高い抽出を可能にしている。
@@ -131,6 +150,11 @@ HARIO V60は、円すい形、内側のスパイラルリブ、そして底の�
 V60は、日々のコンディションや豆に合わせて注ぎ方を変えることが可能である。例えば、苦味を強調したい場合はゆっくりと、スッキリと飲みたい場合は早く注ぐといった調整ができる。
 
 抽出技術を磨く楽しさも、V60が与えてくれる大きな魅力の一つだろう。最初は難しく感じるかもしれないが、何度か試せば自分好みの淹れ方を見つけられるはずだ。
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>HARIO V60</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHARIO%2520V60" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00pwd71.ve2q5f14.g00pwd71.ve2q6007/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F335798%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftonya%2Fi%2F10036175%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHARIO%2520V60" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## ひと目でわかる5大ドリッパー比較表
 
@@ -172,4 +196,3 @@ A2: 豆の種類やその日の気分に合わせて、抽出方法を選べる�
 
 <strong>Q3: 初めてドリッパーを購入するなら、どの種類が適していますか？</strong>
 A3: まずは手軽さと安定した味を楽しめるペーパードリップ（台形または円すい形）が無難です。特にHARIO V60のような円すい形は、抽出の奥深さも同時に確認できるため、コーヒーを追求したい人には最初のステップとして非常に有効な選択肢です。
-

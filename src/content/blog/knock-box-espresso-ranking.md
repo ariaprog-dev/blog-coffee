@@ -31,7 +31,6 @@ sidebarProducts:
     price: 4550
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でエスプレッソを楽しむ際、抽出後のルーティンは重要である。抽出を終えたポルタフィルターに残る、高圧で固められた使用済みコーヒー粉（コーヒーパス）をスムーズに処理できるかどうかで、エスプレッソの準備効率が大きく変わる。
@@ -107,6 +106,11 @@ MeiyidouSHOPのノックボックスは、約2127gという重厚なオーク材
 | 価格 | 5,100円 |
 | 販売ショップ | MeiyidouSHOP |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>コーヒーノックボックス コーヒーかすバケツ ハンドル付き エスプレッソ用（MeiyidouSHOP）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%2520%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AB%25E4%25BB%2598%25E3%2581%258D" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00txbv1.ve2q5d12.g00txbv1.ve2q6e30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeike-chest%2Fcjfj1233130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeike-chest%2Fi%2F10011912%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%2520%25E3%2583%258F%25E3%2583%25B3%25E3%2583%2589%25E3%2583%25AB%25E4%25BB%2598%25E3%2581%258D" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第2位：コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（ikeike0チェスト）
 
 第2位に選んだのは、先ほどのMeiyidouSHOPの製品と酷似したデザインながら、3000mlという具体的な容量表記があるこのノックボックスだ。同じく高品質な木製ベースとステンレス製の組み合わせで、その基本的な性能は第1位と遜色ない。
@@ -133,6 +137,11 @@ MeiyidouSHOPのノックボックスは、約2127gという重厚なオーク材
 | :--- | :--- |
 | 価格 | 4,030円 |
 | 販売ショップ | ikeike0チェスト |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（ikeike0チェスト）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%25203000ml%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00txbv1.ve2q5d12.g00txbv1.ve2q6e30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeike-chest%2Fcjfj1233130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeike-chest%2Fi%2F10011912%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%25203000ml%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 第3位：エスプレッソ用 ノックボックス ステンレス イタリア製 デロンギ De'Longhi DLSC059 Knock Box
 
@@ -162,6 +171,11 @@ MeiyidouSHOPのノックボックスは、約2127gという重厚なオーク材
 | 価格 | 19,660円 |
 | 販売ショップ | アルファエスパス米国楽天市場店 |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>エスプレッソ用 ノックボックス ステンレス イタリア製 デロンギ De&#x27;Longhi DLSC059 Knoc…</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%25E7%2594%25A8%2520%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25A4%25E3%2582%25BF%25E3%2583%25AA%25E3%2582%25A2%25E8%25A3%25BD" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00synl1.ve2q55bc.g00synl1.ve2q669f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F2009024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10014812%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%25E7%2594%25A8%2520%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25A4%25E3%2582%25BF%25E3%2583%25AA%25E3%2582%25A2%25E8%25A3%25BD" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ## 第4位：コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（alita）
 
 このノックボックスは、第2位で紹介したikeike0チェストの製品と、スペックやデザインがほぼ同一だ。3000mlの大容量と、木製ベースによる安定性、そしてステンレス製カップの清掃性といった基本的な機能は十分に備えている。
@@ -181,6 +195,11 @@ MeiyidouSHOPのノックボックスは、約2127gという重厚なオーク材
 | :--- | :--- |
 | 価格 | 4,550円 |
 | 販売ショップ | alita |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（alita）</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%25203000ml%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00txbv1.ve2q5d12.g00txbv1.ve2q6e30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeike-chest%2Fcjfj1233130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeike-chest%2Fi%2F10011912%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258B%25E3%2581%2599%25E3%2583%2590%25E3%2582%25B1%25E3%2583%2584%25203000ml%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## まとめ：あなたのエスプレッソルーティンに最適な一台を選ぶ
 
@@ -212,4 +231,3 @@ A2: 今回紹介した製品は、いずれも主要部分が取り外して洗�
 A3: 容量は、エスプレッソを淹れる頻度や一度に抽出する量によって変わります。例えば、毎日数杯淹れるなら、3000ml程度の容量があれば2〜3日に一度の処理で済むでしょう。
 
 一方、週に数回程度であれば、コンパクトなデロンギのような小容量でも十分かもしれません。自身の抽出習慣を考慮し、頻繁に捨てる手間を許容できるかどうかで判断するのが良いでしょう。
-

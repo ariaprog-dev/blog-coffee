@@ -21,7 +21,6 @@ sidebarProducts:
     price: 3700
     microCopy: '詳細を見る'
 ---
-
 > 💡 <strong>PR/Notice</strong>: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 丸山珈琲のシングルオリジンに興味があるものの、「種類が多すぎて、どれを選んだらいいか分からない」「高い買い物だから失敗したくない」と悩む人もいるでしょう。自分の好みに合った一杯を見つけ、満足感を得たいと考えるのは自然なことです。
@@ -130,6 +129,11 @@ sidebarProducts:
 | 内容量 | 5個入 |
 | 特徴 | カフェイン99.9%カット、深煎り |
 
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>丸山珈琲 ドリップバッグ カフェインレスコーヒー 深煎り 5個入</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25B8%25B8%25E5%25B1%25B1%25E7%258F%2588%25E7%2590%25B2%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%B8%E5%B1%B1%E7%8F%88%E7%90%B2%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%83%E3%82%B0%20%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E6%B7%B1%E7%85%8E%E3%82%8A%2F" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25B8%25B8%25E5%25B1%25B1%25E7%258F%2588%25E7%2590%25B2%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
+
 ### 「本格的な味わいを日常に」求めるなら
 
 「抽出する手間はかけられないが、本格的な味を求める」という人には、リキッドコーヒーが適しています。特に暑い時期には、冷蔵庫で冷やしておくだけで、上質なアイスコーヒーをすぐに準備できます。
@@ -146,6 +150,11 @@ sidebarProducts:
 | 販売ショップ | 丸山珈琲 公式楽天市場店 |
 | 内容量 | 720ml |
 | 特徴 | 中煎り、無糖、リキッドタイプ |
+
+<div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
+<div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 6px; line-height: 1.4;">🛒 <strong>丸山珈琲シングルオリジンセレクションアイスコーヒー ニエリ・ヒル 中煎り 720ml</strong></div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; font-size: 0.86rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E4%25B8%25B8%25E5%25B1%25B1%25E7%258F%2588%25E7%2590%25B2%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazonで価格を見る</a><span style="color: #cbd5e1;">|</span><a href="https://hb.afl.rakuten.co.jp/hgc/g00ty7i1.ve2q5f57.g00ty7i1.ve2q6719/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruyamacoffee%2Fmost145%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruyamacoffee%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="color: #bf0000; text-decoration: underline;">楽天市場で見る</a><span style="color: #cbd5e1;">|</span><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25B8%25B8%25E5%25B1%25B1%25E7%258F%2588%25E7%2590%25B2%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="color: #cc0029; text-decoration: underline;">Yahoo!ショッピングで見る</a></div>
+</div>
 
 ## 初めての丸山珈琲シングルオリジン 失敗しないための最初の一歩
 
