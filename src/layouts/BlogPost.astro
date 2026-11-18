@@ -39,8 +39,11 @@ const defaultProducts = [
 	}
 ];
 
-const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? sidebarProducts.slice(0, 3)
+const validSidebarProducts = (sidebarProducts || []).filter(
+	(p) => p && typeof p.url === 'string' && p.url.trim().length > 0
+);
+const rawProducts = validSidebarProducts.length > 0
+	? validSidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -1429,11 +1432,11 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							<div class="author-info">
 								<div class="author-header">
 									<span class="author-label">WRITTEN BY</span>
-									<h4 class="author-name">珈琲豆仙人｜珈琲暮らし編集部</h4>
-									<span class="author-role">抽出理論・器具スペック分析</span>
+									<h4 class="author-name">珈琲豆仙人（「珈琲暮らし」管理人）</h4>
+									<span class="author-role">自家焙煎歴15年・抽出理論＆器具スペック検証</span>
 								</div>
 								<p class="author-bio">
-									手挽きミルやドリッパー、エスプレッソ機器の公開仕様・抽出構造・ユーザー評価を体系的に整理。豆の特性と器具選びの判断基準を客観的に発信しています。
+									自家焙煎歴15年。手網焙煎から自作ガス焙煎機の運用まで実践してきた知見と、手挽きミルやドリッパー・豆の公式仕様データ・抽出構造を掛け合わせ、客観的な判断基準を発信しています。
 								</p>
 								<a href="/about/" class="author-link">
 									詳しいプロフィール・編集方針を見る ➔

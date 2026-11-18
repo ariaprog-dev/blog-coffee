@@ -5,8 +5,8 @@ pubDate: '2026-08-01'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
 genre: coffee
 sidebarProducts:
-  - title: '浅煎りタンザニアAA、正直レビュー'
-    url: ''
+  - title: '浅煎りタンザニアAA'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2AA%2F'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 mediaType: 'beans'

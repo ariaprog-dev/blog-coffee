@@ -6,7 +6,7 @@ heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618
 genre: エスプレッソ・マシン
 sidebarProducts:
   - title: 'デロンギ ラ スペシャリスタ'
-    url: ''
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%2F'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/ec9155j/0132126088.jpg?_ex=600x600'
     microCopy: '詳細を見る'
 mediaType: 'machine'
