@@ -1117,6 +1117,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 					width: 100%;
 					box-sizing: border-box;
 				}
+			}
 			/* 読書進捗バー（スクロールインジケーター） */
 			.reading-progress-bar {
 				position: fixed;
@@ -1455,35 +1456,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 							</section>
 						)}
 
-						<!-- 関連記事カードセクション -->
-						{relatedPosts && relatedPosts.length > 0 && (
-							<section class="related-articles-section">
-								<h3 class="related-section-title">あわせて読みたいおすすめ記事</h3>
-								<div class="related-articles-grid">
-									{relatedPosts.map((post) => (
-										<a href={`/blog/${post.id}/`} class="related-article-card">
-											<div class="related-article-image-box">
-												{post.data.heroImage ? (
-													<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-												) : (
-													<div class="related-article-placeholder">RECOMMEND</div>
-												)}
-											</div>
-											<div class="related-article-content">
-												<span class="related-article-date">
-													<FormattedDate date={post.data.pubDate} />
-												</span>
-												<h4 class="related-article-title">{post.data.title}</h4>
-											</div>
-										</a>
-									))}
-								</div>
-							</section>
-						)}
-
-						<!-- E-E-A-T 編集部ポリシー・検証基準カード -->
-
-						<!-- モバイル用関連商品表示セクション -->
+						<!-- モバイル用関連商品表示セクション（読後離脱前に配置） -->
 						{products && products.length > 0 && (
 							<section class="mobile-related-products" aria-label="紹介・関連アイテム">
 								<h3 class="mobile-section-title">紹介・関連アイテム</h3>
@@ -1518,6 +1491,34 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 								</div>
 							</section>
 						)}
+
+						<!-- 関連記事カードセクション -->
+						{relatedPosts && relatedPosts.length > 0 && (
+							<section class="related-articles-section">
+								<h3 class="related-section-title">あわせて読みたいおすすめ記事</h3>
+								<div class="related-articles-grid">
+									{relatedPosts.map((post) => (
+										<a href={`/blog/${post.id}/`} class="related-article-card">
+											<div class="related-article-image-box">
+												{post.data.heroImage ? (
+													<img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+												) : (
+													<div class="related-article-placeholder">RECOMMEND</div>
+												)}
+											</div>
+											<div class="related-article-content">
+												<span class="related-article-date">
+													<FormattedDate date={post.data.pubDate} />
+												</span>
+												<h4 class="related-article-title">{post.data.title}</h4>
+											</div>
+										</a>
+									))}
+								</div>
+							</section>
+						)}
+
+						<!-- E-E-A-T 編集部ポリシー・検証基準カード -->
 					</div>
 				</div>
 
