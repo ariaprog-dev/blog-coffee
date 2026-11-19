@@ -1,7 +1,7 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'コーヒー暮らし';
+export const SITE_TITLE = '珈琲暮らし';
 export const SITE_DESCRIPTION = 'おうちコーヒーを最高の一杯に。コーヒー豆、ドリップ器具、エスプレッソマシンの仕様比較・抽出理論・客観評価ブログ。';
 
 // Google Analytics 4 測定ID
