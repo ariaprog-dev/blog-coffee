@@ -1328,6 +1328,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</nav>
 
 						<div class="title">
+							{isBlogArticle && (
 							<div class="date-and-meta">
 								{pubDate && (
 									<div class="date">
@@ -1348,6 +1349,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 									</div>
 								)}
 							</div>
+							)}
 							<h1>{title}</h1>
 						</div>
 						{heroImage && (
