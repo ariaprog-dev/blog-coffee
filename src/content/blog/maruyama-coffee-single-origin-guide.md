@@ -1,6 +1,6 @@
 ---
-title: '初心者のための「丸山珈琲 シングルオリジン」完全選び方ガイド！失敗しないポイント'
-description: '丸山珈琲 シングルオリジンの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: '丸山珈琲 シングルオリジンの選び方ガイド｜産地別の香り特性とおすすめ抽出法'
+description: '軽井沢の名門・丸山珈琲シングルオリジンの楽しみ方を解説。産地や精製方法による風味の違いから、自宅ドリップで個性を引き出す湯温・挽き目まで紹介します。'
 pubDate: '2026-09-07'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maruyamacoffee/cabinet/item/most/st3870-1.jpg?_ex=600x600'
 genre: 'coffee'
@@ -150,6 +150,8 @@ sidebarProducts:
 | 販売ショップ | 丸山珈琲 公式楽天市場店 |
 | 内容量 | 720ml |
 | 特徴 | 中煎り、無糖、リキッドタイプ |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/starbucks-coffee-beans-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">スタバ コーヒー豆の選び方ガイド｜ハウスブレンド・エスプレッソ等の特徴比較</a> ／ <a href="/blog/coffee-beans-1-5kg-lucky-bag/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>丸山珈琲シングルオリジンセレクションアイスコーヒー</strong></div>

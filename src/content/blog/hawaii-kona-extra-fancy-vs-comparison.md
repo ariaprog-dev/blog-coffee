@@ -120,6 +120,8 @@ sidebarProducts:
 | 保存方法 | 要冷蔵（2週間以上保存なら冷凍推奨） |
 | 焙煎度合 | ミディアムーハイ |
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/awajishima-drip-coffee-3-mix/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える贅沢カフェ時間</a> ／ <a href="/blog/blue-mountain-kopi-luwak-coffee/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>HQC レガリア ハワイコナコーヒー エクストラファンシー100%</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHQC%2520%25E3%2583%25AC%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qrpg1.ve2q5d22.g00qrpg1.ve2q6e6a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbio-cosme%2Fkona-001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbio-cosme%2Fi%2F10001241%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHQC%2520%25E3%2583%25AC%25E3%2582%25AC%25E3%2583%25AA%25E3%2582%25A2%2520%25E3%2583%258F%25E3%2583%25AF%25E3%2582%25A4%25E3%2582%25B3%25E3%2583%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -141,7 +143,7 @@ sidebarProducts:
 
 価格で見ると、レガリアが200gで5,747円、キーコーヒーが6,804円と、<strong>レガリアの方が約1,000円ほど安価</strong>だ。しかし、この価格差は単なる安さだけではない、それぞれの「価値」の提供方法に起因する。
 
-レガリアは<strong>「注文後に焙煎」という鮮度への強いこだわり</strong>が特徴。生豆の風味が最も豊かな状態で楽しめるため、賞味期限も6ヶ月と短く設定され、要冷蔵保存が推奨されている。これは、ハワイコナの繊細な風味を最大限に味わってほしいという農園側のメッセージでもあるだろう。
+レガリアは<strong>「注文後に焙煎」という鮮度への強いこだわり</strong>が特徴。生豆の風味が最も豊かな状態で楽しめるため、賞味期限も6ヶ月と短く設定され、要冷蔵保存が推奨されている。これは、ハワイコナの繊細な風味を最大限に味わってほしいという農園側のメッセージでもあるはずだ。
 
 キーコーヒーは13ヶ月という長い賞味期限が設定されており、一般的な保存方法で長く楽しめる。これは、<strong>流通と品質保持の安定性を重視</strong>している証拠だ。老舗ブランドとして、いつでも安定した品質のハワイコナを提供できる体制を整えている。
 
@@ -158,7 +160,7 @@ sidebarProducts:
 ## 【比較表】ハワイコナ エクストラファンシー2選
 
 **【表の見方のポイント】**
-「ハワイコナの<strong>個性を追求したいなら『焙煎度合』と『風味プロファイル』</strong>」、「<strong>手軽さや安定性を重視するなら『ブランド』と『保存方法』</strong>」に注目して選ぶと、自分に合う豆が見つかりやすいだろう。価格だけでなく、どんな体験をしたいかで選ぶのが重要だ。
+「ハワイコナの<strong>個性を追求したいなら『焙煎度合』と『風味プロファイル』</strong>」、「<strong>手軽さや安定性を重視するなら『ブランド』と『保存方法』</strong>」に注目して選ぶと、自分に合う豆が見つかりやすいはずだ。価格だけでなく、どんな体験をしたいかで選ぶのが重要だ。
 
 | 比較項目 | キーコーヒー ハワイ コナ エクストラファンシー | HQC レガリア ハワイコナコーヒー エクストラファンシー100% |
 | :--- | :--- | :--- |
@@ -204,7 +206,7 @@ A3: ハワイコナの繊細な風味を最大限に引き出すには、<strong
 
 今回の比較で見てきたように、同じ最高級グレードのハワイコナ エクストラファンシーでも、ブランドや焙煎の仕方、鮮度に対する考え方で、その味わいと体験は大きく異なる。
 
-キーコーヒーのハワイコナは、老舗ブランドが提供する<strong>安心と安定感</strong>が魅力だ。ハワイコナを日常的に、あるいは贈り物として選びたい人に、その普遍的な美味しさを届けてくれるだろう。
+キーコーヒーのハワイコナは、老舗ブランドが提供する<strong>安心と安定感</strong>が魅力だ。ハワイコナを日常的に、あるいは贈り物として選びたい人に、その普遍的な美味しさを届けてくれるはずだ。
 
 一方、HQCレガリアのハワイコナは、農園から直送される<strong>圧倒的な鮮度と、ミディアムーハイの焙煎が引き出す個性</strong>が光る。ハワイコナの持つフルーティーな酸味や甘みを追求し、一杯のコーヒーに深い感動を求めるこだわり派には、この上ない選択肢となるはずだ。
 

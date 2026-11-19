@@ -1,6 +1,6 @@
 ---
-title: '初心者のための「自家焙煎 珈琲豆 1kg まとめ買い」完全選び方ガイド！失敗しないポイント'
-description: '自家焙煎 珈琲豆 1kg まとめ買いの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: '自家焙煎珈琲豆 1kgまとめ買いガイド｜鮮度維持・豆/粉の選び方とタイプ別比較'
+description: '自家焙煎コーヒー豆1kgの大容量セットを無駄なく飲み切るための選び方ガイド。焙煎直後からの保存方法、冷凍ストック術、味わいタイプ別の選定基準を解説します。'
 pubDate: '2026-10-19'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mamekohboh/cabinet/mame_gazou/06823256/imgrc0101345526.jpg?_ex=600x600'
 genre: 'coffee'
@@ -237,7 +237,7 @@ sidebarProducts:
 
 神田ブレンドは、グァテマラ・アゾティア、マンデリン・ラスナ・リントン、ブラジル・樹上完熟豆（DOT）の3種をブレンドすることで、それぞれの豆の長所が引き出され、<strong>程良い苦さと甘さの調和が心地よい一杯</strong>に仕上がっている。シングルオリジン豆は、品種や産地の個性が強く出るため、時に「尖った」風味に感じることもある。
 
-ブレンド豆は、<strong>複数の豆を組み合わせることで、味のバランスが整えられ、万人受けする安定した風味</strong>を出しやすい。初めてのまとめ買いで「失敗したくない」という気持ちがあるなら、まずはこのブレンドで、自家焙煎コーヒーの美味しさを安定的に体験してみるのが良いだろう。
+ブレンド豆は、<strong>複数の豆を組み合わせることで、味のバランスが整えられ、万人受けする安定した風味</strong>を出しやすい。初めてのまとめ買いで「失敗したくない」という気持ちがあるなら、まずはこのブレンドで、自家焙煎コーヒーの美味しさを安定的に体験してみるのが適している。
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -251,6 +251,8 @@ sidebarProducts:
 | 価格 | 7,840円 |
 | 内容量 | 1000g（500gずつ2袋） |
 | 使用豆 | グァテマラ・アゾティア、マンデリン・ラスナ・リントン、ブラジル・樹上完熟豆（DOT） |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/koufukuya-iced-coffee-gift-review-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">香福屋アイスコーヒー ギフトでプロの味を自宅に！手間なし濃厚クリア体験</a> ／ <a href="/blog/coffee-beans-blend-500g/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>神田ブレンド</strong></div>

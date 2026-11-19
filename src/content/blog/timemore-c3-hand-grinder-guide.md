@@ -1,5 +1,5 @@
 ---
-title: '初心者のための「タイムモア C3 手挽きミル」完全選び方ガイド！失敗しないポイント'
+title: 'タイムモア C3 手挽きミル選び方ガイド｜S2C660臼刃の特徴とC2・セラミック刃比較'
 description: '世界的大ヒット手挽きミル「TIMEMORE（タイムモア）C3 / C3S」完全選び方ガイド！特許S2C660臼刃の粉砕メカニズム、セラミック刃や旧型C2との微粉量・挽き心地比較表、抽出器具別クリック数早見表から水洗い厳禁の分解メンテまで徹底解説。'
 pubDate: '2026-09-29'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smartkitchen/cabinet/25/s10011927-001.jpg?_ex=600x600'
@@ -150,6 +150,8 @@ TIMEMORE C3シリーズが他の追随を許さない最大の秘密は、心臓
    原点（0点）を探す際、工具などを使って無理な力で時計回りに締め込むと、高精度の刃が噛み合って欠けたり破損する危険があります。指の力で「カチッと止まった位置」が0点です。また、7クリック以下での豆挽きは臼刃同士が干渉するため避けてください。
 
 ---
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/porlex-coffee-mill-professional/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【本音レビュー】ポーレックス コーヒーミルIIを徹底検証！使って分かったデメリット＆タイムモアとの違い</a> ／ <a href="/blog/stainless-coffee-mill-ceramic-manual/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>正規販売店 TIMEMORE コーヒーグラインダー</strong></div>

@@ -1,6 +1,6 @@
 ---
-title: '初心者のための「スタバ コーヒー豆 おすすめ」完全選び方ガイド！失敗しないポイント'
-description: 'スタバ コーヒー豆 おすすめの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: 'スタバ コーヒー豆の選び方ガイド｜ハウスブレンド・エスプレッソ等の特徴比較'
+description: 'スターバックス（スタバ）家庭用コーヒー豆の味わいマップを整理。ハウスブレンドやパイクプレイス・深煎りエスプレッソのロースト別特性を比較解説します。'
 pubDate: '2026-10-08'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/baby-alice/cabinet/kirk-esp-2.jpg?_ex=600x600'
 genre: 'coffee'
@@ -180,6 +180,8 @@ sidebarProducts:
 | 価格 | 9,789円 |
 | 販売ショップ | Baby ALICE(ベビーアリス) |
 | レビュー評価 | 5.0 (13件) |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/mocha-geisha-coffee-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">モカ ゲイシャ G3 vs ゲイシャ G1 ナチュラル 徹底比較！グレードの違いと風味の特徴</a> ／ <a href="/blog/ethiopia-mocha-ladeuse-coffee-beans/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>スターバックス エスプレッソブレンド</strong></div>

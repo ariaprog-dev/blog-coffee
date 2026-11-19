@@ -112,7 +112,9 @@ sidebarProducts:
 
 一度購入すれば長く使える耐久性と、手入れのしやすさも大きな魅力だ。初期費用はかかるものの、長期的に見れば非常にコストパフォーマンスが高い。日々のコーヒータイムをより豊かに、そして安定した味わいで楽しみたい人には、ぜひ検討してほしい逸品だ。
 
-この容器を選ぶことは、単に豆を保存するだけでなく、日々の暮らしに上質な道具を取り入れ、丁寧にコーヒーと向き合う時間を作り出すことにも繋がる。あなたのコーヒーライフをきっと充実させてくれるだろう。
+この容器を選ぶことは、単に豆を保存するだけでなく、日々の暮らしに上質な道具を取り入れ、丁寧にコーヒーと向き合う時間を作り出すことにも繋がる。あなたのコーヒーライフをきっと充実させてくれるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/insulated-double-wall-mug-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ボダム ダブルウォールマグ 150ml/300ml vs 200ml/400ml 徹底比較！サイズの違いと選び方</a> ／ <a href="/blog/coffee-beans-2kg-cheapest/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">2kg大容量コスパコーヒー豆の正直レビュー！味のブレ・鮮度はどう？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>野田琺瑯 ラウンドストッカー 18cm ホワイトシリーズ</strong></div>

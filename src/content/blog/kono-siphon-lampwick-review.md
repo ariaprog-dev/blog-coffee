@@ -119,9 +119,11 @@ KONOのランプ芯は高品質だが、消耗品であることには変わり�
 
 KONOのランプ芯は、サイフォン抽出の品質にこだわりたい人にこそ使ってほしいアイテムだ。たかが交換部品、されど交換部品。この小さな部品一つで、日々のコーヒー体験は大きく変わる。
 
-安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるだろう。サイフォンの持つ魅力を最大限に引き出し、コーヒー抽出の質を高める。
+安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるはずだ。サイフォンの持つ魅力を最大限に引き出し、コーヒー抽出の質を高める。
 
 このKONO コーノ ランプ芯 セト口付 サイフォンは、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/french-press-double-wall-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">フレンチプレス ダブルウォールの選び方ガイド｜保温力・微粉対策・おすすめ3選</a> ／ <a href="/blog/hario-cold-brew-dripper-shizuku/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>KONO コーノ フラスコ4人用 サイフォン PR型</strong></div>

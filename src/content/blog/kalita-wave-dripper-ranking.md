@@ -209,7 +209,7 @@ WDC-185 銅製は、先のWDC-155の2〜4人分に対応する大型モデルだ
 
 #### こんな人には向いていないかも
 
-このWDC-185 銅製モデルは、ラインナップの中で<strong>最も価格が高い</strong>。そのため、手軽にウェーブドリッパーを試したい人や、コストパフォーマンスを重視する人にはハードルが高いだろう。
+このWDC-185 銅製モデルは、ラインナップの中で<strong>最も価格が高い</strong>。そのため、手軽にウェーブドリッパーを試したい人や、コストパフォーマンスを重視する人にはハードルが高いはずだ。
 
 また、銅製の手入れの手間はWDC-155と同様にかかるため、<strong>道具の手入れに時間をかけられない人には不向き</strong>かもしれない。
 
@@ -221,6 +221,8 @@ WDC-185 銅製は、先のWDC-155の2〜4人分に対応する大型モデルだ
 
 ---
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kalita-wdc155-copper-review-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">カリタ銅製ウェーブドリッパーWDC-155 レビュー：抽出の科学と銅素材の魅力</a> ／ <a href="/blog/coffee-server-heatproof-glass-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">コーヒーサーバー 耐熱ガラスおすすめ人気ランキング4選を徹底比較！</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>WDC-185 銅製 ツバメ</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DWDC-185%2520%25E9%258A%2585%25E8%25A3%25BD%2520%25E3%2583%2584%25E3%2583%2590%25E3%2583%25A1" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWDC-185%20%E9%8A%85%E8%A3%BD%20%E3%83%84%E3%83%90%E3%83%A1%2F" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DWDC-185%2520%25E9%258A%2585%25E8%25A3%25BD%2520%25E3%2583%2584%25E3%2583%2590%25E3%2583%25A1" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -230,13 +232,13 @@ WDC-185 銅製は、先のWDC-155の2〜4人分に対応する大型モデルだ
 
 カリタのウェーブドリッパーは、どのモデルを選んでも<strong>安定して美味しいコーヒーを抽出できる</strong>という基本性能は変わらない。しかし、素材やサイズによって、その体験は大きく異なってくる。
 
-<strong>日々の手軽さと汎用性を求めるなら、ステンレス製の185サイズ</strong>が良いだろう。WDS-185は、手入れが容易で耐久性も高いため、日常使いに適している。
+<strong>日々の手軽さと汎用性を求めるなら、ステンレス製の185サイズ</strong>が適している。WDS-185は、手入れが容易で耐久性も高いため、日常使いに適している。
 
 家族や来客とのコーヒータイムにも対応できる汎用性の高さも魅力だ。価格を抑えたいなら185Sも良い選択肢になる。
 
 一方、<strong>コーヒーの抽出に深いこだわりを持ち、最高の風味を追求したいなら、銅製モデル</strong>を選んでほしい。銅の高い熱伝導率は、特に繊細な風味を持つスペシャルティコーヒーを淹れる際に、その真価を発揮する。
 
-使うたびに味わいが増すエイジングも、所有する喜びを高めてくれるだろう。1〜2人分にはWDC-155、多人数にはWDC-185が適している。
+使うたびに味わいが増すエイジングも、所有する喜びを高めてくれるはずだ。1〜2人分にはWDC-155、多人数にはWDC-185が適している。
 
 どのモデルを選ぶにしても、ウェーブドリッパーはあなたのコーヒーライフを確実に豊かにしてくれるはずだ。
 

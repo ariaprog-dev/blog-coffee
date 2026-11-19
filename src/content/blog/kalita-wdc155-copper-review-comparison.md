@@ -150,11 +150,13 @@ WDC-155を導入することで最も大きく変わるのは、日々のドリ�
 
 カリタ ドリッパー WDC-155 銅製 ツバメは、単にコーヒーを淹れる道具以上の価値を持つ。抽出科学に基づいた三つ穴構造とウェーブフィルターによる安定性、そして銅の優れた熱伝導性が、誰でもクリアで雑味のない一杯を可能にする。
 
-陶器やガラス、ステンレス製のドリッパーにはそれぞれの良さがあるが、WDC-155の銅製ボディは、抽出の安定性において頭一つ抜きん出ていると感じる。加えて、「Made in TSUBAME」の職人技が光るその見た目は、毎日のコーヒータイムを特別な時間へと昇華させてくれるだろう。
+陶器やガラス、ステンレス製のドリッパーにはそれぞれの良さがあるが、WDC-155の銅製ボディは、抽出の安定性において頭一つ抜きん出ていると感じる。加えて、「Made in TSUBAME」の職人技が光るその見た目は、毎日のコーヒータイムを特別な時間へと昇華させてくれるはずだ。
 
 初期投資は必要かもしれないが、その価格に見合うだけの満足感と、長く愛用できる確かな品質がそこにはある。コーヒーの味を安定させたい、器具にもこだわりたい、そして日々の暮らしに小さな贅沢を取り入れたい。
 
 そう願う人にこそ、このドリッパーを強く勧めたい。あなたのコーヒーライフは、きっと新しい次元へと引き上げられるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kalita-wave-dripper-ranking/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">カリタ ウェーブドリッパーおすすめ人気ランキング4選を徹底比較！</a> ／ <a href="/blog/kalita-ceramic-coffee-dripper-lotto/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">【サイズ比較＆素材選び】カリタ陶器ロトの選び分け！101 vs 102の杯数差と予熱の保温テクニック</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>カリタ ドリッパー WDC-155 銅製 ツバメ 日本製</strong></div>

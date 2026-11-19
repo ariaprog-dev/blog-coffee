@@ -100,7 +100,7 @@ sidebarProducts:
 
 これは決して安価ではないが、カフェのスペシャルティコーヒーをテイクアウトするのと同程度、あるいはそれよりも手頃な価格帯だ。しかも、自宅でゆっくりと楽しめる。
 
-「コーヒー豆1.6倍」という濃厚さを考えれば、牛乳で割ってアイスカフェオレにするのも良い。そうすれば、1本でさらに多くの量を賄えるため、一杯あたりのコストはさらに下がるだろう。
+「コーヒー豆1.6倍」という濃厚さを考えれば、牛乳で割ってアイスカフェオレにするのも良い。そうすれば、1本でさらに多くの量を賄えるため、一杯あたりのコストはさらに下がるはずだ。
 
 自分でスペシャルティコーヒー豆を買い、ハンドドリップで淹れる場合の1杯約100〜200円というコストと比較すると割高だが、その差額は「プロの抽出技術」と「圧倒的な手軽さ」への対価だと考えれば納得がいく。
 
@@ -152,7 +152,9 @@ sidebarProducts:
 
 コーヒー器具の手入れが面倒だと感じる人。自宅でいつでも安定した品質のアイスコーヒーを楽しみたい人。
 
-そして、コーヒーが好きなご両親や大切な人へのギフトを探している人にも、この敬老の日 コーヒー ギフト アイスコーヒーは最高の選択となるだろう。手間をかけることなく、純粋に「飲む」という行為そのものに集中できる、そんな贅沢な時間を提供してくれるはずだ。
+そして、コーヒーが好きなご両親や大切な人へのギフトを探している人にも、この敬老の日 コーヒー ギフト アイスコーヒーは最高の選択となるはずだ。手間をかけることなく、純粋に「飲む」という行為そのものに集中できる、そんな贅沢な時間を提供してくれるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/home-roasted-coffee-1kg-bulk-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">自家焙煎珈琲豆 1kgまとめ買いガイド｜鮮度維持・豆/粉の選び方とタイプ別比較</a> ／ <a href="/blog/cold-brew-iced-coffee-pack-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">水出しアイスコーヒーパックの選び方ガイド｜焙煎度・浸漬時間・1杯単価を比較</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>敬老の日 コーヒー ギフト アイスコーヒー 500ml</strong></div>

@@ -139,7 +139,9 @@ Melitta 全自動コーヒーメーカーのドリッパー部分はプラスチ
 
 Melitta 全自動コーヒーメーカーは、自宅でのコーヒー体験に「安定した品質」と「圧倒的な手軽さ」を求める人に最適な選択肢だ。メリタ式の抽出原理と、それを実現するための細かな設計思想を理解すれば、このマシンがただ便利なだけでなく、いかにコーヒーの味に真摯に向き合っているかがわかるはずだ。
 
-忙しい朝でも挽きたての香りを楽しみたい人、何度も手ドリップに失敗して安定した味に諦めかけていた人、そして何より、毎日飲むコーヒーを特別な一杯にしたいと考える人に、この全自動コーヒーメーカーはきっと寄り添ってくれるだろう。これは、単なる家電製品ではなく、日々の生活を豊かに彩るパートナーとなるはずだ。
+忙しい朝でも挽きたての香りを楽しみたい人、何度も手ドリップに失敗して安定した味に諦めかけていた人、そして何より、毎日飲むコーヒーを特別な一杯にしたいと考える人に、この全自動コーヒーメーカーはきっと寄り添ってくれるはずだ。これは、単なる家電製品ではなく、日々の生活を豊かに彩るパートナーとなるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/milk-pitcher-stainless-latte-art-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">自宅ラテアートが劇的に変わる？ミルクピッチャーの素材と形状に隠された泡立ちの科学</a> ／ <a href="/blog/soto-portable-coffee-maker/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">SOTO ポータブルコーヒーメーカーはこんな人におすすめ！「味のブレ」解決なるか？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>メリタ ミル付き AFT1022-1B アロマフレッシュ</strong></div>

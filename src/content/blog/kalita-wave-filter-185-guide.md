@@ -1,6 +1,6 @@
 ---
-title: '初心者のための「カリタ ウェーブフィルター 185」完全選び方ガイド！失敗しないポイント'
-description: 'カリタ ウェーブフィルター 185の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: 'カリタ ウェーブフィルター185の選び方ガイド｜20のひだ構造とサイズ互換性'
+description: 'Kalitaウェーブドリッパー185用フィルターが抽出ムラを抑える構造を解説。155サイズや他社台形・円錐ペーパーとの違い、純正品選びの注意点をまとめました。'
 pubDate: '2026-10-24'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hoonkichin/cabinet/karita/kwf-185-100-main1.jpg?_ex=600x600'
 genre: 'coffee'
@@ -149,6 +149,8 @@ sidebarProducts:
 | 価格         | 2,960円                            |
 | 販売ショップ | FRESH ROASTER珈琲問屋 楽天市場店 |
 | レビュー評価 | 5.0 (6件)                          |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/kalita-nice-cut-g-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">カリタ ナイスカットG 選び方ガイド｜構造的特徴とネクストG2・みるっこ比較</a> ／ <a href="/blog/cofil-paperless-coffee/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>カリタKalitaウェーブフィルター185</strong></div>

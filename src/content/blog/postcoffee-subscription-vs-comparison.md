@@ -151,6 +151,8 @@ Morrow珈琲の定期便を初めて利用する際、ブルーマウンテン�
 
 <strong>くるりカフェ ドリップバッグ定期便はこちら</strong>
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/specialty-coffee-subscription/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">PostCoffee（ポストコーヒー）の評判と口コミを徹底検証！無料コーヒー診断から届く定期便の本音レビュー</a> ／ <a href="/blog/gold-blend-premium-series-coffee/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>くるりカフェ ドリップバッグ定期便</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%258F%25E3%2582%258B%25E3%2582%258A%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00smt31.ve2q5177.g00smt31.ve2q6588/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff453838-aya%2F0019-020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff453838-aya%2Fi%2F10001035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%258F%25E3%2582%258B%25E3%2582%258A%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -217,7 +219,7 @@ Morrow珈琲は寄付額が<strong>65,000円</strong>と高額だ。しかし、
 
 ## タイプ別選択基準
 
-どちらの定期便を選ぶかは、あなたのコーヒーに対する<strong>こだわり度合い</strong>と<strong>ライフスタイル</strong>によって大きく変わるだろう。
+どちらの定期便を選ぶかは、あなたのコーヒーに対する<strong>こだわり度合い</strong>と<strong>ライフスタイル</strong>によって大きく変わるはずだ。
 
 もしあなたが、日々のコーヒー抽出に時間をかけ、豆の選定から挽き方、抽出方法まで、<strong>自分の手で「最高の1杯」を作り出す過程そのものを愛するタイプ</strong>なら、<strong>Morrow珈琲のブルーマウンテン定期便</strong>が、その探求心を満たしてくれるはずだ。ブルーマウンテンという稀少な豆の、奥行きのある風味と香りの変化を、長期にわたって堪能できる。
 

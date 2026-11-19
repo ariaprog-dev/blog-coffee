@@ -158,6 +158,8 @@ EKG PROが約1250gなのに対し、こちらは<strong>約530g</strong>と半�
 
 FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル (楽天)
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/epeios-electric-kettle-home-coffee/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術</a> ／ <a href="/blog/sanjo-drip-pot-review-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">極細ノズルが導く理想の抽出：燕三条製ドリップポット深掘り</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>Stagg Pour-Over Kettle</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DStagg%2520Pour-Over%2520Kettle" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DStagg%2520Pour-Over%2520Kettle" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -193,7 +195,7 @@ FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル (楽天)
 #### Stagg Pour-Over Kettleが向いている人
 
 -   <strong>手軽さと汎用性を求める人</strong>：電気ケトルの設置場所や電源に縛られず、様々な場所でコーヒーを淹れたい人に最適だ。
--   <strong>アナログな抽出プロセスを楽しみたい人</strong>：デジタルな数値よりも、感覚的にコーヒーと向き合う時間を大切にしたい人には、このシンプルなケトルがしっくりくるだろう。
+-   <strong>アナログな抽出プロセスを楽しみたい人</strong>：デジタルな数値よりも、感覚的にコーヒーと向き合う時間を大切にしたい人には、このシンプルなケトルがしっくりくるはずだ。
 -   <strong>初期費用を抑えたいが、品質は妥協したくない人</strong>：グースネックの注ぎ口と蓋の温度計は、ドリップコーヒーに必要な基本機能をしっかりと押さえている。
 
 #### 向いていない人

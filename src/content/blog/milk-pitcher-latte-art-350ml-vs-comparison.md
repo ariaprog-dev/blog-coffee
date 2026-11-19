@@ -111,6 +111,8 @@ sidebarProducts:
 | サイズ | 記載なし |
 | 重量 | 記載なし |
 
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/milk-pitcher-stainless-latte-art-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">自宅ラテアートが劇的に変わる？ミルクピッチャーの素材と形状に隠された泡立ちの科学</a> ／ <a href="/blog/delonghi-la-specialista-prestigio/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、至福カフェ時間</a></p>
+
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ハッピーラボ ステンレス ミルクジャグ 350ml</strong></div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 0.84rem; font-weight: 700;"><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%258F%25E3%2583%2583%25E3%2583%2594%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B0%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #b45309; border: 1px solid #f59e0b;">Amazonで価格を見る</a><a href="https://hb.afl.rakuten.co.jp/hgc/g00slqj1.ve2q58b7.g00slqj1.ve2q6e2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylab%2F10000011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylab%2Fi%2F10000011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #bf0000; border: 1px solid #fca5a5;">楽天市場で見る</a><a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%258F%25E3%2583%2583%25E3%2583%2594%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%259C%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B0%2520350ml" target="_blank" rel="sponsored noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; padding: 7px 12px; border-radius: 6px; background: #ffffff; text-decoration: none; line-height: 1.25; color: #cc0029; border: 1px solid #fda4af;">Yahoo!ショッピングで見る</a></div>
@@ -152,7 +154,7 @@ sidebarProducts:
 
 両者ともに目盛りが付いている点は、自宅での使用において利便性が高い。目分量でのミルク投入は溢れる可能性があり、目盛りの有無は重要である。適切な量のミルクを計量カップなしで直接ピッチャーに入れられるため、作業の簡略化に繋がる。
 
-ユニバイにはラテアートピンが付属する。これは模様の修正や細かい描写に役立つ道具で、別途購入する手間が省けるのは地味だが助かるポイントだ。ハッピーラボには付属しないが、シンプルな構成で十分という人には問題ないだろう。
+ユニバイにはラテアートピンが付属する。これは模様の修正や細かい描写に役立つ道具で、別途購入する手間が省けるのは地味だが助かるポイントだ。ハッピーラボには付属しないが、シンプルな構成で十分という人には問題ないはずだ。
 
 ### 形状と使い勝手：プロ仕様か、手軽さか
 
@@ -179,11 +181,11 @@ sidebarProducts:
 
 ### 手軽に始めたい初心者には「ハッピーラボ」
 
-価格が安く、ラテアートに必須の基本的な機能は備わっているため、最初の1本として試しやすいだろう。「プロ仕様」と銘打たれているが、過度な特殊性はなく、汎用的に使えるため、気軽にラテアートを体験したい人にぴったりだ。
+価格が安く、ラテアートに必須の基本的な機能は備わっているため、最初の1本として試しやすいといえる。「プロ仕様」と銘打たれているが、過度な特殊性はなく、汎用的に使えるため、気軽にラテアートを体験したい人にぴったりだ。
 
 ### 本格的なラテアートを目指すなら「ユニバイ」
 
-「シアトルタイプ」「丸い底」といった設計思想が明確に示されているため、ラテアートの技術向上に真剣に取り組みたい人に向いている。ラテアートピンの付属も、より表現の幅を広げる助けになるだろう。少しの価格差で、道具としての満足度は高いと感じるはずだ。
+「シアトルタイプ」「丸い底」といった設計思想が明確に示されているため、ラテアートの技術向上に真剣に取り組みたい人に向いている。ラテアートピンの付属も、より表現の幅を広げる助けになるはずだ。少しの価格差で、道具としての満足度は高いと感じるはずだ。
 
 ## まとめ：あなたのラテアートライフを豊かにする一本は？
 

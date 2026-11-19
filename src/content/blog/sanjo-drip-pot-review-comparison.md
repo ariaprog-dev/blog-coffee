@@ -35,7 +35,7 @@ sidebarProducts:
 
 自宅でハンドドリップコーヒーを淹れる際、「なぜか味が安定しない」「もっとクリアな味にしたい」と悩む人は少なくないだろう。そのブレの原因の多くは、実はお湯の注ぎ方、特に流速と狙ったポイントへの正確性にある。
 
-燕三条製の極細3 4mmノズル ドリップポット 350mlは、その課題を根本から解決するために設計された。狙った湯量を正確に、そして繊細にコントロールすることで、豆が持つ本来のポテンシャルを最大限に引き出す。
+燕三条製の[極細3 4mmノズル ドリップポット](/blog/ultra-fine-drip-pot-350ml-coffee/) 350mlは、その課題を根本から解決するために設計された。狙った湯量を正確に、そして繊細にコントロールすることで、豆が持つ本来のポテンシャルを最大限に引き出す。
 
 特に浅煎り豆の複雑な風味をクリアに表現したいなら、このポットは最適な選択肢となるはずだ。
 
@@ -112,7 +112,7 @@ sidebarProducts:
 
 このポットの真価は、豆が持つ繊細な風味、特にフルーティーな酸味やフローラルな香りをクリアに引き出す点にある。そのため、深煎りで苦味やコクを強く求める人や、とにかく手早く大量にコーヒーを淹れたい人には、他のタイプのポットが適しているかもしれない。
 
-しかし、スペシャルティコーヒーの奥深さを追求したいなら、このポットは素晴らしい相棒になるだろう。
+しかし、スペシャルティコーヒーの奥深さを追求したいなら、このポットは素晴らしい相棒になるはずだ。
 
 ## 燕三条が誇るクラフトマンシップと実用性
 
@@ -141,6 +141,8 @@ sidebarProducts:
 抽出の精度を高めたい。豆の風味を余すところなく引き出したい。
 
 そう願うコーヒー愛好家にとって、このポットへの投資は、単なる道具の購入ではなく、「自宅コーヒーを究める」という体験への投資だと言える。日々の忙しさの中でも、一杯のコーヒーを通じて得られる知的な刺激と深い満足感は、何物にも代えがたい価値がある。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/hario-cold-brew-dripper-shizuku/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー</a> ／ <a href="/blog/fellow-coffee-kettle-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">FELLOW Stagg ドリップケトル vs 温度調節電気ケトル 徹底比較！どっちを選ぶべき？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>極細3 4mmノズル ドリップポット 350ml</strong></div>

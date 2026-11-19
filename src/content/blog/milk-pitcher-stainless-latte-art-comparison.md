@@ -166,7 +166,9 @@ sidebarProducts:
 
 また、計量の手間を省く目盛り付きや、手入れのしやすいシンプルな構造は、忙しい日常の中でもコーヒータイムを諦めたくない人にとって大きな魅力だろう。高価なカフェ通いを減らし、自宅で高品質なカフェラテを楽しむことは、経済的なメリットだけでなく、日々の生活に小さな充実感をもたらしてくれる。
 
-このピッチャーは、単なる道具ではなく、自宅でのコーヒー体験をワンランク引き上げるための確かな投資となるだろう。
+このピッチャーは、単なる道具ではなく、自宅でのコーヒー体験をワンランク引き上げるための確かな投資となるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/milk-pitcher-latte-art-350ml-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ミルクピッチャー 350ml vs 600ml 徹底比較！ラテアートに最適な容量と選び方</a> ／ <a href="/blog/melitta-fullauto-coffee-science-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">メリタ全自動で淹れる「いつもの」コーヒーが、なぜ特別なのか？設計思想と抽出科学に迫る</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ミルクピッチャー350ml 600ml 900ml</strong></div>

@@ -230,7 +230,9 @@ IGURAMUリッチブレンド2kgは、そのコストパフォーマンスと品�
 
 確かに、一度に2kgの豆を購入するのは、初期費用としては安くないかもしれない。しかし、その投資は、毎日の生活に確かな満足と経済的な恩恵をもたらす。保存方法さえ工夫すれば、開封から数週間経っても十分な風味を楽しむことが可能である。
 
-この豆がもたらすのは、日常を彩る豊かな香りと味わい、そして、自宅で高品質なコーヒーを追求する喜びである。あなたのコーヒーライフを、より深く、より豊かにするための選択肢として、IGURAMUリッチブレンド2kgを検討してみる価値は大いにあるだろう。
+この豆がもたらすのは、日常を彩る豊かな香りと味わい、そして、自宅で高品質なコーヒーを追求する喜びである。あなたのコーヒーライフを、より深く、より豊かにするための選択肢として、IGURAMUリッチブレンド2kgを検討してみる価値は大いにあるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/our-bestselling-premium-coffee-beans/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説</a> ／ <a href="/blog/postcoffee-subscription-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">ブルーマウンテン選べる定期便 vs くるりカフェオリジナルドリップ 徹底比較！どっちを選ぶべき？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>IGURAMUリッチブレンド2kg</strong></div>

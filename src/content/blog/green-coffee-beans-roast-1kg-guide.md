@@ -1,6 +1,6 @@
 ---
-title: '初心者のための「コーヒー生豆 焙煎用 1kg」完全選び方ガイド！失敗しないポイント'
-description: 'コーヒー生豆 焙煎用 1kgの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
+title: 'コーヒー生豆（焙煎用1kg）の選び方ガイド｜品種特性と手網・家庭用焙煎機との相性'
+description: '自宅焙煎向けコーヒー生豆1kgのチェックポイントを解説。ブラジル・エチオピアなど生産国別の味わい傾向やハンドピック基準、目的別おすすめ生豆を整理します。'
 pubDate: '2026-09-14'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/8coffee/cabinet/compass1730964130.jpg?_ex=600x600'
 genre: 'coffee'
@@ -108,7 +108,7 @@ sidebarProducts:
 
 また、生豆の色合いや欠点豆の有無もチェックしたいポイントだ。きれいな緑色をしていて、虫食いや割れた豆、未熟な豆（色がおかしいもの）が少ないものを選ぼう。
 
-欠点豆が多いと、焙煎中に焦げ付いたり、風味が悪くなる原因になる。販売店の情報で、欠点豆の選別状況が記載されているかを確認するのも良いだろう。
+欠点豆が多いと、焙煎中に焦げ付いたり、風味が悪くなる原因になる。販売店の情報で、欠点豆の選別状況が記載されているかを確認するのも有効だ。
 
 ## 目的別！おすすめの生豆1kg（初心者向け）
 
@@ -156,6 +156,8 @@ sidebarProducts:
 | --- | --- |
 | 価格 | 4,431円 |
 | 販売ショップ | 8coffee 楽天市場店 |
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/commodity-coffee-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">コモディティ生豆 vs 大容量ブラジル業務用コーヒー豆 徹底比較！どっちを選ぶべき？</a> ／ <a href="/blog/luxury-coffee-beans-gift-guide/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">高級コーヒー豆ギフトの選び方ガイド｜銘柄（ブルーマウンテン・ゲイシャ）と贈る相手別基準</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>ベトナム RADAR FARM Dungさんのアラビカ カティモール</strong></div>

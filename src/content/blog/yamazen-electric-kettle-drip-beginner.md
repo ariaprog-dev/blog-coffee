@@ -126,7 +126,9 @@ sidebarProducts:
 
 このケトルは、毎日のコーヒー体験を豊かにする。忙しい朝でも、時間を気にせず、美味しいコーヒーを淹れることが可能である。
 
-「湯温が安定せず、味がなかなか決まらない」「ドリップに自信がない」そんな悩みを抱えるなら、ぜひこのケトルを検討してみてほしい。きっと、あなたのコーヒーライフを次のステージへと引き上げてくれるだろう。
+「湯温が安定せず、味がなかなか決まらない」「ドリップに自信がない」そんな悩みを抱えるなら、ぜひこのケトルを検討してみてほしい。きっと、あなたのコーヒーライフを次のステージへと引き上げてくれるはずだ。
+
+<p class="internal-related-note" style="margin: 16px 0; padding: 10px 14px; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; font-size: 0.88rem; line-height: 1.6; color: #334155;">🔗 <strong>あわせて読みたい関連解説</strong>：<a href="/blog/temp-control-gooseneck-kettle-vs-comparison/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">温度設定機能付き電気ケトル 0.8L vs グースネック細口ドリップケトル 徹底比較！どっちを選ぶべき？</a> ／ <a href="/blog/ultra-fine-drip-pot-350ml-coffee/" style="color: #0369a1; font-weight: 600; text-decoration: underline;">極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？</a></p>
 
 <div class="affiliate-slim-links" style="margin: 18px 0 24px 0; padding: 12px 16px; border: 1px solid #e2e8f0; border-left: 4px solid #b45309; border-radius: 8px; background: #fffbeb; font-family: sans-serif;">
 <div style="font-size: 0.9rem; color: #1e293b; margin-bottom: 8px; line-height: 1.4;">🛒 <strong>電気ケトル 温度調節 ケトル グースネック 0 8L</strong></div>
